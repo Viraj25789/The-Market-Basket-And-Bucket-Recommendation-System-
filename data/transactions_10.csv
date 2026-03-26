@@ -1,0 +1,11 @@
+TransactionID,UserID,Items
+1,101,"Milk,Bread"
+2,102,"Milk,Bread,Butter"
+3,103,"Bread,Butter"
+4,104,"Milk,Butter"
+5,101,"Milk,Bread,Butter"
+6,102,"Eggs,Milk"
+7,103,"Bread,Cheese"
+8,104,"Milk,Cheese"
+9,105,"Eggs,Bread"
+10,101,"Milk,Butter,Cheese"

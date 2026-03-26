@@ -1,0 +1,5004 @@
+TransactionID,UserID,Items
+1,718,
+2,1248,
+3,210,"HDMI Cable,Smart Bulb,Monitor,Motherboard,Power Supply Unit"
+4,707,"Power Supply Unit,Cooling Pad,Wireless Mouse,External Hard Drive,Scanner"
+5,1356,"Tablet,VR Headset,Power Bank,Laptop"
+6,1286,Tablet
+7,359,"Power Supply Unit,Monitor,Wireless Mouse"
+8,199,
+9,193,"USB Cable,Tripod,Power Bank,Power Strip,Bluetooth Speaker"
+10,399,"Monitor,Smartphone,Bluetooth Speaker"
+11,961,CPU
+12,425,"Monitor,Scanner,Wireless Mouse,USB Hub,Smartwatch"
+13,1100,Laptop
+14,1132,Monitor
+15,186,"Motherboard,Printer,Wireless Mouse"
+16,994,
+17,511,"USB Cable,Wireless Mouse,Monitor"
+18,992,"RAM Stick,Motherboard,Power Strip"
+19,1004,USB Hub
+20,1371,"Smartwatch,Tablet,Power Bank,Laptop"
+21,1477,"Mechanical Keyboard,Laptop Stand,HDMI Cable,Graphics Card"
+22,237,"Tablet,Charger"
+23,1426,"Smart Bulb,USB Cable"
+24,1584,VR Headset
+25,1028,"Smartwatch,Charger"
+26,417,"Printer,Scanner,Graphics Card,USB Cable"
+27,414,Power Supply Unit
+28,1155,"Smart Bulb,Charger,VR Headset,Laptop"
+29,1181,"Bluetooth Speaker,Mechanical Keyboard"
+30,524,
+31,50,"CPU,Smart Bulb,RAM Stick"
+32,258,"Power Bank,Power Strip,Monitor,Microphone"
+33,742,"Motherboard,Smartphone,Laptop,Webcam,RAM Stick"
+34,658,"VR Headset,Mechanical Keyboard,SSD"
+35,649,"CPU,SSD,Tablet,Monitor,Headphones"
+36,1005,Smart Bulb
+37,910,"HDMI Cable,Cooling Pad,Tablet"
+38,623,"Webcam,WiFi Router,Smart Bulb"
+39,837,"USB Cable,Motherboard,CPU,Smartphone,SSD"
+40,1113,"USB Hub,Microphone,Wireless Mouse,SSD,Motherboard"
+41,345,RAM Stick
+42,519,"Monitor,Smart Bulb,Power Supply Unit"
+43,1169,Power Strip
+44,1036,"Mechanical Keyboard,Charger,Graphics Card"
+45,578,
+46,264,Wireless Mouse
+47,1335,
+48,728,"CPU,Laptop,Webcam,Smartphone,Mechanical Keyboard"
+49,1494,"WiFi Router,Wireless Mouse,Monitor"
+50,1540,"Charger,Motherboard"
+51,1022,"Tripod,WiFi Router,Graphics Card"
+52,1639,
+53,147,"External Hard Drive,Wireless Mouse,SSD"
+54,732,Bluetooth Speaker
+55,139,"HDMI Cable,WiFi Router,Bluetooth Speaker,VR Headset"
+56,522,"Mechanical Keyboard,Charger,Smartphone,CPU,Power Supply Unit"
+57,1392,Smartphone
+58,882,"Headphones,Mechanical Keyboard"
+59,571,"Graphics Card,Microphone,VR Headset"
+60,1038,"Scanner,Smartwatch"
+61,830,"SSD,WiFi Router,Graphics Card,Tripod,Power Bank"
+62,1567,"External Hard Drive,Laptop Stand,Webcam,WiFi Router"
+63,270,"Wireless Mouse,SSD,Graphics Card"
+64,770,"USB Hub,Scanner"
+65,1516,"Tablet,External Hard Drive,Smartphone,Tripod"
+66,1126,"Scanner,Smart Bulb"
+67,454,"Smartphone,Drone,Microphone,Printer,Motherboard"
+68,1086,"Power Strip,VR Headset,WiFi Router,Motherboard"
+69,349,"Laptop Stand,Laptop,Smart Bulb"
+70,335,
+71,33,Power Bank
+72,1644,RAM Stick
+73,1227,"Smart Bulb,Graphics Card,Power Bank"
+74,1416,"Printer,Motherboard"
+75,630,"VR Headset,CPU,Graphics Card,Tripod"
+76,1000,"Laptop,HDMI Cable,WiFi Router,Wireless Mouse,Monitor"
+77,341,Monitor
+78,185,"CPU,WiFi Router"
+79,125,"USB Cable,Smartwatch,VR Headset"
+80,789,CPU
+81,877,
+82,1416,"Mechanical Keyboard,USB Hub,Power Supply Unit,USB Cable"
+83,317,
+84,1394,"Graphics Card,Charger,CPU"
+85,353,Cooling Pad
+86,122,"Power Strip,Smartwatch,WiFi Router,External Hard Drive,Printer"
+87,1379,
+88,799,
+89,652,"Wireless Mouse,Laptop Stand,Cooling Pad,Drone"
+90,1244,Graphics Card
+91,1238,"Tripod,Motherboard,WiFi Router"
+92,1495,Power Bank
+93,607,"Smartwatch,Printer,CPU,USB Cable,HDMI Cable"
+94,1159,"Charger,Cooling Pad,WiFi Router"
+95,305,"Bluetooth Speaker,Mechanical Keyboard"
+96,1053,Laptop Stand
+97,972,"SSD,Laptop Stand"
+98,89,"RAM Stick,Tripod,Printer"
+99,548,Power Supply Unit
+100,1058,External Hard Drive
+101,1419,"Graphics Card,WiFi Router,Scanner,Tripod,Power Strip"
+102,745,
+103,206,"Mechanical Keyboard,Headphones,Laptop,Printer,Motherboard"
+104,130,
+105,301,"Smartwatch,Drone,Printer"
+106,1495,Laptop Stand
+107,1600,"USB Cable,USB Hub,Graphics Card,Charger"
+108,337,
+109,866,Smartwatch
+110,294,"USB Cable,HDMI Cable"
+111,657,Laptop Stand
+112,821,"Laptop,Monitor,Power Bank,Motherboard"
+113,535,"CPU,Headphones,Power Bank,Mechanical Keyboard,Bluetooth Speaker"
+114,1038,"WiFi Router,Smartphone"
+115,937,Bluetooth Speaker
+116,441,Headphones
+117,893,"Headphones,USB Cable"
+118,377,"Tripod,Headphones,VR Headset,Graphics Card"
+119,1342,"Laptop Stand,Motherboard,Smartphone,Power Supply Unit,Tripod"
+120,512,"Monitor,RAM Stick,Printer,Graphics Card"
+121,1264,"Graphics Card,Power Strip"
+122,1077,Wireless Mouse
+123,683,
+124,1648,"RAM Stick,Graphics Card,SSD"
+125,102,"Smartphone,Monitor,Tripod,Microphone"
+126,1261,"Laptop,HDMI Cable"
+127,1313,
+128,76,"Cooling Pad,Smartwatch,Power Supply Unit,Graphics Card"
+129,363,"Microphone,USB Cable,Cooling Pad"
+130,1629,"Power Bank,Headphones,Webcam"
+131,576,"CPU,Laptop"
+132,768,"Laptop,External Hard Drive,Bluetooth Speaker"
+133,724,"Graphics Card,Charger,CPU,Smartwatch"
+134,15,"Microphone,Mechanical Keyboard"
+135,919,"Bluetooth Speaker,Power Strip,USB Cable,Smartphone,Webcam"
+136,724,"Webcam,SSD"
+137,337,
+138,703,"Cooling Pad,SSD,USB Hub"
+139,1510,"Power Strip,HDMI Cable,Power Supply Unit,Tablet"
+140,297,"Bluetooth Speaker,HDMI Cable,VR Headset,RAM Stick,Power Bank"
+141,1137,"Headphones,Drone"
+142,1122,Cooling Pad
+143,1010,"Tablet,Power Strip,Power Bank,Laptop Stand,Wireless Mouse"
+144,528,"Cooling Pad,USB Cable,Charger,Power Strip"
+145,495,"Tablet,Printer,Power Bank,Power Supply Unit"
+146,871,"Headphones,Wireless Mouse"
+147,445,"VR Headset,Graphics Card"
+148,1311,"VR Headset,Graphics Card,Webcam,Bluetooth Speaker,Headphones"
+149,1356,"VR Headset,External Hard Drive"
+150,693,"Tablet,RAM Stick,Mechanical Keyboard,VR Headset,Power Strip"
+151,1397,Cooling Pad
+152,928,"Tripod,Webcam"
+153,735,
+154,1150,"Webcam,Microphone,Mechanical Keyboard,USB Hub"
+155,728,SSD
+156,1153,
+157,1556,"Smartphone,Drone,SSD"
+158,1055,"Drone,Laptop Stand,Wireless Mouse"
+159,567,"WiFi Router,Charger,Smartwatch,HDMI Cable,Cooling Pad"
+160,1444,"Power Bank,Charger,Laptop Stand,Bluetooth Speaker,Tablet"
+161,228,Cooling Pad
+162,734,
+163,489,"Drone,Monitor,Motherboard,Tablet"
+164,1247,"Laptop Stand,USB Hub,Scanner"
+165,1329,"HDMI Cable,Headphones,SSD,Drone"
+166,1626,"USB Hub,Headphones,RAM Stick,Mechanical Keyboard"
+167,1525,"Charger,Power Supply Unit,Headphones,RAM Stick,Wireless Mouse"
+168,281,"Smartwatch,Graphics Card,Smartphone,Cooling Pad"
+169,1369,"Laptop Stand,USB Cable,External Hard Drive"
+170,422,"Tripod,Laptop,Power Supply Unit,Webcam,CPU"
+171,978,"Power Supply Unit,Scanner"
+172,1051,Power Supply Unit
+173,277,"Wireless Mouse,Bluetooth Speaker,Motherboard"
+174,592,"Graphics Card,Tripod,Power Supply Unit"
+175,727,
+176,1077,"Charger,Smart Bulb"
+177,395,"Smartwatch,Smartphone,HDMI Cable,Webcam"
+178,1257,"Laptop Stand,WiFi Router"
+179,1467,
+180,662,"Microphone,Graphics Card,HDMI Cable"
+181,778,"Mechanical Keyboard,Smartwatch,CPU,Headphones"
+182,900,
+183,148,HDMI Cable
+184,203,"Power Strip,Bluetooth Speaker,USB Cable"
+185,1119,"WiFi Router,Tablet"
+186,1376,
+187,973,
+188,776,Monitor
+189,475,Graphics Card
+190,1412,"Tripod,Drone,SSD,Motherboard"
+191,1661,
+192,1364,"Graphics Card,Laptop Stand,VR Headset,Power Bank"
+193,816,"External Hard Drive,Cooling Pad,SSD,Printer"
+194,806,"Power Bank,Smartphone"
+195,1420,"Laptop,Charger"
+196,938,"Power Strip,Motherboard,RAM Stick,Power Bank,Monitor"
+197,1119,Mechanical Keyboard
+198,471,"Graphics Card,Bluetooth Speaker,Microphone,External Hard Drive"
+199,1305,Tablet
+200,968,"SSD,CPU"
+201,1278,"Mechanical Keyboard,Scanner,Laptop Stand"
+202,395,"Microphone,Power Supply Unit"
+203,413,"Tripod,Webcam,CPU"
+204,1140,"Tripod,Microphone,Power Strip,HDMI Cable"
+205,895,"Graphics Card,Graphics Card,Mechanical Keyboard,Headphones"
+206,1094,Tripod
+207,558,"CPU,Smartphone,Charger"
+208,955,"VR Headset,Headphones,Webcam,HDMI Cable"
+209,739,"Microphone,Scanner,VR Headset,Tripod"
+210,1380,"Laptop,Laptop Stand,Graphics Card,CPU"
+211,1498,"Smart Bulb,Motherboard,Power Supply Unit"
+212,1361,"Graphics Card,CPU,SSD,Tablet"
+213,1187,"Printer,Headphones,Charger,Power Bank"
+214,1084,
+215,266,
+216,1200,"CPU,Graphics Card,Charger,Power Strip"
+217,771,"RAM Stick,Microphone,Laptop Stand"
+218,1097,
+219,1329,
+220,1306,"Power Supply Unit,USB Hub"
+221,92,"Power Supply Unit,Headphones"
+222,1206,"Mechanical Keyboard,RAM Stick,Webcam"
+223,475,"Wireless Mouse,USB Cable,Tablet,Bluetooth Speaker,Monitor"
+224,1514,"Graphics Card,Microphone,Webcam"
+225,701,
+226,872,
+227,1453,"Laptop Stand,Power Strip,Tripod,Cooling Pad"
+228,547,"Graphics Card,Monitor"
+229,446,"Power Supply Unit,Laptop"
+230,174,
+231,718,"Printer,Motherboard"
+232,514,Laptop
+233,1261,"Power Bank,Laptop Stand"
+234,588,"CPU,Drone,Motherboard"
+235,98,"Cooling Pad,Laptop Stand,External Hard Drive,Laptop,Webcam"
+236,246,"Microphone,Printer,Tablet,CPU,SSD"
+237,984,"Charger,Bluetooth Speaker,Monitor,Power Strip"
+238,1098,"Power Supply Unit,Mechanical Keyboard,Drone,VR Headset,Graphics Card"
+239,891,"Headphones,CPU,Motherboard,Webcam"
+240,709,"Scanner,Graphics Card,Motherboard"
+241,1649,"Laptop Stand,Motherboard,Bluetooth Speaker,Power Bank,USB Cable"
+242,1321,
+243,912,"Tablet,Power Bank,Printer,USB Hub,SSD"
+244,1432,SSD
+245,1141,"Tripod,Bluetooth Speaker"
+246,802,"Cooling Pad,Laptop Stand,USB Cable,Monitor,USB Hub"
+247,950,Headphones
+248,846,"Smartphone,Microphone,Graphics Card,Charger"
+249,397,Smart Bulb
+250,956,"Laptop Stand,Graphics Card"
+251,67,"WiFi Router,Smartphone"
+252,344,"Smartwatch,Tripod"
+253,128,RAM Stick
+254,239,"USB Cable,Mechanical Keyboard,Smart Bulb,Microphone,Headphones"
+255,1244,
+256,1210,Graphics Card
+257,263,External Hard Drive
+258,501,"Cooling Pad,Power Bank"
+259,893,"USB Hub,Power Supply Unit,SSD"
+260,643,
+261,1468,"Motherboard,Graphics Card,Tablet,Cooling Pad,Microphone"
+262,468,"Smartphone,Tablet,Tripod,USB Cable,Laptop Stand"
+263,1664,"Power Supply Unit,External Hard Drive,Graphics Card"
+264,1613,"SSD,Mechanical Keyboard"
+265,1247,
+266,1588,
+267,574,
+268,472,"Charger,Graphics Card,Laptop,Wireless Mouse"
+269,1317,"SSD,Graphics Card,WiFi Router"
+270,1142,
+271,893,"Power Supply Unit,Graphics Card,Smartwatch,Motherboard,Tripod"
+272,806,Webcam
+273,766,"Tripod,Cooling Pad"
+274,1600,"Smartphone,Laptop,Drone,USB Hub"
+275,187,"Bluetooth Speaker,Monitor"
+276,913,"Drone,CPU,External Hard Drive,Scanner"
+277,381,"Power Supply Unit,Tripod,Charger"
+278,371,"USB Hub,Graphics Card"
+279,1167,"SSD,Smart Bulb,Tablet,Scanner"
+280,77,"Power Bank,SSD,Monitor,Tablet"
+281,1412,"Laptop,Motherboard"
+282,326,"VR Headset,Scanner"
+283,705,"Tripod,Bluetooth Speaker"
+284,1155,"Smartphone,Laptop"
+285,1632,"Smart Bulb,Power Supply Unit,Drone,External Hard Drive"
+286,695,"Headphones,Webcam,Bluetooth Speaker,Drone,CPU"
+287,116,"Smartwatch,Laptop,Headphones,VR Headset,Smartphone"
+288,1456,"Motherboard,Bluetooth Speaker"
+289,501,Motherboard
+290,1063,"Power Supply Unit,External Hard Drive,Wireless Mouse,Charger"
+291,208,"Scanner,External Hard Drive,Motherboard,SSD,Graphics Card"
+292,208,"Smartwatch,Charger,RAM Stick,Headphones"
+293,300,
+294,1453,
+295,1381,"Monitor,External Hard Drive,Motherboard,RAM Stick"
+296,985,"Smartphone,Drone,Charger,Microphone"
+297,898,Power Supply Unit
+298,1259,"Motherboard,Smartwatch"
+299,1078,
+300,1225,
+301,1660,"Graphics Card,External Hard Drive,Tripod,Bluetooth Speaker,Power Bank"
+302,1227,"Drone,Scanner,Power Supply Unit,Mechanical Keyboard,Motherboard"
+303,1463,"Laptop Stand,Power Supply Unit,Tablet,Drone,Scanner"
+304,586,WiFi Router
+305,191,Webcam
+306,907,
+307,636,"Microphone,Power Strip,SSD,HDMI Cable"
+308,1026,"Charger,Graphics Card"
+309,180,
+310,891,"Drone,Power Supply Unit,WiFi Router"
+311,1661,
+312,464,"Smartphone,Power Bank,HDMI Cable"
+313,125,Microphone
+314,247,"Tripod,Microphone,CPU,Bluetooth Speaker,Smartwatch"
+315,162,"Printer,HDMI Cable,Motherboard"
+316,1407,"Smartphone,Power Strip,Scanner"
+317,343,USB Hub
+318,1485,"Smart Bulb,Tablet,Wireless Mouse,Smartwatch"
+319,1408,
+320,496,"Smartwatch,Cooling Pad"
+321,1530,"Mechanical Keyboard,Tripod,Headphones,Smartwatch,Tablet"
+322,270,"Webcam,Printer,Power Bank,Mechanical Keyboard,HDMI Cable"
+323,1394,"Laptop Stand,Power Bank"
+324,342,"Graphics Card,Graphics Card,USB Hub"
+325,135,"Smartphone,Monitor,VR Headset,Mechanical Keyboard"
+326,1525,"Graphics Card,VR Headset,Headphones,External Hard Drive,RAM Stick"
+327,390,"Tablet,Laptop,Monitor"
+328,1418,"External Hard Drive,SSD,Mechanical Keyboard"
+329,214,
+330,796,"USB Hub,Scanner,Headphones,Mechanical Keyboard"
+331,65,"WiFi Router,Power Supply Unit,VR Headset"
+332,1250,"RAM Stick,Power Bank,Graphics Card,Charger,Monitor"
+333,628,"VR Headset,Laptop,USB Cable,Microphone"
+334,273,"Graphics Card,WiFi Router,Motherboard,Laptop"
+335,797,"Smartphone,Tripod,Printer"
+336,1344,"Wireless Mouse,Tripod,Power Supply Unit,Graphics Card,Laptop Stand"
+337,1301,"USB Cable,USB Hub"
+338,1307,USB Hub
+339,958,Power Supply Unit
+340,1500,"Cooling Pad,External Hard Drive,Laptop"
+341,1653,
+342,430,"Monitor,Drone,Laptop"
+343,356,"Graphics Card,Headphones,VR Headset,External Hard Drive,Scanner"
+344,550,"Power Supply Unit,Wireless Mouse,Motherboard"
+345,1410,"Graphics Card,Motherboard"
+346,346,"Tablet,USB Hub,Drone,Graphics Card,Webcam"
+347,367,"Cooling Pad,SSD,Monitor,Bluetooth Speaker,VR Headset"
+348,774,"Graphics Card,Power Strip,Power Bank,Headphones"
+349,1013,
+350,141,
+351,1653,"Monitor,USB Cable,Drone,Bluetooth Speaker"
+352,667,Webcam
+353,331,Tripod
+354,1383,
+355,1248,"USB Hub,Charger"
+356,745,Tablet
+357,1373,"Tripod,Laptop,HDMI Cable"
+358,659,"External Hard Drive,Tablet,Smart Bulb"
+359,851,"SSD,Laptop Stand,Graphics Card"
+360,1043,"WiFi Router,Graphics Card,HDMI Cable,SSD"
+361,648,"Smartphone,CPU,WiFi Router,USB Hub,Monitor"
+362,864,"Laptop,VR Headset,Headphones"
+363,209,
+364,1450,"Cooling Pad,Tablet,USB Cable,Smart Bulb,Laptop Stand"
+365,536,"Headphones,Scanner,HDMI Cable,VR Headset,Bluetooth Speaker"
+366,946,"Graphics Card,Motherboard,Webcam,Smartwatch,USB Cable"
+367,941,
+368,350,"Motherboard,Smartwatch,Webcam,Drone,Graphics Card"
+369,982,"Microphone,Webcam,Smartwatch,Printer,Laptop Stand"
+370,1202,
+371,1431,"Laptop,Laptop Stand"
+372,1302,"Printer,Laptop Stand,Wireless Mouse,Laptop,Headphones"
+373,5,"Webcam,External Hard Drive"
+374,1531,"Smartphone,Laptop Stand,External Hard Drive,Monitor,VR Headset"
+375,360,"Power Strip,Scanner,Power Supply Unit"
+376,186,"Scanner,SSD"
+377,1288,
+378,1124,Microphone
+379,88,"External Hard Drive,Graphics Card,Laptop"
+380,1015,"Bluetooth Speaker,WiFi Router,USB Hub,Power Supply Unit,CPU"
+381,1589,"Cooling Pad,Laptop,Scanner,HDMI Cable,VR Headset"
+382,1081,"CPU,Mechanical Keyboard,Tablet,Power Supply Unit,Printer"
+383,928,"RAM Stick,Graphics Card,Bluetooth Speaker,Cooling Pad"
+384,497,
+385,605,"Drone,Power Strip"
+386,1301,
+387,1635,"Laptop,Smartwatch,Microphone,Tripod"
+388,29,"WiFi Router,Graphics Card"
+389,667,"Microphone,Drone"
+390,1528,"Smart Bulb,Drone,USB Cable,Power Bank"
+391,299,Motherboard
+392,609,"Microphone,Wireless Mouse,Monitor,HDMI Cable"
+393,1632,"Smartwatch,Scanner"
+394,1088,"USB Hub,Bluetooth Speaker,Laptop Stand,Motherboard,Smart Bulb"
+395,628,"Tripod,Headphones,Webcam,Charger,Laptop Stand"
+396,887,"CPU,Power Bank"
+397,789,"Smartphone,HDMI Cable"
+398,1484,"HDMI Cable,Power Strip,Cooling Pad"
+399,606,"Laptop Stand,Power Bank,Motherboard"
+400,875,"Laptop Stand,Microphone,CPU,Tripod"
+401,376,"USB Hub,Headphones,HDMI Cable,RAM Stick"
+402,1126,"SSD,Drone,Smart Bulb,Tripod,USB Cable"
+403,1285,"Webcam,Scanner,CPU,Charger,HDMI Cable"
+404,393,
+405,1665,"Laptop,Cooling Pad"
+406,365,"Graphics Card,Tripod,Monitor"
+407,1422,"Graphics Card,Scanner,Smartwatch,VR Headset,HDMI Cable"
+408,267,
+409,53,"Mechanical Keyboard,USB Cable,Smartwatch,Smart Bulb,Webcam"
+410,844,"USB Cable,Tablet,Monitor"
+411,485,"Printer,Power Strip"
+412,109,"RAM Stick,Wireless Mouse,Monitor,Drone"
+413,1634,"Power Supply Unit,Webcam,CPU,Charger,VR Headset"
+414,701,"External Hard Drive,Power Supply Unit,HDMI Cable,Printer"
+415,567,SSD
+416,1497,"Tripod,Headphones,Drone,WiFi Router"
+417,931,"Tripod,Laptop Stand,Mechanical Keyboard,Scanner,WiFi Router"
+418,288,"Monitor,Mechanical Keyboard,Printer,USB Hub,Headphones"
+419,624,
+420,1244,Headphones
+421,408,"Scanner,HDMI Cable,Motherboard,Printer,Laptop Stand"
+422,1332,"Drone,Laptop,Power Supply Unit,WiFi Router,USB Cable"
+423,11,"RAM Stick,Mechanical Keyboard,CPU,Microphone,WiFi Router"
+424,693,
+425,1614,
+426,444,Motherboard
+427,192,Tripod
+428,1091,"Mechanical Keyboard,CPU,Laptop,Drone,USB Cable"
+429,1358,"USB Cable,VR Headset,HDMI Cable,Smartwatch,USB Hub"
+430,284,"WiFi Router,Cooling Pad"
+431,545,"VR Headset,RAM Stick,Graphics Card"
+432,1501,"Microphone,Drone"
+433,1407,"Laptop,Cooling Pad,Tripod,Power Supply Unit,CPU"
+434,757,Bluetooth Speaker
+435,670,"Drone,Cooling Pad"
+436,706,
+437,191,"HDMI Cable,Graphics Card,Power Supply Unit,CPU"
+438,567,"Tripod,SSD"
+439,544,Bluetooth Speaker
+440,309,"Printer,Tripod"
+441,1104,"Graphics Card,Tablet,Headphones,VR Headset,USB Hub"
+442,223,"Graphics Card,Mechanical Keyboard,Headphones"
+443,1616,
+444,1260,"Graphics Card,SSD,Laptop Stand,Power Supply Unit,RAM Stick"
+445,641,"Drone,HDMI Cable,Cooling Pad,Motherboard"
+446,942,"Headphones,Graphics Card,SSD,Tripod,Monitor"
+447,1580,Power Strip
+448,502,"WiFi Router,Power Supply Unit,Drone"
+449,1183,"Scanner,VR Headset,HDMI Cable,Drone"
+450,1466,"Power Supply Unit,USB Cable,Motherboard,WiFi Router,Smartwatch"
+451,751,"Power Bank,WiFi Router"
+452,808,
+453,51,"External Hard Drive,Motherboard,Smartwatch,Drone"
+454,1084,"Graphics Card,External Hard Drive,Microphone,Tablet,CPU"
+455,500,
+456,327,Laptop Stand
+457,1384,"Mechanical Keyboard,Power Supply Unit"
+458,1130,Tripod
+459,1438,"CPU,SSD"
+460,320,"Laptop,Bluetooth Speaker"
+461,1597,
+462,834,
+463,1166,"Smartwatch,Scanner,Monitor,USB Cable,Headphones"
+464,594,
+465,1482,"Graphics Card,Tripod,Monitor,CPU,Smartphone"
+466,687,"Smartphone,Webcam"
+467,1253,"USB Hub,VR Headset,Charger"
+468,712,USB Cable
+469,844,"Wireless Mouse,Webcam"
+470,1137,Tripod
+471,896,"SSD,Power Strip,RAM Stick,Webcam,Bluetooth Speaker"
+472,1314,"Printer,Power Strip"
+473,611,"Drone,Scanner,Cooling Pad"
+474,1598,"Laptop Stand,WiFi Router,Motherboard,SSD,External Hard Drive"
+475,871,"Wireless Mouse,SSD,Bluetooth Speaker"
+476,785,"Scanner,USB Hub,Mechanical Keyboard"
+477,1209,
+478,1227,"Webcam,Smartwatch,SSD"
+479,813,"Monitor,Bluetooth Speaker"
+480,864,Laptop
+481,574,Smartwatch
+482,137,Graphics Card
+483,53,
+484,381,Graphics Card
+485,1278,"USB Hub,Cooling Pad,Tripod"
+486,1472,"Charger,HDMI Cable,Printer,Laptop Stand"
+487,549,
+488,653,"Printer,Power Bank,Microphone,Tablet,Smartphone"
+489,1453,"Tablet,RAM Stick,Smart Bulb,USB Cable"
+490,828,"Cooling Pad,Smartphone,Laptop Stand,Tripod,External Hard Drive"
+491,522,"Headphones,Laptop,Scanner,Drone,WiFi Router"
+492,1571,
+493,1511,"Tablet,Smartphone,Cooling Pad"
+494,1430,Wireless Mouse
+495,918,
+496,1307,"Smartphone,Laptop,HDMI Cable,Power Bank,Smartwatch"
+497,316,Monitor
+498,264,Monitor
+499,130,"WiFi Router,Cooling Pad"
+500,1307,
+501,16,"Power Supply Unit,VR Headset,Drone"
+502,690,Power Bank
+503,886,"CPU,Mechanical Keyboard,Smartwatch,Drone"
+504,863,
+505,1567,"Graphics Card,Power Strip,Tripod"
+506,661,"Printer,Motherboard,Bluetooth Speaker"
+507,1533,Drone
+508,1517,Scanner
+509,1235,Mechanical Keyboard
+510,1460,
+511,539,"Laptop Stand,Scanner,Charger,Headphones"
+512,1434,"VR Headset,Smartwatch,External Hard Drive"
+513,1209,"Charger,Headphones,Smartwatch"
+514,1065,"Laptop,Smart Bulb,Microphone,USB Hub"
+515,1295,
+516,619,Smartwatch
+517,1310,"Smart Bulb,Printer"
+518,1468,"Smartwatch,Monitor"
+519,209,SSD
+520,943,"Tablet,Laptop,Power Bank,Monitor"
+521,957,"HDMI Cable,SSD,VR Headset,Bluetooth Speaker,Laptop"
+522,1584,"Laptop Stand,Power Bank,Laptop,CPU,Bluetooth Speaker"
+523,1574,"Power Supply Unit,Mechanical Keyboard,Headphones"
+524,1016,"USB Hub,Power Supply Unit,Graphics Card"
+525,1573,HDMI Cable
+526,1308,
+527,1023,"Monitor,Motherboard,Webcam"
+528,197,"Headphones,Tablet,Monitor,Graphics Card,VR Headset"
+529,1043,"Smartwatch,External Hard Drive,RAM Stick,USB Hub"
+530,646,
+531,1181,"Laptop,Bluetooth Speaker"
+532,481,
+533,1598,"Mechanical Keyboard,Cooling Pad,Power Supply Unit,Laptop Stand,RAM Stick"
+534,1568,"Graphics Card,VR Headset,Smartwatch"
+535,95,"Monitor,Scanner,Charger,Power Supply Unit,Cooling Pad"
+536,274,"VR Headset,Graphics Card,Scanner"
+537,769,"WiFi Router,VR Headset,Cooling Pad,Motherboard"
+538,589,"Headphones,Smart Bulb,Drone,Tablet"
+539,892,"Charger,WiFi Router,External Hard Drive"
+540,1500,"Drone,Smartwatch,Laptop Stand,Headphones"
+541,1586,"Smart Bulb,WiFi Router"
+542,461,"Graphics Card,Laptop Stand,Monitor,Scanner,Graphics Card"
+543,1042,"Mechanical Keyboard,USB Cable"
+544,863,
+545,78,"Drone,Smart Bulb,Laptop Stand,Power Bank"
+546,630,Drone
+547,65,"Smartphone,VR Headset"
+548,231,"CPU,Power Supply Unit,Motherboard"
+549,159,"Tablet,Smartphone"
+550,202,"USB Cable,Headphones,Motherboard,Microphone,Laptop"
+551,1345,Printer
+552,1286,
+553,1242,"Headphones,Drone,Tablet,SSD"
+554,498,"VR Headset,Power Strip,HDMI Cable,Smartwatch"
+555,902,"Graphics Card,Webcam,Laptop Stand,Power Bank"
+556,1037,"WiFi Router,HDMI Cable"
+557,310,Scanner
+558,1011,"Power Supply Unit,Mechanical Keyboard"
+559,919,"Drone,Graphics Card,Laptop,WiFi Router"
+560,1515,"Wireless Mouse,Cooling Pad,VR Headset"
+561,1627,
+562,728,Microphone
+563,453,"Charger,Smartwatch,RAM Stick,Cooling Pad,Bluetooth Speaker"
+564,1215,
+565,1520,"Wireless Mouse,Power Strip"
+566,407,"Motherboard,RAM Stick"
+567,196,
+568,734,Scanner
+569,1510,RAM Stick
+570,371,"RAM Stick,Scanner,Tablet,Bluetooth Speaker"
+571,831,"Motherboard,Scanner,Cooling Pad,USB Cable"
+572,257,"Bluetooth Speaker,Cooling Pad,Smart Bulb"
+573,1563,"Drone,Cooling Pad,Mechanical Keyboard,Headphones,SSD"
+574,962,"USB Cable,Scanner,Laptop,Power Strip"
+575,49,"HDMI Cable,Motherboard"
+576,1054,"Tablet,Headphones,Monitor,Smartphone,Motherboard"
+577,688,"External Hard Drive,Webcam,Mechanical Keyboard,Wireless Mouse"
+578,351,"Graphics Card,Cooling Pad"
+579,1135,"External Hard Drive,Tripod"
+580,1134,"Smart Bulb,Cooling Pad,Power Supply Unit"
+581,1658,Power Bank
+582,1652,
+583,705,"Power Strip,Tablet,External Hard Drive"
+584,156,"Motherboard,Charger,Wireless Mouse,Cooling Pad,Graphics Card"
+585,281,"Tablet,External Hard Drive,Scanner,Charger,Power Bank"
+586,1595,"RAM Stick,Webcam,Drone,USB Cable,Wireless Mouse"
+587,1024,"Drone,VR Headset,Webcam,Smartphone"
+588,1162,"RAM Stick,Power Strip,Charger"
+589,945,"Graphics Card,Scanner,Bluetooth Speaker"
+590,1550,"Headphones,Webcam,Bluetooth Speaker,USB Hub"
+591,11,Laptop Stand
+592,196,"Webcam,USB Hub,Smart Bulb,Mechanical Keyboard,Drone"
+593,1097,
+594,485,
+595,85,Headphones
+596,1507,Cooling Pad
+597,843,"External Hard Drive,RAM Stick,CPU,Graphics Card,USB Cable"
+598,276,"Power Supply Unit,Graphics Card,Scanner"
+599,955,Headphones
+600,1647,
+601,1385,
+602,1577,"Laptop,Smartwatch"
+603,1060,Motherboard
+604,1623,
+605,557,"SSD,Smartphone,Smart Bulb"
+606,1064,"USB Hub,Headphones"
+607,573,
+608,852,"Cooling Pad,Wireless Mouse,Scanner,Smart Bulb"
+609,496,
+610,1126,
+611,1115,"WiFi Router,Graphics Card,CPU,Laptop,Headphones"
+612,128,
+613,1287,"Scanner,Headphones"
+614,975,"Bluetooth Speaker,RAM Stick,Smart Bulb"
+615,26,External Hard Drive
+616,416,"Printer,VR Headset,Drone"
+617,752,RAM Stick
+618,1461,"Wireless Mouse,Printer,Laptop,Monitor,Smartwatch"
+619,1243,"Microphone,Cooling Pad,Monitor,Graphics Card,External Hard Drive"
+620,1052,
+621,789,Laptop
+622,656,SSD
+623,25,"CPU,Scanner,Power Strip"
+624,1397,"Tripod,Power Supply Unit,Motherboard,SSD"
+625,1467,"Laptop,Microphone,Power Supply Unit,External Hard Drive,Motherboard"
+626,1636,"Laptop Stand,Webcam,USB Hub,Headphones"
+627,1097,Power Bank
+628,1169,VR Headset
+629,585,"Laptop,Laptop Stand,Graphics Card"
+630,1277,"Laptop Stand,Laptop"
+631,1357,
+632,436,Graphics Card
+633,97,"Cooling Pad,Smart Bulb"
+634,701,
+635,39,WiFi Router
+636,916,"Printer,Drone"
+637,348,"RAM Stick,Power Strip"
+638,923,"Graphics Card,HDMI Cable,Cooling Pad,USB Cable"
+639,411,"Laptop Stand,Power Bank"
+640,587,"WiFi Router,Webcam,Graphics Card,Smartwatch"
+641,317,"RAM Stick,Smartphone"
+642,1287,
+643,271,Charger
+644,458,
+645,1222,"Graphics Card,Mechanical Keyboard"
+646,187,"Webcam,Laptop Stand,External Hard Drive,Scanner,Graphics Card"
+647,710,"Laptop Stand,Tripod"
+648,252,Motherboard
+649,1517,Power Bank
+650,1242,"Smart Bulb,SSD"
+651,689,"Graphics Card,CPU,Tripod"
+652,1017,"Power Strip,Charger,USB Cable,Bluetooth Speaker"
+653,227,"Charger,CPU,Graphics Card,Smart Bulb"
+654,1061,"Tripod,WiFi Router,Smartphone,External Hard Drive"
+655,1446,"WiFi Router,CPU,Smart Bulb"
+656,140,"VR Headset,Power Strip"
+657,1345,"CPU,Graphics Card,Headphones,WiFi Router,RAM Stick"
+658,1451,"VR Headset,Graphics Card,Webcam"
+659,230,
+660,1272,"Smart Bulb,Smartphone"
+661,1503,"Monitor,USB Hub"
+662,1405,"Laptop,Power Bank"
+663,390,"HDMI Cable,Bluetooth Speaker,External Hard Drive,Graphics Card,Headphones"
+664,221,
+665,1589,"USB Hub,Motherboard"
+666,1458,"Microphone,Smartwatch,Headphones,Graphics Card"
+667,124,"USB Cable,Graphics Card,Power Bank,Printer"
+668,954,"Graphics Card,External Hard Drive,Smart Bulb"
+669,256,"Mechanical Keyboard,Wireless Mouse"
+670,256,"Laptop Stand,Monitor,Webcam,Power Supply Unit,RAM Stick"
+671,773,"VR Headset,HDMI Cable,Smartwatch"
+672,487,"Laptop Stand,Power Supply Unit,Scanner"
+673,1357,"Power Bank,Printer"
+674,1025,"Power Supply Unit,HDMI Cable"
+675,510,"Monitor,Motherboard,External Hard Drive,CPU,USB Hub"
+676,1371,"Bluetooth Speaker,Charger,Microphone,WiFi Router,Laptop"
+677,96,"Webcam,Smartphone,CPU,Smart Bulb"
+678,643,"Tripod,Monitor,Power Strip,HDMI Cable"
+679,1555,"HDMI Cable,Laptop,Scanner,Tablet,Graphics Card"
+680,133,"Motherboard,Power Supply Unit"
+681,458,"CPU,Smartwatch,Drone,Webcam,Smart Bulb"
+682,1227,"Bluetooth Speaker,Laptop,Power Strip"
+683,401,"Smart Bulb,Tablet,Power Bank,Drone"
+684,1046,"HDMI Cable,Motherboard"
+685,1545,"RAM Stick,HDMI Cable,VR Headset"
+686,115,
+687,344,
+688,257,"Cooling Pad,Drone,Mechanical Keyboard,Tablet,Bluetooth Speaker"
+689,1349,"Graphics Card,WiFi Router,Scanner,Bluetooth Speaker,External Hard Drive"
+690,1470,"Mechanical Keyboard,Graphics Card,USB Cable,External Hard Drive,Microphone"
+691,409,
+692,671,
+693,918,"Mechanical Keyboard,VR Headset"
+694,739,"Graphics Card,Bluetooth Speaker,Mechanical Keyboard"
+695,419,"Webcam,Tripod,Smartwatch,CPU,Monitor"
+696,1202,"Smartphone,USB Cable,Smartwatch,Cooling Pad,Bluetooth Speaker"
+697,1640,"Cooling Pad,Wireless Mouse,Power Strip"
+698,741,"HDMI Cable,Microphone,Wireless Mouse,Power Strip"
+699,743,"Monitor,Drone,Wireless Mouse,Motherboard"
+700,267,Smart Bulb
+701,531,"External Hard Drive,Webcam,Drone"
+702,387,"Graphics Card,USB Cable"
+703,1372,
+704,1212,"SSD,WiFi Router,VR Headset,Scanner"
+705,1277,"Mechanical Keyboard,Wireless Mouse,Bluetooth Speaker,Tripod"
+706,655,"Printer,WiFi Router,Laptop"
+707,1575,Tablet
+708,290,"Drone,Printer,Tripod"
+709,830,"Printer,USB Cable,Headphones"
+710,1564,"SSD,Headphones"
+711,826,"Power Strip,CPU,Power Bank"
+712,1153,"WiFi Router,SSD,Motherboard"
+713,1142,Smartwatch
+714,832,"HDMI Cable,Headphones,Graphics Card"
+715,827,"Power Bank,Power Strip,HDMI Cable,Wireless Mouse,Graphics Card"
+716,279,"Bluetooth Speaker,HDMI Cable,Headphones,Tablet"
+717,594,
+718,1464,
+719,900,"RAM Stick,Graphics Card,Monitor,Headphones"
+720,125,"Cooling Pad,USB Hub,Power Supply Unit,External Hard Drive"
+721,1107,"Power Bank,Tablet,Monitor"
+722,907,HDMI Cable
+723,1082,"CPU,Graphics Card,Tripod,Scanner,Cooling Pad"
+724,588,
+725,1521,"Tablet,Power Supply Unit,HDMI Cable,Cooling Pad,External Hard Drive"
+726,1209,"SSD,USB Hub,Bluetooth Speaker"
+727,75,"SSD,Graphics Card,Smart Bulb,Webcam"
+728,379,USB Hub
+729,29,Microphone
+730,1549,"USB Hub,Power Strip"
+731,114,"Scanner,VR Headset,Tablet"
+732,1382,"Power Strip,External Hard Drive,Wireless Mouse,Charger,Cooling Pad"
+733,501,
+734,966,"Headphones,Charger,Webcam,Drone"
+735,1438,"Tripod,Smartwatch,Laptop Stand,Power Bank"
+736,1536,"Motherboard,USB Cable"
+737,1315,
+738,608,
+739,441,"Printer,Power Supply Unit,Laptop,Smart Bulb"
+740,919,"External Hard Drive,Smartphone,Graphics Card,Charger,Smartwatch"
+741,579,
+742,1451,"Bluetooth Speaker,Graphics Card,Headphones"
+743,55,"Graphics Card,Wireless Mouse"
+744,1088,"Graphics Card,Graphics Card,WiFi Router,Smart Bulb,CPU"
+745,1371,"USB Hub,Smartphone,Cooling Pad,Motherboard"
+746,1242,"Webcam,Graphics Card,Laptop Stand,Power Strip"
+747,952,"USB Hub,Power Bank,Webcam,Motherboard"
+748,801,"Charger,Monitor"
+749,281,"Drone,Bluetooth Speaker"
+750,1180,"Tablet,Power Bank"
+751,1268,"WiFi Router,Bluetooth Speaker,Webcam,Wireless Mouse"
+752,245,
+753,826,"Webcam,RAM Stick,Wireless Mouse"
+754,555,USB Hub
+755,1329,
+756,242,"USB Cable,Printer,Charger"
+757,1434,Printer
+758,1328,"Laptop,USB Hub,Wireless Mouse"
+759,468,"Power Supply Unit,Printer"
+760,1110,VR Headset
+761,570,"Monitor,HDMI Cable,Smartwatch,SSD"
+762,102,"Webcam,USB Hub"
+763,1248,"Power Strip,Power Bank,WiFi Router,Monitor"
+764,168,"RAM Stick,USB Cable,Laptop Stand,Microphone,Power Supply Unit"
+765,1311,Smart Bulb
+766,1081,"Bluetooth Speaker,Power Strip"
+767,103,"Power Strip,Scanner,HDMI Cable,Mechanical Keyboard,Graphics Card"
+768,929,"Charger,Smartphone,RAM Stick,Wireless Mouse"
+769,238,Smartwatch
+770,21,Laptop Stand
+771,1161,"Drone,Bluetooth Speaker,Graphics Card"
+772,1434,"Power Bank,Power Strip,USB Cable"
+773,485,
+774,736,
+775,392,"Webcam,Laptop"
+776,99,
+777,744,Mechanical Keyboard
+778,1352,"Webcam,SSD"
+779,174,"Smartphone,Tablet,Charger,Wireless Mouse"
+780,89,"Graphics Card,Cooling Pad,External Hard Drive,Webcam"
+781,791,
+782,717,"Headphones,Tablet,Cooling Pad,External Hard Drive"
+783,40,"SSD,Printer,Microphone,CPU"
+784,374,"HDMI Cable,Graphics Card"
+785,1629,"Laptop Stand,Scanner"
+786,1543,
+787,353,"Wireless Mouse,Motherboard,Laptop,CPU,Headphones"
+788,456,"Graphics Card,Monitor"
+789,1542,
+790,1626,"Tablet,Monitor,USB Cable,Printer"
+791,206,"Printer,Mechanical Keyboard"
+792,1520,"Microphone,WiFi Router,CPU,Power Supply Unit"
+793,350,"Power Strip,Power Bank,Bluetooth Speaker,Headphones"
+794,839,"Wireless Mouse,Scanner,Bluetooth Speaker,Power Supply Unit"
+795,1527,"Power Strip,Power Supply Unit"
+796,798,
+797,44,USB Hub
+798,465,"Charger,USB Cable"
+799,1210,Monitor
+800,31,"Laptop,Graphics Card,Graphics Card,Printer,Power Supply Unit"
+801,821,"CPU,Graphics Card,Bluetooth Speaker,Power Supply Unit,Power Bank"
+802,1261,"Smartwatch,Graphics Card,WiFi Router,Motherboard"
+803,1389,
+804,1326,
+805,99,"CPU,Drone,Tripod,Smartwatch"
+806,1417,"RAM Stick,External Hard Drive,Power Supply Unit,Smartwatch"
+807,454,Monitor
+808,1654,"CPU,Tripod,Mechanical Keyboard"
+809,1552,"Laptop,Graphics Card,Tripod,Drone,Mechanical Keyboard"
+810,772,Bluetooth Speaker
+811,677,"USB Cable,SSD,Tripod,Cooling Pad,Smart Bulb"
+812,531,"Wireless Mouse,Scanner,Bluetooth Speaker,HDMI Cable,Graphics Card"
+813,395,"Power Bank,WiFi Router,Tablet"
+814,561,Graphics Card
+815,81,"Headphones,Bluetooth Speaker,Power Supply Unit,Smart Bulb,Graphics Card"
+816,1106,RAM Stick
+817,1477,"Smart Bulb,HDMI Cable,Headphones,Scanner"
+818,1551,"Wireless Mouse,Cooling Pad,CPU,Monitor,Drone"
+819,1378,"SSD,VR Headset"
+820,1435,"Graphics Card,USB Hub,Headphones,Mechanical Keyboard,External Hard Drive"
+821,192,"Monitor,USB Cable,Headphones,Drone,Cooling Pad"
+822,593,"Power Strip,Tablet,HDMI Cable,Drone,VR Headset"
+823,1557,"Scanner,Power Strip,Printer"
+824,1237,"Motherboard,Graphics Card"
+825,1350,"Laptop Stand,Graphics Card,Scanner"
+826,695,"Power Supply Unit,RAM Stick"
+827,1468,"External Hard Drive,Power Bank,Scanner,Laptop Stand,Tablet"
+828,424,Microphone
+829,309,"Webcam,Smart Bulb,Power Strip,Mechanical Keyboard"
+830,1110,"Graphics Card,Power Bank,External Hard Drive"
+831,1431,CPU
+832,1157,"Headphones,Graphics Card,Motherboard,Smartwatch"
+833,674,"Smartphone,Power Bank,Graphics Card,HDMI Cable"
+834,1208,"Wireless Mouse,Drone,CPU,SSD,Laptop Stand"
+835,1325,"Webcam,Headphones,Drone,Power Supply Unit,RAM Stick"
+836,166,"Tripod,Drone"
+837,514,
+838,268,"Cooling Pad,Drone,Charger,Monitor"
+839,480,"Headphones,External Hard Drive"
+840,234,"Smart Bulb,USB Cable"
+841,1632,
+842,873,"USB Cable,Motherboard"
+843,1202,"Webcam,HDMI Cable,Motherboard"
+844,214,"Power Bank,Graphics Card"
+845,1591,
+846,1067,"Graphics Card,CPU"
+847,80,
+848,1439,"RAM Stick,Power Supply Unit,Drone,Smart Bulb,Tablet"
+849,847,
+850,428,"HDMI Cable,Tablet,Monitor"
+851,1062,"Headphones,Charger,HDMI Cable"
+852,1113,"Wireless Mouse,Power Bank,Smart Bulb,Power Supply Unit,RAM Stick"
+853,862,"Tablet,Smartphone,RAM Stick,Mechanical Keyboard,Power Strip"
+854,1610,"Tripod,VR Headset,Cooling Pad,Bluetooth Speaker,Charger"
+855,1508,
+856,1618,"SSD,Motherboard,Headphones"
+857,485,"Monitor,External Hard Drive"
+858,1573,
+859,82,"Graphics Card,Smart Bulb"
+860,1600,"WiFi Router,Tripod,Power Bank"
+861,55,WiFi Router
+862,1197,"Drone,Tripod,USB Hub,Graphics Card,Webcam"
+863,550,"Motherboard,Graphics Card,Cooling Pad,Smartwatch"
+864,292,"Smartwatch,Power Strip,USB Cable"
+865,1094,"Charger,Tripod"
+866,117,"Motherboard,Power Supply Unit,Power Strip,Smart Bulb,Tripod"
+867,1647,"Smartwatch,Laptop"
+868,407,
+869,983,"Microphone,Bluetooth Speaker,Webcam,USB Cable"
+870,1578,"Webcam,Tablet,Tripod,Cooling Pad"
+871,1200,"RAM Stick,Smartphone,VR Headset,External Hard Drive"
+872,1574,"Monitor,Power Supply Unit,Smartwatch,Tablet"
+873,51,Printer
+874,1517,
+875,944,"Mechanical Keyboard,USB Hub"
+876,919,"Tripod,Cooling Pad,Charger"
+877,331,Power Strip
+878,801,Graphics Card
+879,1228,"HDMI Cable,CPU,Graphics Card,Monitor"
+880,219,"Graphics Card,Drone,Headphones,Mechanical Keyboard"
+881,1081,"Laptop Stand,External Hard Drive,Smart Bulb,Power Strip,Tablet"
+882,962,"USB Cable,WiFi Router"
+883,1532,"HDMI Cable,Bluetooth Speaker"
+884,506,"Monitor,Charger,External Hard Drive,Wireless Mouse,RAM Stick"
+885,60,"Laptop Stand,VR Headset,Microphone,RAM Stick,Printer"
+886,314,"Laptop Stand,Smartphone,Smart Bulb,HDMI Cable,Charger"
+887,957,
+888,373,VR Headset
+889,961,"Microphone,USB Cable"
+890,598,"USB Hub,Laptop,Wireless Mouse,RAM Stick"
+891,487,"Power Strip,Charger"
+892,1626,"USB Hub,SSD,Smart Bulb"
+893,1508,CPU
+894,465,Drone
+895,1624,"Smartphone,Wireless Mouse,Laptop Stand,Webcam,Microphone"
+896,834,"Bluetooth Speaker,Power Bank,Mechanical Keyboard,CPU"
+897,1528,Webcam
+898,1649,"Scanner,Laptop Stand,Microphone,Drone"
+899,302,"RAM Stick,Drone,Tripod"
+900,199,"Smartphone,Power Supply Unit,Power Strip,USB Cable,Cooling Pad"
+901,1362,"Monitor,Laptop Stand,SSD"
+902,864,Printer
+903,1250,
+904,771,"Monitor,Tripod"
+905,445,"USB Hub,Laptop,Power Supply Unit,Webcam,Monitor"
+906,1004,"Mechanical Keyboard,WiFi Router,Tablet"
+907,821,USB Hub
+908,709,"CPU,Smartphone,SSD,Wireless Mouse,RAM Stick"
+909,810,
+910,636,"Graphics Card,USB Cable,Power Strip,Monitor"
+911,990,"USB Hub,Cooling Pad,Smartphone"
+912,763,"Wireless Mouse,Tablet,Tripod,SSD"
+913,926,"Cooling Pad,Wireless Mouse"
+914,872,"Laptop,Power Supply Unit,Graphics Card,Microphone"
+915,194,"Smartphone,Wireless Mouse"
+916,1461,"Printer,Laptop Stand,WiFi Router,Motherboard"
+917,385,"Webcam,HDMI Cable"
+918,1629,"USB Cable,Laptop Stand,Bluetooth Speaker"
+919,1432,"Power Strip,External Hard Drive,CPU,Laptop"
+920,1422,"RAM Stick,CPU,Mechanical Keyboard,Power Bank"
+921,60,Power Bank
+922,1240,"Charger,Headphones,Smartwatch,Microphone,Smartphone"
+923,1553,"Microphone,Charger,Laptop,Scanner"
+924,332,"Tripod,HDMI Cable"
+925,1305,
+926,878,"Power Bank,Monitor,Cooling Pad,RAM Stick"
+927,1078,"RAM Stick,External Hard Drive"
+928,1540,"Charger,Tablet,Graphics Card,Microphone,Webcam"
+929,1085,"External Hard Drive,WiFi Router"
+930,497,
+931,128,"Headphones,Smartphone,Graphics Card,HDMI Cable"
+932,1027,"VR Headset,WiFi Router,Graphics Card,HDMI Cable,Power Bank"
+933,338,"Motherboard,Wireless Mouse,Laptop Stand"
+934,1605,"External Hard Drive,Smart Bulb,Wireless Mouse,Graphics Card,Power Supply Unit"
+935,1639,"Tablet,Power Supply Unit,Mechanical Keyboard,VR Headset,Laptop"
+936,1350,"Printer,VR Headset"
+937,516,"Drone,USB Cable,Bluetooth Speaker,HDMI Cable,SSD"
+938,375,
+939,313,"Power Bank,Graphics Card"
+940,704,External Hard Drive
+941,183,"Laptop,Laptop Stand,VR Headset"
+942,902,Smartphone
+943,1626,
+944,1268,"Motherboard,Mechanical Keyboard,HDMI Cable"
+945,1174,"External Hard Drive,Smartphone,SSD,Wireless Mouse,Tripod"
+946,1113,
+947,382,
+948,343,"RAM Stick,CPU,SSD,Mechanical Keyboard"
+949,887,"Printer,VR Headset"
+950,134,"Headphones,SSD,Power Strip,Mechanical Keyboard"
+951,419,
+952,822,"Tripod,Graphics Card,Bluetooth Speaker,WiFi Router,Graphics Card"
+953,388,"USB Hub,Scanner,Charger"
+954,1218,"Mechanical Keyboard,USB Cable,Graphics Card,Tripod,RAM Stick"
+955,1516,
+956,1356,"VR Headset,Wireless Mouse"
+957,762,"Power Bank,Microphone"
+958,356,"Mechanical Keyboard,Smartphone,Bluetooth Speaker,Headphones"
+959,1482,"Tablet,Headphones,Cooling Pad,Monitor"
+960,166,
+961,1042,"HDMI Cable,Smart Bulb"
+962,1466,"USB Hub,SSD,Wireless Mouse"
+963,1421,"USB Hub,Cooling Pad,Tablet"
+964,304,Smartphone
+965,1472,"Power Bank,Tripod,VR Headset,Charger"
+966,770,"Cooling Pad,USB Cable"
+967,1506,"HDMI Cable,Laptop,Webcam,Drone,Tablet"
+968,1387,"Scanner,Power Bank,VR Headset,USB Cable"
+969,1264,"Charger,Smart Bulb,Tripod,Graphics Card"
+970,101,"Cooling Pad,Wireless Mouse,Tripod,Microphone,HDMI Cable"
+971,799,"VR Headset,Graphics Card,Microphone,SSD,USB Cable"
+972,796,
+973,185,RAM Stick
+974,483,
+975,997,"Laptop,Graphics Card"
+976,197,
+977,568,"Webcam,Printer,USB Cable,RAM Stick"
+978,1404,"Microphone,USB Hub,Graphics Card,Mechanical Keyboard,Motherboard"
+979,202,"Microphone,Power Supply Unit"
+980,212,Smart Bulb
+981,1402,"Microphone,Laptop Stand"
+982,884,Motherboard
+983,1440,"RAM Stick,Printer,Monitor,Graphics Card"
+984,144,"VR Headset,Bluetooth Speaker,Graphics Card"
+985,410,"Webcam,Mechanical Keyboard,Scanner,Laptop Stand,Power Bank"
+986,1579,"Mechanical Keyboard,Power Bank"
+987,1349,"Smart Bulb,Bluetooth Speaker,WiFi Router"
+988,1170,USB Hub
+989,1665,Charger
+990,1061,
+991,388,"USB Cable,Webcam,Monitor"
+992,1140,"Motherboard,Scanner"
+993,592,Power Strip
+994,1238,"HDMI Cable,Graphics Card,Webcam,Drone,Graphics Card"
+995,246,
+996,343,
+997,1169,"SSD,Motherboard,Drone"
+998,1437,"Laptop Stand,Headphones,Mechanical Keyboard,RAM Stick,SSD"
+999,1628,Cooling Pad
+1000,1453,USB Cable
+1001,1608,"Bluetooth Speaker,Smart Bulb"
+1002,1228,
+1003,422,
+1004,702,"SSD,Tablet,Power Strip,USB Cable"
+1005,597,
+1006,1205,"Monitor,USB Hub,Drone"
+1007,296,"Mechanical Keyboard,Power Strip,Cooling Pad,Graphics Card"
+1008,580,"Charger,Microphone"
+1009,889,"HDMI Cable,Laptop Stand,Drone,RAM Stick"
+1010,1350,"Smart Bulb,Power Strip,Webcam,Tripod"
+1011,397,"Mechanical Keyboard,USB Hub,Smart Bulb,Smartphone"
+1012,98,
+1013,770,External Hard Drive
+1014,1202,"Smart Bulb,Tripod,Power Strip,CPU,USB Hub"
+1015,1018,"RAM Stick,Tablet,Power Supply Unit,Headphones"
+1016,662,"Monitor,Microphone"
+1017,10,
+1018,1376,"VR Headset,Power Supply Unit,Wireless Mouse"
+1019,162,"Power Strip,CPU,Power Bank,Webcam,Smart Bulb"
+1020,1400,Scanner
+1021,986,
+1022,1435,"Laptop,Monitor,RAM Stick,Smartwatch,Tablet"
+1023,367,"Smartwatch,Wireless Mouse,Motherboard,Smartphone"
+1024,724,"Scanner,Tripod,Power Strip,Bluetooth Speaker"
+1025,1597,"SSD,Smartphone"
+1026,667,"Printer,Bluetooth Speaker"
+1027,1026,"Wireless Mouse,Laptop Stand"
+1028,1383,"Headphones,Drone,Smart Bulb,Motherboard,Tripod"
+1029,693,"Bluetooth Speaker,Drone,Motherboard,Graphics Card"
+1030,262,"USB Cable,Wireless Mouse,Drone,CPU,USB Hub"
+1031,1096,"Power Supply Unit,Headphones,Laptop Stand,Motherboard"
+1032,329,
+1033,776,"SSD,Graphics Card,WiFi Router"
+1034,963,
+1035,52,Wireless Mouse
+1036,399,
+1037,1457,Drone
+1038,28,"Graphics Card,Smartphone"
+1039,34,"CPU,Graphics Card"
+1040,58,"Graphics Card,Monitor,Motherboard,Headphones"
+1041,867,"Tripod,USB Cable"
+1042,673,"Graphics Card,Power Supply Unit"
+1043,791,"CPU,Power Supply Unit,HDMI Cable,RAM Stick"
+1044,1407,"Printer,RAM Stick,Power Strip,USB Hub"
+1045,883,"Printer,Motherboard,USB Hub"
+1046,1205,"WiFi Router,Graphics Card,Laptop,Wireless Mouse"
+1047,453,Tablet
+1048,919,"Webcam,Headphones"
+1049,1402,"Mechanical Keyboard,Webcam,Motherboard"
+1050,1230,"Power Strip,Power Bank,CPU"
+1051,360,"Motherboard,Mechanical Keyboard,External Hard Drive,Wireless Mouse,Drone"
+1052,998,"Graphics Card,Monitor"
+1053,64,"RAM Stick,Power Bank"
+1054,1445,"Monitor,Motherboard,Scanner,Tablet,External Hard Drive"
+1055,548,"Printer,External Hard Drive,Cooling Pad,Bluetooth Speaker,SSD"
+1056,668,
+1057,351,"VR Headset,External Hard Drive,Laptop Stand"
+1058,11,"VR Headset,SSD"
+1059,1466,"Printer,Microphone"
+1060,1212,"Tripod,Webcam,Monitor,Smartwatch"
+1061,1115,HDMI Cable
+1062,1116,"Bluetooth Speaker,Drone,Smart Bulb,USB Cable,External Hard Drive"
+1063,781,"Printer,Laptop"
+1064,172,
+1065,1172,"Power Bank,Headphones,Monitor"
+1066,477,Headphones
+1067,1258,"Tripod,CPU"
+1068,1527,"Motherboard,Tripod,Scanner,Bluetooth Speaker"
+1069,1632,"Tablet,Graphics Card,Webcam,Monitor"
+1070,3,
+1071,1548,"Power Strip,Microphone"
+1072,425,Power Supply Unit
+1073,1460,"Motherboard,Smart Bulb,Charger"
+1074,223,"Drone,Motherboard"
+1075,846,"Laptop Stand,Tripod,Scanner"
+1076,124,
+1077,1500,"Tripod,CPU,Power Supply Unit,Laptop Stand"
+1078,1166,"VR Headset,Monitor,Smartphone,Laptop Stand"
+1079,1321,"Laptop,Laptop Stand"
+1080,348,"Scanner,Drone,Motherboard,WiFi Router,External Hard Drive"
+1081,478,"Power Bank,Power Supply Unit"
+1082,701,Graphics Card
+1083,435,"Tablet,RAM Stick,Printer"
+1084,1048,
+1085,241,"CPU,HDMI Cable,Cooling Pad,RAM Stick,WiFi Router"
+1086,894,
+1087,33,
+1088,648,"Laptop,Smart Bulb"
+1089,1588,SSD
+1090,1110,"Drone,Cooling Pad,VR Headset,Motherboard"
+1091,1526,HDMI Cable
+1092,768,"VR Headset,Wireless Mouse"
+1093,1185,"CPU,Tripod,Wireless Mouse"
+1094,829,
+1095,390,"Webcam,Power Bank,Smartphone,Monitor"
+1096,584,
+1097,1643,"Smartwatch,External Hard Drive"
+1098,490,"Smartphone,Wireless Mouse,Microphone"
+1099,91,"Power Strip,Mechanical Keyboard,Graphics Card"
+1100,365,"Charger,Power Supply Unit,VR Headset,HDMI Cable,Motherboard"
+1101,1501,"Monitor,Graphics Card,Headphones,Scanner,Smartphone"
+1102,609,"Power Bank,SSD,Tripod,Microphone"
+1103,165,"Laptop,Printer,Smartphone,Tripod"
+1104,348,Smart Bulb
+1105,227,
+1106,550,"Monitor,WiFi Router,RAM Stick,Scanner,Drone"
+1107,1575,Graphics Card
+1108,1505,"Tripod,Bluetooth Speaker"
+1109,1464,"CPU,USB Hub,Printer,Power Supply Unit"
+1110,601,
+1111,1659,"VR Headset,Motherboard,HDMI Cable"
+1112,1282,
+1113,93,"RAM Stick,Graphics Card"
+1114,1121,"Graphics Card,Laptop"
+1115,192,
+1116,465,"USB Hub,Printer,Monitor,Smartphone"
+1117,932,"Laptop,Bluetooth Speaker"
+1118,994,"USB Hub,Graphics Card,Bluetooth Speaker,Headphones,SSD"
+1119,368,
+1120,1459,Smartphone
+1121,1611,"Smartwatch,WiFi Router,Smartphone,Webcam"
+1122,915,
+1123,983,"VR Headset,Monitor,Laptop"
+1124,1075,"Printer,Monitor"
+1125,612,"SSD,Graphics Card"
+1126,1103,
+1127,151,"Power Bank,RAM Stick"
+1128,1318,"Wireless Mouse,Laptop Stand,Tablet"
+1129,1154,
+1130,1351,"Smartwatch,Bluetooth Speaker"
+1131,837,"Cooling Pad,Tablet,Smart Bulb,Monitor"
+1132,627,"Printer,External Hard Drive"
+1133,860,
+1134,1040,
+1135,1319,"Tripod,Power Bank,Drone,Tablet,Cooling Pad"
+1136,287,Tablet
+1137,150,"Smartphone,Cooling Pad,CPU,Printer"
+1138,766,"CPU,Printer,Power Bank,Smartphone"
+1139,632,"Tripod,USB Cable,RAM Stick,External Hard Drive,Power Strip"
+1140,1287,Webcam
+1141,1488,HDMI Cable
+1142,1238,"RAM Stick,Laptop Stand"
+1143,1044,Webcam
+1144,230,"Power Supply Unit,USB Hub,Smart Bulb,Charger"
+1145,724,"Graphics Card,Webcam,Graphics Card"
+1146,1039,"Wireless Mouse,External Hard Drive,Bluetooth Speaker,Microphone,RAM Stick"
+1147,1486,"Headphones,Motherboard,Bluetooth Speaker,Webcam"
+1148,592,"Smartphone,Laptop Stand"
+1149,1164,
+1150,1451,"Webcam,USB Hub,Scanner,Wireless Mouse"
+1151,890,"Wireless Mouse,Tablet,Drone"
+1152,1516,"Laptop,RAM Stick,Charger,USB Hub"
+1153,897,"Headphones,Motherboard,Graphics Card,Printer,Microphone"
+1154,233,"Motherboard,Wireless Mouse,External Hard Drive"
+1155,18,"USB Cable,Bluetooth Speaker,WiFi Router,CPU"
+1156,929,"Smartphone,USB Cable,SSD"
+1157,1104,"Power Bank,Laptop Stand"
+1158,234,
+1159,601,"Tablet,Microphone"
+1160,17,"Microphone,Wireless Mouse,RAM Stick,Graphics Card"
+1161,1314,"Graphics Card,Printer,Graphics Card,Bluetooth Speaker,WiFi Router"
+1162,1117,
+1163,1454,Smartwatch
+1164,844,"Drone,Monitor,WiFi Router"
+1165,1023,"Graphics Card,Monitor"
+1166,191,Microphone
+1167,39,
+1168,31,"USB Hub,Laptop Stand,Graphics Card"
+1169,885,"Laptop Stand,USB Cable,Smartphone,Microphone,Smart Bulb"
+1170,1576,"Power Supply Unit,Microphone,Smartphone,Monitor,Drone"
+1171,159,USB Cable
+1172,1164,"Smartphone,Charger"
+1173,322,Power Strip
+1174,879,"Power Bank,Tripod"
+1175,652,"Tablet,External Hard Drive,USB Hub,HDMI Cable"
+1176,1102,"VR Headset,Tablet"
+1177,859,"Tablet,Scanner,Headphones,Wireless Mouse"
+1178,252,"Motherboard,Mechanical Keyboard,HDMI Cable"
+1179,599,Bluetooth Speaker
+1180,526,"Laptop,Power Supply Unit,RAM Stick,Motherboard"
+1181,215,"Smartphone,USB Cable,Graphics Card"
+1182,1622,
+1183,78,"Charger,Scanner"
+1184,468,"Wireless Mouse,USB Cable,Headphones"
+1185,1627,Laptop Stand
+1186,194,"Charger,Laptop Stand,Graphics Card,Headphones"
+1187,827,"VR Headset,Smartphone,Smart Bulb,CPU"
+1188,203,"Graphics Card,Power Strip"
+1189,668,"VR Headset,Mechanical Keyboard"
+1190,478,"Smartphone,Monitor"
+1191,1513,"Headphones,Power Strip"
+1192,1135,"VR Headset,Microphone,Smartphone"
+1193,791,"Cooling Pad,USB Cable,VR Headset"
+1194,1572,WiFi Router
+1195,1521,
+1196,772,
+1197,1589,"Smart Bulb,Wireless Mouse,External Hard Drive,Graphics Card"
+1198,1353,"Tripod,Power Supply Unit,Smart Bulb,Smartwatch,Scanner"
+1199,16,"Power Bank,Power Supply Unit,Graphics Card,Smartwatch,USB Cable"
+1200,487,Bluetooth Speaker
+1201,887,"Webcam,Tripod,Power Strip"
+1202,225,"SSD,Power Supply Unit"
+1203,1052,
+1204,1364,
+1205,889,Tripod
+1206,27,"Laptop Stand,HDMI Cable,Graphics Card,Power Supply Unit"
+1207,187,"Cooling Pad,Power Supply Unit"
+1208,1043,Charger
+1209,1291,"Power Supply Unit,HDMI Cable,RAM Stick,Graphics Card,Power Bank"
+1210,1545,"Printer,Power Supply Unit,Smartphone,SSD,VR Headset"
+1211,482,"Scanner,Monitor"
+1212,348,"RAM Stick,Tablet,Motherboard,CPU,Printer"
+1213,993,"Motherboard,Wireless Mouse,VR Headset"
+1214,847,"VR Headset,WiFi Router,Wireless Mouse"
+1215,1395,"USB Cable,Drone,Tripod"
+1216,44,
+1217,1435,
+1218,342,Smart Bulb
+1219,604,Cooling Pad
+1220,1033,"Bluetooth Speaker,Printer,VR Headset"
+1221,1496,"Mechanical Keyboard,Smart Bulb,Cooling Pad,Power Bank"
+1222,785,"Bluetooth Speaker,VR Headset,Graphics Card,HDMI Cable"
+1223,554,"Mechanical Keyboard,Smartwatch,Motherboard,Drone"
+1224,449,"Drone,External Hard Drive,USB Cable,Cooling Pad"
+1225,408,"Drone,Cooling Pad,WiFi Router,CPU"
+1226,566,"Wireless Mouse,USB Cable"
+1227,1185,"Tablet,WiFi Router,Webcam,Wireless Mouse,Smartphone"
+1228,948,"Webcam,Power Bank"
+1229,854,
+1230,26,"USB Hub,Power Strip"
+1231,164,"Graphics Card,Cooling Pad"
+1232,1625,"Microphone,Charger,Bluetooth Speaker,Power Bank,Laptop"
+1233,1104,
+1234,1637,
+1235,567,"Power Strip,VR Headset,Laptop,Tripod,Headphones"
+1236,1630,"Webcam,Drone,WiFi Router"
+1237,3,
+1238,1537,
+1239,777,"Tablet,CPU,Microphone,Power Supply Unit,Charger"
+1240,770,
+1241,192,"WiFi Router,SSD,Wireless Mouse,External Hard Drive,Power Bank"
+1242,394,"CPU,External Hard Drive,VR Headset,Charger,Tripod"
+1243,1125,"Tablet,Power Supply Unit,Laptop Stand"
+1244,902,"Cooling Pad,Tripod"
+1245,1564,"Mechanical Keyboard,Power Supply Unit,Smartphone,WiFi Router"
+1246,576,"Headphones,Smartphone,Wireless Mouse,Power Strip"
+1247,991,
+1248,1424,"Power Supply Unit,Scanner,SSD,Smartwatch"
+1249,429,"SSD,Microphone,Power Supply Unit"
+1250,946,"Microphone,VR Headset,Scanner,Wireless Mouse,Drone"
+1251,1656,"Wireless Mouse,Laptop"
+1252,1000,"VR Headset,Printer"
+1253,346,
+1254,1534,
+1255,188,"Laptop,Power Bank,Smart Bulb"
+1256,292,Cooling Pad
+1257,282,
+1258,467,"Power Bank,RAM Stick,CPU,Wireless Mouse,Headphones"
+1259,670,RAM Stick
+1260,66,"USB Hub,Tripod,Smartwatch"
+1261,805,"Laptop,Tablet"
+1262,357,"Graphics Card,RAM Stick,CPU,Graphics Card"
+1263,570,"CPU,SSD,Laptop Stand,Tripod,WiFi Router"
+1264,1055,"Smart Bulb,CPU,Tablet"
+1265,338,"Graphics Card,USB Cable"
+1266,455,CPU
+1267,114,"Monitor,Graphics Card,Printer,Power Bank"
+1268,442,"Printer,Tripod,VR Headset,Headphones,Smartwatch"
+1269,840,Power Supply Unit
+1270,912,"CPU,Power Strip,Tripod,Power Bank"
+1271,1382,"Webcam,Power Bank,Charger,SSD,External Hard Drive"
+1272,21,
+1273,937,"Scanner,Smart Bulb"
+1274,571,"SSD,Smartphone,Smart Bulb"
+1275,426,"Smart Bulb,External Hard Drive"
+1276,138,"Graphics Card,Microphone"
+1277,958,"VR Headset,SSD"
+1278,1523,"External Hard Drive,Motherboard,Microphone,VR Headset"
+1279,297,HDMI Cable
+1280,1225,Scanner
+1281,886,"Power Bank,SSD,USB Hub,Scanner,Cooling Pad"
+1282,58,"Cooling Pad,Smartphone"
+1283,817,
+1284,1221,Graphics Card
+1285,341,"Graphics Card,Headphones"
+1286,758,"Laptop Stand,Cooling Pad,Wireless Mouse"
+1287,64,"Tripod,Headphones,Motherboard,Smart Bulb"
+1288,1423,"Drone,Webcam,HDMI Cable,USB Hub"
+1289,664,"External Hard Drive,WiFi Router,Graphics Card"
+1290,1363,"Smart Bulb,Cooling Pad,USB Cable,Drone,Wireless Mouse"
+1291,229,"USB Hub,Microphone"
+1292,970,"Smart Bulb,Power Strip"
+1293,1158,"Laptop Stand,VR Headset,Printer"
+1294,843,"SSD,Smartphone,Printer,Cooling Pad,Bluetooth Speaker"
+1295,1628,"Bluetooth Speaker,Mechanical Keyboard,Motherboard,Tripod,Printer"
+1296,1098,"VR Headset,Power Bank,HDMI Cable"
+1297,372,Smart Bulb
+1298,198,"Laptop Stand,Cooling Pad,WiFi Router"
+1299,921,"SSD,VR Headset,Laptop Stand"
+1300,1458,"Tablet,Drone"
+1301,1596,"USB Hub,Laptop"
+1302,869,
+1303,1555,Charger
+1304,210,"Graphics Card,Motherboard,Power Strip"
+1305,708,External Hard Drive
+1306,1151,"Power Strip,Smart Bulb,Tablet"
+1307,1330,
+1308,731,"HDMI Cable,Smartwatch,RAM Stick"
+1309,1212,HDMI Cable
+1310,1342,Cooling Pad
+1311,488,"USB Cable,Cooling Pad,VR Headset"
+1312,563,
+1313,1420,"Smartphone,Scanner,Smartwatch,CPU"
+1314,1180,"Scanner,Drone,Graphics Card,Motherboard"
+1315,1454,
+1316,998,"CPU,Headphones"
+1317,591,"HDMI Cable,WiFi Router"
+1318,57,"Microphone,Webcam,Tripod,Charger,Graphics Card"
+1319,632,"External Hard Drive,VR Headset,Webcam,Scanner"
+1320,1540,WiFi Router
+1321,973,WiFi Router
+1322,1612,
+1323,897,Headphones
+1324,886,"Graphics Card,Headphones,Webcam"
+1325,639,"VR Headset,HDMI Cable,Motherboard,Laptop Stand"
+1326,1139,"Power Strip,Cooling Pad,Bluetooth Speaker,VR Headset"
+1327,1418,"Motherboard,VR Headset,Bluetooth Speaker"
+1328,1663,"Tablet,External Hard Drive,Laptop,Graphics Card,Monitor"
+1329,37,"Tablet,Mechanical Keyboard,Printer"
+1330,1634,"Webcam,Mechanical Keyboard,VR Headset,Printer,Bluetooth Speaker"
+1331,997,"Power Bank,Smartwatch,Laptop,Drone"
+1332,781,"Cooling Pad,Charger"
+1333,1197,"Bluetooth Speaker,Scanner,Smartphone"
+1334,531,Tripod
+1335,643,"Laptop Stand,CPU,Cooling Pad"
+1336,1380,"RAM Stick,Laptop,USB Cable,Power Bank"
+1337,507,"HDMI Cable,Mechanical Keyboard,Laptop Stand"
+1338,1318,"Drone,USB Cable,External Hard Drive,WiFi Router"
+1339,641,"Bluetooth Speaker,Power Bank,Webcam,Scanner"
+1340,521,"Smart Bulb,Charger"
+1341,1659,Bluetooth Speaker
+1342,1635,"Graphics Card,Smart Bulb"
+1343,131,"HDMI Cable,Power Supply Unit,Power Bank,Laptop Stand"
+1344,1233,"Smartphone,Mechanical Keyboard,USB Cable,SSD"
+1345,1358,"Graphics Card,Smartphone,Bluetooth Speaker"
+1346,1394,
+1347,385,
+1348,1262,"HDMI Cable,Mechanical Keyboard,Smart Bulb"
+1349,1455,Smartphone
+1350,1028,"External Hard Drive,Graphics Card,Drone,SSD,Laptop Stand"
+1351,1209,HDMI Cable
+1352,1666,Smart Bulb
+1353,1458,Power Strip
+1354,1054,Microphone
+1355,118,"Webcam,Laptop Stand,Cooling Pad,HDMI Cable"
+1356,1333,
+1357,981,"Power Supply Unit,Wireless Mouse,WiFi Router,Scanner,Motherboard"
+1358,1304,"Laptop Stand,Drone,Monitor,Tripod"
+1359,211,Mechanical Keyboard
+1360,124,"Graphics Card,Bluetooth Speaker"
+1361,566,Smartphone
+1362,85,"Smartphone,Cooling Pad"
+1363,198,WiFi Router
+1364,161,
+1365,1,
+1366,264,"SSD,Laptop,Bluetooth Speaker,CPU,RAM Stick"
+1367,1103,"Power Strip,Smartphone"
+1368,1053,"USB Hub,Smart Bulb,Tablet,Microphone,Power Strip"
+1369,401,"HDMI Cable,RAM Stick,Wireless Mouse"
+1370,312,"USB Hub,RAM Stick,Microphone,Tablet,Monitor"
+1371,909,"Monitor,USB Hub,RAM Stick"
+1372,455,
+1373,311,"Drone,WiFi Router,USB Hub,Power Strip"
+1374,970,"Graphics Card,USB Hub,CPU,Drone"
+1375,1276,"Power Bank,Bluetooth Speaker"
+1376,344,Printer
+1377,655,"Smart Bulb,HDMI Cable,Laptop"
+1378,305,"Laptop,Graphics Card"
+1379,569,"Tablet,Monitor,Motherboard,Power Supply Unit,Wireless Mouse"
+1380,1632,USB Hub
+1381,1639,Printer
+1382,1326,"VR Headset,Mechanical Keyboard,Graphics Card,CPU,Scanner"
+1383,980,Webcam
+1384,808,
+1385,815,
+1386,1575,"Wireless Mouse,Monitor,Tripod"
+1387,1474,"Monitor,Laptop Stand,Tablet,Webcam,External Hard Drive"
+1388,426,"Microphone,Monitor,SSD,USB Cable"
+1389,854,"Charger,USB Hub"
+1390,982,SSD
+1391,1462,"Smartphone,Graphics Card"
+1392,812,"Webcam,Printer,Power Strip,CPU"
+1393,1189,"Graphics Card,WiFi Router,RAM Stick,Smartwatch,Webcam"
+1394,1551,"Graphics Card,WiFi Router"
+1395,1309,"Laptop Stand,Monitor,Smartphone,Tablet,Smart Bulb"
+1396,367,Cooling Pad
+1397,517,"Graphics Card,Bluetooth Speaker,Monitor"
+1398,5,"Webcam,Graphics Card,Headphones,Power Supply Unit"
+1399,487,Tablet
+1400,7,Bluetooth Speaker
+1401,323,Tablet
+1402,289,
+1403,1209,SSD
+1404,1031,"Laptop Stand,Headphones,External Hard Drive,Tripod"
+1405,1286,"USB Cable,Smart Bulb,Printer"
+1406,1360,Motherboard
+1407,307,"Smartwatch,Bluetooth Speaker,Charger,Drone,Headphones"
+1408,1437,
+1409,1005,
+1410,441,"Graphics Card,Monitor,RAM Stick,Cooling Pad,Tripod"
+1411,387,"Printer,SSD,Cooling Pad,Tablet"
+1412,883,
+1413,1342,"Power Bank,Power Supply Unit,Monitor,Power Strip"
+1414,308,"Tablet,Laptop,VR Headset"
+1415,1096,"Bluetooth Speaker,SSD,Cooling Pad"
+1416,228,
+1417,1631,"Laptop,Smartphone"
+1418,480,"Microphone,Power Strip,Smartphone,Graphics Card,Power Supply Unit"
+1419,315,Charger
+1420,1149,
+1421,462,
+1422,1278,"Laptop Stand,Smartphone,Headphones"
+1423,117,"WiFi Router,Smartphone,HDMI Cable,Laptop Stand"
+1424,302,RAM Stick
+1425,562,"Drone,Smartphone,USB Hub"
+1426,1481,"Drone,Printer,Laptop,HDMI Cable,Cooling Pad"
+1427,871,
+1428,1141,"Power Strip,Smartwatch,Cooling Pad,Tablet"
+1429,462,"Graphics Card,Mechanical Keyboard"
+1430,701,Wireless Mouse
+1431,420,"Power Bank,HDMI Cable"
+1432,809,Motherboard
+1433,1309,"Tripod,WiFi Router"
+1434,411,"Power Bank,Power Supply Unit,Smartphone,WiFi Router"
+1435,895,
+1436,844,"Smart Bulb,SSD"
+1437,1191,"Smart Bulb,Cooling Pad,CPU,Charger,Motherboard"
+1438,779,"CPU,Power Strip,Graphics Card"
+1439,1495,"Power Strip,Graphics Card,Webcam,Power Supply Unit"
+1440,608,"Graphics Card,Wireless Mouse,Microphone,Charger"
+1441,1096,"RAM Stick,Smartwatch,Bluetooth Speaker"
+1442,1255,
+1443,1265,USB Cable
+1444,901,"Smartphone,Power Bank,USB Hub,Smartwatch,Motherboard"
+1445,870,"VR Headset,SSD,USB Hub,Cooling Pad,HDMI Cable"
+1446,125,"Drone,HDMI Cable"
+1447,763,"HDMI Cable,Power Bank,Drone"
+1448,1236,"Cooling Pad,Smartphone,Bluetooth Speaker,Smartwatch"
+1449,122,USB Cable
+1450,1454,"Laptop,Printer,HDMI Cable,Charger,CPU"
+1451,220,
+1452,710,"Headphones,Webcam"
+1453,962,
+1454,1131,"CPU,Tripod,Headphones"
+1455,1455,
+1456,1154,"External Hard Drive,Motherboard,Printer,Cooling Pad"
+1457,839,"Laptop,Smartwatch,HDMI Cable,USB Hub"
+1458,502,Monitor
+1459,1585,"Graphics Card,Bluetooth Speaker,Power Strip"
+1460,923,Wireless Mouse
+1461,1223,
+1462,1141,"Charger,Graphics Card,Microphone"
+1463,1597,"Printer,Wireless Mouse,Bluetooth Speaker,Power Strip,CPU"
+1464,1620,"Monitor,Laptop Stand,Smart Bulb"
+1465,1081,WiFi Router
+1466,225,"Scanner,Smartwatch,VR Headset,Microphone"
+1467,426,"SSD,Tablet"
+1468,1360,"SSD,Graphics Card,Wireless Mouse"
+1469,153,"USB Cable,USB Hub,Charger,Motherboard"
+1470,1367,
+1471,997,"Drone,Cooling Pad,Laptop,Monitor"
+1472,173,
+1473,1550,Charger
+1474,1452,Drone
+1475,70,"Smart Bulb,WiFi Router"
+1476,74,"Laptop,RAM Stick,Power Bank,Cooling Pad,Wireless Mouse"
+1477,49,"Wireless Mouse,Power Bank,RAM Stick"
+1478,640,HDMI Cable
+1479,508,Motherboard
+1480,912,Wireless Mouse
+1481,684,"Laptop Stand,Tablet,Smart Bulb,RAM Stick"
+1482,8,External Hard Drive
+1483,1200,
+1484,1427,WiFi Router
+1485,474,"Microphone,Scanner"
+1486,1159,"Smartwatch,SSD,Graphics Card,Tripod,Charger"
+1487,359,"Headphones,Microphone"
+1488,157,"Scanner,Power Bank,CPU,Monitor,WiFi Router"
+1489,852,Charger
+1490,1271,CPU
+1491,1514,"Cooling Pad,Drone,Graphics Card"
+1492,1049,"VR Headset,WiFi Router"
+1493,1354,
+1494,621,"HDMI Cable,WiFi Router,USB Cable,Laptop"
+1495,948,"Tablet,Wireless Mouse,External Hard Drive"
+1496,1520,
+1497,1207,"Drone,SSD,Webcam,RAM Stick,Scanner"
+1498,1626,"Printer,Laptop Stand,Smartphone"
+1499,299,"Mechanical Keyboard,Tablet"
+1500,487,"Bluetooth Speaker,Tablet"
+1501,1198,
+1502,1167,"VR Headset,Cooling Pad,Headphones"
+1503,150,"HDMI Cable,Power Bank,Tripod,Laptop Stand,Webcam"
+1504,716,"Microphone,Power Strip,USB Cable,Laptop Stand,Graphics Card"
+1505,380,"Scanner,Webcam,Power Bank,Graphics Card,Mechanical Keyboard"
+1506,345,"Bluetooth Speaker,WiFi Router,CPU,Graphics Card,Charger"
+1507,1503,"Wireless Mouse,RAM Stick,Power Strip,Tripod,Mechanical Keyboard"
+1508,1626,
+1509,1169,"Tripod,Smart Bulb,Graphics Card"
+1510,1514,"RAM Stick,Smartphone"
+1511,667,"Microphone,Charger,Scanner"
+1512,67,"Scanner,Drone,Cooling Pad"
+1513,871,"Charger,Laptop,External Hard Drive"
+1514,997,Smartwatch
+1515,356,"Bluetooth Speaker,Webcam,WiFi Router"
+1516,1008,"Webcam,Microphone"
+1517,33,Headphones
+1518,857,
+1519,1448,
+1520,1623,Microphone
+1521,1534,"Drone,HDMI Cable,Headphones,Scanner,USB Cable"
+1522,381,
+1523,1412,"Power Strip,RAM Stick,Power Bank"
+1524,491,Power Bank
+1525,708,"Headphones,USB Hub"
+1526,933,"Tripod,Laptop Stand"
+1527,1632,
+1528,1419,"Mechanical Keyboard,Laptop"
+1529,447,"Laptop Stand,Charger,USB Cable"
+1530,1186,"Headphones,VR Headset"
+1531,610,"Graphics Card,Drone,RAM Stick,Power Bank,Smart Bulb"
+1532,906,"HDMI Cable,Tablet,USB Cable,Webcam,Microphone"
+1533,715,
+1534,574,"VR Headset,Smart Bulb"
+1535,33,
+1536,1513,
+1537,820,
+1538,461,Microphone
+1539,1130,"Laptop,Scanner"
+1540,623,
+1541,307,Scanner
+1542,1374,"Mechanical Keyboard,Laptop Stand,Smartwatch,Power Supply Unit,Monitor"
+1543,528,Laptop
+1544,852,"Bluetooth Speaker,Laptop,Smart Bulb,Tripod"
+1545,1045,
+1546,215,Smartwatch
+1547,913,USB Hub
+1548,891,"Smart Bulb,USB Hub,Printer"
+1549,415,"Tablet,CPU,HDMI Cable,Smartphone"
+1550,517,"Power Bank,Smartwatch,Printer,USB Cable"
+1551,438,"USB Cable,HDMI Cable,RAM Stick"
+1552,70,"VR Headset,WiFi Router,Laptop Stand,Tripod"
+1553,459,"Power Bank,External Hard Drive,Graphics Card,Headphones,Microphone"
+1554,1406,"Motherboard,Power Supply Unit"
+1555,1568,"Laptop Stand,Tripod,WiFi Router,Microphone,Bluetooth Speaker"
+1556,749,"Power Strip,Wireless Mouse,External Hard Drive,Mechanical Keyboard"
+1557,971,Microphone
+1558,863,"Graphics Card,Mechanical Keyboard,External Hard Drive,Monitor"
+1559,162,"CPU,Smart Bulb"
+1560,1240,"Power Supply Unit,RAM Stick,Printer,HDMI Cable,Scanner"
+1561,299,Power Strip
+1562,122,
+1563,1212,"Charger,External Hard Drive"
+1564,1312,"Power Supply Unit,Cooling Pad"
+1565,848,"Headphones,Drone,Tripod,Smartwatch"
+1566,643,"RAM Stick,Power Bank"
+1567,1259,"Smart Bulb,Power Bank"
+1568,1468,"Smartphone,SSD"
+1569,949,"VR Headset,Motherboard,Drone"
+1570,1495,"Tripod,Tablet,External Hard Drive"
+1571,1619,"Webcam,Scanner,Printer,Smartphone"
+1572,1104,
+1573,1076,"Drone,Power Supply Unit"
+1574,524,"Smartphone,Graphics Card,Smartwatch,External Hard Drive,Headphones"
+1575,1356,"Headphones,Mechanical Keyboard"
+1576,859,"Tablet,Monitor,Power Strip"
+1577,176,"Laptop Stand,WiFi Router,HDMI Cable"
+1578,882,
+1579,1086,USB Cable
+1580,1325,"USB Hub,Power Strip,Drone,Smartwatch"
+1581,1205,"RAM Stick,Graphics Card,Power Strip,Webcam"
+1582,1611,"VR Headset,Power Bank"
+1583,1654,"Graphics Card,Laptop,USB Hub"
+1584,1097,
+1585,1075,"Laptop Stand,Tripod,Headphones,HDMI Cable,Drone"
+1586,995,
+1587,167,
+1588,1171,Motherboard
+1589,507,"CPU,Laptop Stand,Power Supply Unit,Smart Bulb,Tablet"
+1590,1357,"Scanner,Power Strip,Tablet,Headphones"
+1591,531,"Laptop Stand,Laptop"
+1592,698,"Laptop Stand,Smartphone,Wireless Mouse,Printer,VR Headset"
+1593,1012,"Wireless Mouse,Monitor,Smartwatch,Laptop"
+1594,1052,"Graphics Card,RAM Stick,CPU"
+1595,518,"Smartphone,Microphone,Graphics Card,External Hard Drive"
+1596,416,Monitor
+1597,1311,Power Supply Unit
+1598,544,"Charger,Bluetooth Speaker,Laptop Stand,CPU,VR Headset"
+1599,6,"Laptop,Power Bank,Webcam,Monitor"
+1600,579,
+1601,361,
+1602,1557,"Wireless Mouse,SSD"
+1603,186,
+1604,611,"Smartwatch,Graphics Card,Charger"
+1605,181,Microphone
+1606,813,"Smartphone,Wireless Mouse,USB Hub,USB Cable"
+1607,1134,"Bluetooth Speaker,Smart Bulb,Power Bank"
+1608,76,"SSD,Power Strip,Wireless Mouse,HDMI Cable"
+1609,951,Charger
+1610,294,"Motherboard,Wireless Mouse,SSD,Smartphone,RAM Stick"
+1611,115,
+1612,352,"Laptop Stand,Smart Bulb"
+1613,1530,"Laptop Stand,VR Headset,Smartwatch,HDMI Cable,Graphics Card"
+1614,118,Headphones
+1615,1505,"Tablet,Mechanical Keyboard,Smartphone,WiFi Router"
+1616,1186,Graphics Card
+1617,1446,Bluetooth Speaker
+1618,1053,"Laptop,Charger"
+1619,10,"Laptop,Graphics Card,USB Hub"
+1620,1597,"Mechanical Keyboard,Charger"
+1621,886,
+1622,85,"WiFi Router,Tablet,RAM Stick"
+1623,127,"Smartphone,Mechanical Keyboard"
+1624,712,"RAM Stick,Tablet"
+1625,65,"Power Strip,Bluetooth Speaker,Power Supply Unit,Webcam"
+1626,71,
+1627,392,Graphics Card
+1628,817,"SSD,VR Headset,Webcam"
+1629,233,"External Hard Drive,Printer,Drone,Monitor,Tripod"
+1630,1272,
+1631,1035,"Laptop Stand,Webcam,Wireless Mouse,Microphone"
+1632,1128,
+1633,962,"Tablet,USB Cable,Power Supply Unit"
+1634,807,HDMI Cable
+1635,765,"Power Strip,Tripod"
+1636,1078,"Smart Bulb,Wireless Mouse"
+1637,177,"Power Strip,Power Bank"
+1638,1309,"Monitor,External Hard Drive"
+1639,340,
+1640,981,Motherboard
+1641,1332,Power Supply Unit
+1642,731,"Tablet,Graphics Card,Charger,Smartwatch,VR Headset"
+1643,990,"Power Strip,Power Supply Unit,Smart Bulb,HDMI Cable,WiFi Router"
+1644,526,"SSD,Graphics Card,Drone,Power Bank"
+1645,1194,
+1646,76,"WiFi Router,Graphics Card"
+1647,1346,VR Headset
+1648,1199,"Webcam,CPU,HDMI Cable,Laptop"
+1649,969,"Tripod,WiFi Router"
+1650,832,Graphics Card
+1651,1332,"Graphics Card,Power Strip,Printer,Graphics Card,Monitor"
+1652,1445,"Mechanical Keyboard,Power Strip,Printer"
+1653,511,Power Supply Unit
+1654,220,"Graphics Card,Bluetooth Speaker"
+1655,224,"Smartwatch,Headphones"
+1656,97,"Smartphone,Smartwatch,Drone"
+1657,953,Power Supply Unit
+1658,288,"USB Hub,Smartwatch"
+1659,1179,Mechanical Keyboard
+1660,1349,
+1661,1490,"Wireless Mouse,WiFi Router"
+1662,1026,"Smart Bulb,Power Supply Unit,Smartphone,RAM Stick,Wireless Mouse"
+1663,652,"Webcam,Power Bank"
+1664,1194,
+1665,530,"CPU,Laptop Stand,Smart Bulb,Monitor,Wireless Mouse"
+1666,678,"Drone,Power Bank"
+1667,1383,"Laptop,USB Hub,External Hard Drive"
+1668,132,
+1669,719,
+1670,590,Power Strip
+1671,1302,"Smart Bulb,Power Bank,USB Cable"
+1672,782,"Printer,External Hard Drive,Laptop Stand,Drone"
+1673,414,Cooling Pad
+1674,1280,"HDMI Cable,Motherboard,CPU"
+1675,1103,"Smartwatch,Printer,Power Strip,Drone"
+1676,1002,
+1677,727,
+1678,1659,"Graphics Card,Smartphone,Microphone"
+1679,1536,
+1680,755,"Webcam,Monitor,USB Hub,USB Cable"
+1681,413,"Graphics Card,Power Strip,Laptop,Tripod,Laptop Stand"
+1682,1467,"Tablet,USB Hub"
+1683,1338,"Drone,Laptop Stand,Graphics Card"
+1684,623,"Drone,Monitor,Smartwatch,CPU,USB Hub"
+1685,1157,
+1686,1188,"Smartwatch,Charger,Laptop Stand,Monitor,USB Hub"
+1687,591,
+1688,795,"Webcam,Scanner,HDMI Cable,Cooling Pad,Smart Bulb"
+1689,1174,"Wireless Mouse,Smartphone,CPU"
+1690,716,"Charger,Smartwatch,SSD"
+1691,1118,"Smartwatch,HDMI Cable,Graphics Card"
+1692,1549,"Smartphone,Microphone,Graphics Card"
+1693,759,"Microphone,CPU,WiFi Router,Motherboard"
+1694,16,"Wireless Mouse,Printer,Bluetooth Speaker,HDMI Cable,Headphones"
+1695,307,"Graphics Card,Tripod"
+1696,1350,"HDMI Cable,Smartwatch,Laptop Stand"
+1697,1480,"HDMI Cable,Power Strip,Smartwatch"
+1698,1482,
+1699,166,
+1700,1334,"USB Cable,Laptop Stand,RAM Stick,WiFi Router,Wireless Mouse"
+1701,502,
+1702,976,"Smart Bulb,HDMI Cable"
+1703,1072,"Power Supply Unit,RAM Stick,Monitor"
+1704,460,Smartwatch
+1705,22,"Laptop Stand,RAM Stick"
+1706,361,
+1707,719,"RAM Stick,Smartwatch,Microphone"
+1708,946,"Smart Bulb,Mechanical Keyboard,External Hard Drive,Tripod,Headphones"
+1709,1539,"USB Hub,Graphics Card,VR Headset,Microphone,RAM Stick"
+1710,1131,Bluetooth Speaker
+1711,1097,"USB Cable,Power Bank,Headphones,Graphics Card"
+1712,840,"RAM Stick,Power Supply Unit"
+1713,785,"Webcam,Printer,Microphone"
+1714,1502,"Scanner,SSD,Bluetooth Speaker"
+1715,1532,
+1716,517,Power Supply Unit
+1717,699,"Motherboard,WiFi Router,Cooling Pad,Microphone,Printer"
+1718,236,"Laptop Stand,WiFi Router"
+1719,1095,Microphone
+1720,396,"Scanner,Smart Bulb"
+1721,1568,"Bluetooth Speaker,Motherboard,HDMI Cable,RAM Stick,Tripod"
+1722,629,"Microphone,Laptop,Mechanical Keyboard,Graphics Card,Smart Bulb"
+1723,1414,
+1724,784,"Tripod,Monitor"
+1725,1284,"Tablet,Wireless Mouse,Power Strip"
+1726,1408,
+1727,214,"USB Cable,Headphones,CPU,Cooling Pad,Graphics Card"
+1728,811,"Bluetooth Speaker,Wireless Mouse,Scanner,VR Headset"
+1729,505,Cooling Pad
+1730,1123,"HDMI Cable,Monitor,External Hard Drive,Smartwatch"
+1731,787,"SSD,Webcam"
+1732,1320,Printer
+1733,713,"Graphics Card,Monitor,Smartphone,Bluetooth Speaker,Headphones"
+1734,1450,"Power Bank,WiFi Router"
+1735,121,"Graphics Card,Power Supply Unit,Webcam,Power Bank"
+1736,1382,"Charger,HDMI Cable"
+1737,416,"Monitor,Charger,USB Hub"
+1738,1243,"Tripod,Drone,Graphics Card"
+1739,1370,"CPU,Graphics Card,Power Bank,Smartphone"
+1740,384,
+1741,484,"Wireless Mouse,Webcam,Tablet"
+1742,90,"Tripod,Power Strip,CPU,HDMI Cable"
+1743,731,"Tablet,Bluetooth Speaker,WiFi Router,Motherboard,Microphone"
+1744,1471,"VR Headset,Graphics Card,CPU,Charger,Scanner"
+1745,1166,"Smart Bulb,External Hard Drive,Power Bank"
+1746,811,
+1747,537,"SSD,Wireless Mouse"
+1748,1148,"Bluetooth Speaker,Drone,Smart Bulb"
+1749,775,"Tablet,CPU,Smart Bulb"
+1750,451,"Power Strip,Smart Bulb,Laptop Stand,Graphics Card,WiFi Router"
+1751,885,"Printer,Headphones,Graphics Card,Scanner"
+1752,756,Microphone
+1753,597,"VR Headset,Printer"
+1754,1239,"Power Strip,RAM Stick,Motherboard,SSD"
+1755,1288,"Monitor,Charger"
+1756,823,"Smart Bulb,Power Supply Unit,Tripod"
+1757,935,Headphones
+1758,707,USB Cable
+1759,13,
+1760,538,
+1761,1121,Laptop
+1762,1194,"Motherboard,Graphics Card,Mechanical Keyboard"
+1763,1452,"USB Hub,Power Supply Unit,Graphics Card,CPU,WiFi Router"
+1764,1068,"External Hard Drive,Graphics Card,RAM Stick,SSD,Laptop Stand"
+1765,1058,Wireless Mouse
+1766,2,
+1767,279,"SSD,Tablet,Monitor,Power Bank"
+1768,1165,Headphones
+1769,522,"Tripod,Smart Bulb,RAM Stick"
+1770,639,
+1771,813,"Smartwatch,WiFi Router,Tripod"
+1772,843,"SSD,CPU,Power Bank,Motherboard,Headphones"
+1773,574,
+1774,1489,
+1775,1654,"Webcam,HDMI Cable,Mechanical Keyboard"
+1776,543,"Motherboard,USB Cable"
+1777,779,"Power Supply Unit,WiFi Router,Drone,Mechanical Keyboard,Cooling Pad"
+1778,864,
+1779,568,"Drone,Bluetooth Speaker,Headphones"
+1780,1549,Cooling Pad
+1781,1529,
+1782,1616,
+1783,1049,"Power Strip,VR Headset"
+1784,1080,"Tripod,Power Strip"
+1785,1460,HDMI Cable
+1786,288,"Smart Bulb,Smartphone,Tablet,USB Cable"
+1787,291,Power Bank
+1788,1301,"External Hard Drive,Smartwatch,Power Strip,Motherboard"
+1789,708,"Graphics Card,Tablet,Cooling Pad,Microphone,Bluetooth Speaker"
+1790,1038,
+1791,1058,
+1792,809,"Smartphone,Motherboard,Webcam,Graphics Card,Mechanical Keyboard"
+1793,1656,"USB Hub,SSD,Microphone,USB Cable"
+1794,1073,"Mechanical Keyboard,Motherboard,Wireless Mouse,Scanner"
+1795,220,"Power Bank,WiFi Router,SSD,Headphones,Motherboard"
+1796,183,"Graphics Card,Cooling Pad"
+1797,1384,"Laptop Stand,Tripod,Power Bank,Headphones,Smartphone"
+1798,443,"Tablet,Bluetooth Speaker,RAM Stick,Laptop"
+1799,833,"USB Hub,HDMI Cable,Charger"
+1800,1524,
+1801,808,"Webcam,Power Supply Unit,Smartphone"
+1802,1475,"RAM Stick,Tripod,Wireless Mouse,Bluetooth Speaker,Monitor"
+1803,1428,"Scanner,Printer,Bluetooth Speaker"
+1804,969,"Tablet,Scanner,Mechanical Keyboard"
+1805,735,
+1806,691,
+1807,814,"VR Headset,Bluetooth Speaker,Charger,Printer,Laptop Stand"
+1808,421,
+1809,335,"Bluetooth Speaker,CPU,Scanner,Smartphone"
+1810,64,"USB Hub,Printer,SSD,Headphones,Microphone"
+1811,735,"WiFi Router,Laptop"
+1812,849,"Headphones,Tablet,Motherboard,Monitor,VR Headset"
+1813,185,"Wireless Mouse,Printer,Scanner,Graphics Card"
+1814,389,Smart Bulb
+1815,253,"WiFi Router,USB Cable,Drone,RAM Stick"
+1816,249,"WiFi Router,HDMI Cable"
+1817,440,Wireless Mouse
+1818,1490,HDMI Cable
+1819,1190,Charger
+1820,41,"SSD,Smartwatch,Monitor,Graphics Card"
+1821,1244,"Mechanical Keyboard,Graphics Card,Power Bank,External Hard Drive,Microphone"
+1822,256,Microphone
+1823,1145,
+1824,911,"SSD,Power Supply Unit"
+1825,1420,Scanner
+1826,424,Monitor
+1827,625,
+1828,229,
+1829,1400,"Monitor,Printer,External Hard Drive"
+1830,393,"Monitor,Power Strip,Wireless Mouse"
+1831,1657,"Charger,Power Strip"
+1832,1311,"Laptop,Smartphone,Tripod,SSD"
+1833,69,"Laptop Stand,USB Hub,Tablet,Headphones,Mechanical Keyboard"
+1834,460,
+1835,1639,
+1836,963,"Smartwatch,Graphics Card"
+1837,1510,"Scanner,Cooling Pad,CPU,Laptop,Monitor"
+1838,1256,"Printer,Laptop,CPU"
+1839,762,
+1840,1502,"Power Supply Unit,Cooling Pad,Laptop Stand,Drone,USB Cable"
+1841,1251,"WiFi Router,Graphics Card,VR Headset,Webcam"
+1842,1431,Bluetooth Speaker
+1843,1645,"Monitor,Charger"
+1844,629,"Microphone,Monitor,Smartwatch,VR Headset,Graphics Card"
+1845,1390,"Charger,Headphones,Drone,Tablet"
+1846,760,"Power Supply Unit,Microphone"
+1847,637,Motherboard
+1848,23,"Power Bank,HDMI Cable,Laptop Stand"
+1849,1508,"Power Supply Unit,Power Strip,HDMI Cable,Graphics Card"
+1850,826,"Drone,Power Strip,HDMI Cable,Microphone"
+1851,1255,"Graphics Card,Laptop Stand,SSD,Smartphone,Power Bank"
+1852,391,"Microphone,Charger,Graphics Card,Laptop"
+1853,1449,
+1854,1460,"Tripod,USB Cable"
+1855,368,"Smart Bulb,Smartwatch,Scanner,Charger,Graphics Card"
+1856,1036,"Webcam,Drone"
+1857,570,"Drone,Smartwatch,Motherboard"
+1858,281,Drone
+1859,700,"Tablet,Motherboard,Power Bank,Laptop Stand"
+1860,36,"RAM Stick,Headphones,Mechanical Keyboard,SSD"
+1861,1642,"HDMI Cable,Laptop,Motherboard"
+1862,328,Drone
+1863,52,RAM Stick
+1864,1581,"Scanner,Power Bank,Wireless Mouse,USB Cable"
+1865,1252,
+1866,1589,"HDMI Cable,Cooling Pad,Graphics Card"
+1867,863,
+1868,551,"Bluetooth Speaker,Power Supply Unit,Laptop"
+1869,1365,"External Hard Drive,Power Strip"
+1870,980,"CPU,RAM Stick,External Hard Drive"
+1871,1075,"Scanner,Drone,VR Headset,WiFi Router"
+1872,129,"Smartwatch,SSD,Smart Bulb"
+1873,1460,"Mechanical Keyboard,Wireless Mouse,Smartwatch,Monitor"
+1874,488,"Graphics Card,Power Supply Unit,Smartphone"
+1875,846,"Power Strip,Bluetooth Speaker,Smartphone,Tablet"
+1876,458,"Headphones,Printer,Smartphone"
+1877,192,
+1878,634,Smartphone
+1879,1523,Drone
+1880,141,
+1881,130,"USB Hub,SSD,HDMI Cable,Tripod"
+1882,650,"Power Supply Unit,Tablet,WiFi Router"
+1883,731,"Bluetooth Speaker,CPU,VR Headset,Webcam,Wireless Mouse"
+1884,1233,"Tripod,USB Cable,SSD,Microphone"
+1885,866,
+1886,119,"Mechanical Keyboard,VR Headset,CPU,Power Strip"
+1887,612,"Scanner,Webcam,WiFi Router"
+1888,1034,"Headphones,Laptop"
+1889,1157,"Tripod,Laptop,USB Hub,Smart Bulb"
+1890,917,"Power Strip,RAM Stick,Microphone"
+1891,490,"USB Hub,USB Cable"
+1892,632,"VR Headset,CPU,Webcam,Tripod,Scanner"
+1893,1536,
+1894,132,"Smartwatch,Tablet,Mechanical Keyboard,Webcam,Drone"
+1895,376,"Power Supply Unit,Mechanical Keyboard"
+1896,491,"Drone,VR Headset"
+1897,1202,
+1898,915,"USB Hub,Power Supply Unit,Smartwatch"
+1899,2,"Webcam,Cooling Pad,CPU,Smartphone"
+1900,875,Power Strip
+1901,1449,"External Hard Drive,Scanner,USB Cable,Cooling Pad,Smart Bulb"
+1902,295,"Smartwatch,Headphones,Graphics Card"
+1903,1513,Smart Bulb
+1904,314,"Laptop,Headphones,USB Hub,Power Strip,VR Headset"
+1905,1054,"Microphone,SSD,Tripod"
+1906,540,Drone
+1907,363,Charger
+1908,151,"Power Supply Unit,Graphics Card,Wireless Mouse"
+1909,245,"Headphones,USB Hub,RAM Stick,Charger,Smartphone"
+1910,1288,"Smartphone,Mechanical Keyboard,Charger,Tablet"
+1911,81,"Scanner,Wireless Mouse,Mechanical Keyboard,Smart Bulb"
+1912,816,
+1913,957,Scanner
+1914,321,"Laptop Stand,SSD,Bluetooth Speaker,Smartwatch"
+1915,1374,
+1916,215,
+1917,1129,"Smartwatch,Cooling Pad,Motherboard"
+1918,147,"Laptop Stand,VR Headset,USB Cable,Mechanical Keyboard"
+1919,1557,"Cooling Pad,Wireless Mouse,Power Supply Unit,Power Strip"
+1920,539,"HDMI Cable,External Hard Drive"
+1921,1540,"Smartphone,Webcam,Laptop,Power Strip"
+1922,1542,"Bluetooth Speaker,Laptop Stand,RAM Stick,USB Hub,Power Bank"
+1923,223,"Monitor,Tablet,Scanner"
+1924,1350,"Headphones,USB Hub,Laptop Stand,VR Headset"
+1925,233,"Smartphone,Monitor,USB Hub,Charger,Headphones"
+1926,535,"Smart Bulb,SSD"
+1927,216,RAM Stick
+1928,505,"Laptop Stand,Graphics Card,Graphics Card"
+1929,454,"Cooling Pad,USB Hub,Mechanical Keyboard,WiFi Router"
+1930,999,"External Hard Drive,Wireless Mouse,RAM Stick,USB Hub,Bluetooth Speaker"
+1931,618,"SSD,Drone"
+1932,1422,"Microphone,Charger"
+1933,165,"HDMI Cable,Smartphone,Drone"
+1934,279,"USB Hub,Smartwatch,WiFi Router,Smartphone,Graphics Card"
+1935,1047,"SSD,Power Bank,Webcam"
+1936,656,"Mechanical Keyboard,Charger,Power Strip"
+1937,1468,"VR Headset,SSD,Smartphone,Bluetooth Speaker,Webcam"
+1938,235,External Hard Drive
+1939,114,RAM Stick
+1940,1463,"VR Headset,Cooling Pad,Mechanical Keyboard,Graphics Card,Tripod"
+1941,35,
+1942,136,"SSD,Laptop Stand"
+1943,1182,"SSD,VR Headset,Charger"
+1944,674,Headphones
+1945,502,"Smartphone,Tablet,Power Strip,Motherboard"
+1946,1458,"Monitor,External Hard Drive,USB Hub,Power Supply Unit"
+1947,1530,Microphone
+1948,407,
+1949,808,Webcam
+1950,1487,"Smart Bulb,Tripod,Mechanical Keyboard,Wireless Mouse,Bluetooth Speaker"
+1951,1605,"External Hard Drive,Power Strip"
+1952,339,
+1953,178,"Motherboard,Microphone,Scanner"
+1954,1113,"Scanner,Graphics Card,HDMI Cable,WiFi Router,Smartwatch"
+1955,886,Graphics Card
+1956,740,Bluetooth Speaker
+1957,783,Graphics Card
+1958,1608,Power Supply Unit
+1959,961,"Monitor,Drone,Tripod"
+1960,917,Monitor
+1961,301,SSD
+1962,384,"Tablet,VR Headset,Power Strip"
+1963,1007,"Laptop Stand,Drone"
+1964,531,"Power Strip,Smart Bulb,USB Hub,Tripod"
+1965,615,"Scanner,SSD,Headphones,Graphics Card,Tripod"
+1966,299,
+1967,273,"Cooling Pad,USB Hub,Power Strip,Smartphone"
+1968,855,
+1969,1645,Microphone
+1970,25,Webcam
+1971,42,"VR Headset,Drone"
+1972,1173,Laptop
+1973,1040,"SSD,Power Supply Unit"
+1974,1526,"SSD,Webcam,Power Supply Unit,Charger"
+1975,1391,"Graphics Card,Power Bank,Headphones,Wireless Mouse,VR Headset"
+1976,1448,"Scanner,Smart Bulb,Monitor"
+1977,1405,"Monitor,Bluetooth Speaker,Cooling Pad,Headphones"
+1978,760,Motherboard
+1979,200,
+1980,1102,"Power Supply Unit,Wireless Mouse,Mechanical Keyboard"
+1981,1063,"Cooling Pad,Monitor,Webcam,Motherboard"
+1982,639,RAM Stick
+1983,946,"Printer,Smart Bulb,Power Strip"
+1984,432,
+1985,1466,"Laptop Stand,Mechanical Keyboard"
+1986,1332,"Wireless Mouse,RAM Stick,Power Strip"
+1987,108,"External Hard Drive,Motherboard"
+1988,1577,"RAM Stick,Monitor"
+1989,752,
+1990,861,"Power Strip,Bluetooth Speaker"
+1991,1039,"SSD,Monitor,Smartwatch,Laptop Stand,HDMI Cable"
+1992,1213,"Smartwatch,Printer,Laptop,Cooling Pad"
+1993,21,"Headphones,Webcam,Power Supply Unit,USB Hub,External Hard Drive"
+1994,256,
+1995,898,"Tablet,Headphones"
+1996,1443,"USB Hub,Graphics Card,Motherboard"
+1997,1508,"Drone,Smart Bulb,Tablet"
+1998,779,"Microphone,VR Headset,Power Supply Unit"
+1999,1286,"Tripod,Printer,Laptop Stand"
+2000,1202,"VR Headset,Laptop Stand,HDMI Cable,Smartwatch"
+2001,712,"Smartphone,WiFi Router,Tripod"
+2002,370,Mechanical Keyboard
+2003,483,Graphics Card
+2004,240,"Smart Bulb,Wireless Mouse,Laptop Stand,External Hard Drive"
+2005,85,"SSD,Mechanical Keyboard,Drone,Laptop,Power Bank"
+2006,616,Tripod
+2007,1021,"Monitor,USB Hub,USB Cable"
+2008,1117,External Hard Drive
+2009,1288,External Hard Drive
+2010,1143,Scanner
+2011,1454,Mechanical Keyboard
+2012,173,
+2013,1222,"CPU,Power Strip,Smartphone,Headphones"
+2014,1520,"Laptop,Cooling Pad"
+2015,1508,
+2016,1317,
+2017,892,
+2018,1152,"Tripod,Laptop Stand,USB Cable,VR Headset,Headphones"
+2019,306,
+2020,792,"Microphone,Graphics Card,Laptop Stand,Mechanical Keyboard"
+2021,391,"HDMI Cable,Tablet,Headphones"
+2022,1301,Monitor
+2023,361,"HDMI Cable,Laptop,Headphones"
+2024,1344,Power Strip
+2025,1106,
+2026,1344,"Headphones,Scanner,WiFi Router"
+2027,87,"Webcam,Cooling Pad"
+2028,1516,"Laptop Stand,Power Supply Unit,Microphone,External Hard Drive"
+2029,64,"Webcam,Drone"
+2030,329,"Tripod,Drone,Smartwatch"
+2031,122,"HDMI Cable,USB Cable,Smartphone,External Hard Drive"
+2032,239,"Tripod,Power Strip,SSD"
+2033,1442,"Drone,Power Bank,Mechanical Keyboard,USB Hub"
+2034,1316,"Laptop,VR Headset"
+2035,701,"Smartwatch,Webcam,HDMI Cable,Laptop,Power Bank"
+2036,284,"Printer,Charger,Webcam,SSD,Tablet"
+2037,183,
+2038,1484,"Graphics Card,Microphone,VR Headset,External Hard Drive"
+2039,340,
+2040,1138,Microphone
+2041,409,"External Hard Drive,Drone,USB Hub"
+2042,279,"Microphone,WiFi Router,Graphics Card,Webcam"
+2043,565,"Wireless Mouse,Tripod,Monitor"
+2044,318,"Graphics Card,Microphone,Tripod"
+2045,1449,"Power Supply Unit,Smartwatch,Smartphone,CPU"
+2046,407,"Motherboard,Power Supply Unit,Laptop Stand"
+2047,218,SSD
+2048,661,"Power Bank,Wireless Mouse,Microphone,External Hard Drive,Laptop Stand"
+2049,1648,"External Hard Drive,USB Hub,Laptop Stand,Graphics Card,RAM Stick"
+2050,1664,"Power Strip,Drone"
+2051,91,"Laptop,WiFi Router,Cooling Pad,Smartwatch"
+2052,972,"Motherboard,Power Supply Unit,External Hard Drive,Tablet,HDMI Cable"
+2053,442,Graphics Card
+2054,688,
+2055,1311,
+2056,111,"Smartphone,Graphics Card,Mechanical Keyboard"
+2057,164,"USB Hub,Graphics Card,Cooling Pad,RAM Stick,Headphones"
+2058,918,"Smartwatch,Graphics Card"
+2059,1140,"Mechanical Keyboard,Power Supply Unit,Smartwatch,Motherboard,Tablet"
+2060,1315,"Cooling Pad,RAM Stick,USB Cable,WiFi Router,Smart Bulb"
+2061,806,Charger
+2062,1000,
+2063,1275,
+2064,373,"Webcam,Smartphone,VR Headset"
+2065,1259,"Mechanical Keyboard,Cooling Pad,CPU"
+2066,154,WiFi Router
+2067,266,"USB Cable,HDMI Cable,SSD,Cooling Pad"
+2068,729,
+2069,1494,"Wireless Mouse,Headphones,Smart Bulb"
+2070,35,
+2071,1532,"Smartwatch,Microphone,Smartphone,Tripod,SSD"
+2072,359,Bluetooth Speaker
+2073,1306,"Laptop Stand,Microphone,SSD,Motherboard,Smartwatch"
+2074,1047,"CPU,Motherboard,Laptop Stand"
+2075,334,"Laptop,Graphics Card"
+2076,1126,"Laptop,Bluetooth Speaker"
+2077,1608,"WiFi Router,Printer,Smart Bulb,Charger,USB Hub"
+2078,819,"RAM Stick,Laptop,Tripod,CPU"
+2079,333,"HDMI Cable,Graphics Card,SSD,RAM Stick"
+2080,755,"Motherboard,VR Headset"
+2081,700,"Headphones,WiFi Router,Microphone"
+2082,1084,Mechanical Keyboard
+2083,634,
+2084,1301,"Webcam,Tablet,Monitor,Mechanical Keyboard"
+2085,859,"Tripod,Motherboard"
+2086,39,"Drone,Bluetooth Speaker"
+2087,1127,Scanner
+2088,1646,"Graphics Card,Smartwatch"
+2089,26,"CPU,Tablet,Power Supply Unit,Smartphone,Tripod"
+2090,992,"Power Strip,USB Hub,Laptop Stand,Motherboard"
+2091,1208,"Mechanical Keyboard,USB Hub"
+2092,191,Power Supply Unit
+2093,1436,
+2094,200,"Power Bank,SSD,CPU,Tablet,Printer"
+2095,753,"Headphones,Motherboard,Microphone,Power Bank"
+2096,1573,
+2097,54,
+2098,1562,"Tripod,SSD,Smart Bulb,Tablet"
+2099,392,
+2100,134,Smart Bulb
+2101,656,"CPU,Monitor,Scanner,Mechanical Keyboard,Laptop"
+2102,1218,"Cooling Pad,Smartphone,Webcam"
+2103,791,"USB Hub,Tripod"
+2104,388,"USB Cable,Webcam,Smartphone,RAM Stick,Power Supply Unit"
+2105,355,"Power Bank,Monitor"
+2106,618,"Smart Bulb,Printer"
+2107,877,Drone
+2108,239,"RAM Stick,Drone"
+2109,991,"Smartwatch,Mechanical Keyboard,USB Hub"
+2110,1249,
+2111,57,"Wireless Mouse,Printer,Tablet,Drone"
+2112,963,Power Bank
+2113,311,Printer
+2114,533,
+2115,524,"USB Hub,Power Supply Unit"
+2116,129,
+2117,1380,"Cooling Pad,RAM Stick,USB Cable,Microphone,Monitor"
+2118,747,"WiFi Router,Power Strip"
+2119,284,"Power Strip,Microphone,USB Cable"
+2120,888,"Motherboard,HDMI Cable,Scanner,Smartphone"
+2121,303,"WiFi Router,Webcam"
+2122,686,"USB Hub,Smartwatch,Graphics Card,Monitor,Printer"
+2123,951,RAM Stick
+2124,927,"Drone,Microphone"
+2125,474,Mechanical Keyboard
+2126,165,"Smartwatch,Printer,Tripod"
+2127,667,"Graphics Card,Smartphone"
+2128,1605,
+2129,1405,"USB Cable,Smartwatch,Smartphone"
+2130,445,"Smartphone,Monitor,Cooling Pad,Laptop"
+2131,1574,"Bluetooth Speaker,Power Bank,HDMI Cable,Drone,Power Strip"
+2132,1356,"Tripod,CPU,Microphone"
+2133,1600,"Laptop,Power Bank,Graphics Card,Smartphone"
+2134,133,"Wireless Mouse,Headphones,Webcam,Tripod,Drone"
+2135,443,"Scanner,Microphone"
+2136,538,"USB Hub,Smart Bulb,Graphics Card,Headphones,Bluetooth Speaker"
+2137,165,Smartphone
+2138,209,Webcam
+2139,122,"Graphics Card,Graphics Card"
+2140,1289,"USB Cable,Mechanical Keyboard,External Hard Drive"
+2141,497,"VR Headset,Motherboard"
+2142,975,Monitor
+2143,1639,External Hard Drive
+2144,311,"CPU,Tripod,Smartwatch"
+2145,273,Microphone
+2146,943,"Tablet,External Hard Drive,Monitor,Smart Bulb,Cooling Pad"
+2147,694,"Tablet,Monitor,WiFi Router,Mechanical Keyboard"
+2148,847,"Headphones,RAM Stick"
+2149,1639,"Microphone,Webcam,WiFi Router,Monitor"
+2150,679,"Graphics Card,Smart Bulb,Monitor"
+2151,767,
+2152,466,RAM Stick
+2153,515,"Microphone,Tablet,CPU"
+2154,330,"Cooling Pad,HDMI Cable,Tripod"
+2155,1532,"Microphone,Charger,Graphics Card,Wireless Mouse"
+2156,1123,"VR Headset,Headphones,SSD"
+2157,1573,"Microphone,Printer,CPU,Headphones"
+2158,1156,"Tablet,Tripod"
+2159,780,"USB Cable,Wireless Mouse,Microphone,Mechanical Keyboard,Graphics Card"
+2160,1170,"Laptop Stand,RAM Stick,Graphics Card,Motherboard"
+2161,881,"Mechanical Keyboard,Power Bank,Graphics Card"
+2162,1359,"Smartphone,WiFi Router,Smartwatch,Printer"
+2163,574,Webcam
+2164,729,"Scanner,VR Headset"
+2165,664,"Printer,Power Strip,Graphics Card,USB Cable,Cooling Pad"
+2166,901,"Smart Bulb,USB Cable,Motherboard"
+2167,866,
+2168,843,"Microphone,Wireless Mouse,USB Hub,Drone,Laptop"
+2169,277,"Drone,Charger"
+2170,971,"Laptop,Microphone,Power Bank,Smartphone"
+2171,375,"Tablet,Laptop Stand,Tripod"
+2172,223,
+2173,842,"Headphones,Power Supply Unit,Tablet,Laptop Stand"
+2174,379,WiFi Router
+2175,70,"Printer,Graphics Card"
+2176,141,"Laptop,Headphones,HDMI Cable,Drone"
+2177,1018,"Graphics Card,Smartphone"
+2178,965,
+2179,887,"Tablet,Charger"
+2180,655,"Wireless Mouse,SSD,USB Hub"
+2181,767,
+2182,117,"Wireless Mouse,SSD,External Hard Drive"
+2183,1031,"Power Strip,Microphone,Tripod"
+2184,1014,"Charger,Cooling Pad,Graphics Card,USB Cable"
+2185,261,
+2186,1500,"Smartwatch,Bluetooth Speaker"
+2187,203,"Power Bank,Tripod,Cooling Pad,Bluetooth Speaker"
+2188,1532,Drone
+2189,197,"External Hard Drive,USB Cable,USB Hub,HDMI Cable,Printer"
+2190,852,"Laptop Stand,Power Strip,Monitor,VR Headset"
+2191,1027,"Laptop Stand,HDMI Cable,Graphics Card,Motherboard,VR Headset"
+2192,376,Printer
+2193,267,"Graphics Card,WiFi Router"
+2194,471,"Cooling Pad,Graphics Card,Laptop Stand,Bluetooth Speaker"
+2195,1604,"Microphone,Tablet"
+2196,470,"CPU,Headphones,USB Cable,Microphone,WiFi Router"
+2197,291,"Power Supply Unit,Scanner,CPU"
+2198,1280,"Smart Bulb,Drone,Microphone"
+2199,600,"Laptop,WiFi Router"
+2200,1407,
+2201,703,"HDMI Cable,Scanner,Monitor"
+2202,1426,"Webcam,Headphones,Tripod,Laptop Stand,HDMI Cable"
+2203,1244,Graphics Card
+2204,599,Motherboard
+2205,956,"Drone,VR Headset,Power Strip,Motherboard"
+2206,1461,"Charger,Wireless Mouse,Printer,Smart Bulb,Power Strip"
+2207,189,"USB Hub,Laptop,Motherboard,Power Strip,Charger"
+2208,53,Smart Bulb
+2209,1478,"Charger,External Hard Drive,Graphics Card,Headphones,Scanner"
+2210,848,
+2211,1356,"WiFi Router,Power Bank,Mechanical Keyboard,Graphics Card,External Hard Drive"
+2212,988,"Cooling Pad,Microphone,Power Strip,Bluetooth Speaker,SSD"
+2213,149,
+2214,580,"Webcam,Power Bank,CPU,VR Headset"
+2215,488,"SSD,RAM Stick,Charger,Tripod,WiFi Router"
+2216,798,"Wireless Mouse,Cooling Pad,Printer,Microphone"
+2217,198,
+2218,1350,
+2219,748,Smart Bulb
+2220,681,"Graphics Card,Tripod,Smart Bulb,External Hard Drive"
+2221,1057,USB Hub
+2222,698,"External Hard Drive,WiFi Router,Power Supply Unit,Tripod,Wireless Mouse"
+2223,311,
+2224,424,Tripod
+2225,292,"USB Cable,External Hard Drive"
+2226,287,Scanner
+2227,255,
+2228,443,"Printer,Motherboard,Power Strip,Tripod,Graphics Card"
+2229,1296,"Laptop Stand,Monitor,Drone"
+2230,382,"Cooling Pad,Graphics Card,Laptop Stand"
+2231,1116,"Power Strip,Monitor"
+2232,105,"Headphones,Printer,Drone,Smartwatch,Scanner"
+2233,439,"External Hard Drive,Laptop Stand"
+2234,150,
+2235,1610,"Power Strip,Graphics Card,WiFi Router"
+2236,112,RAM Stick
+2237,1048,
+2238,1060,"WiFi Router,USB Hub,Laptop,Scanner,Laptop Stand"
+2239,921,"Mechanical Keyboard,Laptop Stand,Power Strip,USB Hub,Bluetooth Speaker"
+2240,1098,"Webcam,Scanner"
+2241,1419,"Scanner,Power Bank,Power Strip,Drone"
+2242,1639,External Hard Drive
+2243,74,"Printer,Scanner,Power Bank"
+2244,1531,USB Cable
+2245,622,
+2246,456,"Wireless Mouse,HDMI Cable,Tripod,Laptop,Power Bank"
+2247,1416,CPU
+2248,1471,
+2249,1098,Cooling Pad
+2250,1612,"External Hard Drive,Graphics Card,Cooling Pad,Monitor,HDMI Cable"
+2251,355,Monitor
+2252,1224,"WiFi Router,Power Bank"
+2253,973,Smartphone
+2254,940,"Laptop,Monitor,WiFi Router"
+2255,730,Monitor
+2256,1006,"Laptop Stand,Smartwatch,WiFi Router,Bluetooth Speaker,SSD"
+2257,462,"Scanner,Laptop Stand,Motherboard,Smart Bulb"
+2258,1139,Monitor
+2259,1438,"Laptop,Scanner,Power Bank,RAM Stick"
+2260,337,"Laptop Stand,Smart Bulb,Scanner,Headphones"
+2261,628,
+2262,1006,"Tripod,Mechanical Keyboard,Smartphone,Power Supply Unit,Headphones"
+2263,885,"Tablet,Power Supply Unit,Graphics Card"
+2264,713,"Power Bank,Smartphone,WiFi Router,VR Headset"
+2265,1110,"Printer,Bluetooth Speaker"
+2266,1365,
+2267,41,"Printer,Power Strip"
+2268,1322,"USB Hub,Drone,Monitor,Wireless Mouse,Power Bank"
+2269,1451,"Graphics Card,Printer,Motherboard,Laptop Stand,Laptop"
+2270,1278,"HDMI Cable,Power Bank,Laptop,Graphics Card"
+2271,589,Charger
+2272,783,
+2273,1284,CPU
+2274,181,"Smartphone,Scanner,Monitor,WiFi Router"
+2275,601,"Power Strip,Smartphone,Scanner,Tablet,Power Supply Unit"
+2276,1202,"Smartwatch,Scanner"
+2277,1155,"Drone,Wireless Mouse,Cooling Pad"
+2278,1608,"Wireless Mouse,Charger"
+2279,456,"SSD,Webcam,Bluetooth Speaker,Graphics Card"
+2280,701,"Power Supply Unit,Cooling Pad,CPU,Charger,Headphones"
+2281,178,
+2282,1597,"Monitor,Microphone,Power Strip,Tripod,VR Headset"
+2283,1410,"Power Bank,WiFi Router"
+2284,1590,Tablet
+2285,1317,"Drone,Graphics Card,Wireless Mouse"
+2286,1222,"CPU,Smartwatch,Drone"
+2287,951,Tripod
+2288,1604,Power Strip
+2289,403,"Scanner,Graphics Card,VR Headset,Printer"
+2290,764,"Power Supply Unit,Drone,RAM Stick"
+2291,1642,"Headphones,RAM Stick,Drone"
+2292,847,"Graphics Card,Graphics Card,Printer,Bluetooth Speaker"
+2293,1317,"Charger,Scanner,Monitor,Tripod"
+2294,820,"Scanner,Power Strip,Microphone,Headphones"
+2295,1636,"Graphics Card,CPU"
+2296,538,"HDMI Cable,Laptop"
+2297,1451,CPU
+2298,1015,"Laptop Stand,Tripod,Graphics Card,Cooling Pad"
+2299,676,"Monitor,Microphone"
+2300,1447,Monitor
+2301,87,"Tablet,WiFi Router,Smartphone,Laptop"
+2302,1505,Mechanical Keyboard
+2303,884,"Tripod,Power Strip,Scanner,Printer,USB Hub"
+2304,614,"External Hard Drive,USB Cable,Laptop"
+2305,895,"Graphics Card,SSD,Printer"
+2306,870,"Cooling Pad,Graphics Card"
+2307,941,
+2308,310,"Mechanical Keyboard,Headphones,Smart Bulb,Tablet"
+2309,1095,"Wireless Mouse,Cooling Pad,CPU,Tripod,Bluetooth Speaker"
+2310,386,"VR Headset,Scanner"
+2311,1326,VR Headset
+2312,1189,"Laptop Stand,WiFi Router,Power Bank"
+2313,985,"Power Strip,Charger"
+2314,1445,
+2315,1251,"Power Strip,Smartwatch"
+2316,333,"Power Supply Unit,USB Hub,Cooling Pad"
+2317,1313,"RAM Stick,WiFi Router,Cooling Pad"
+2318,264,"Graphics Card,Power Strip,WiFi Router,USB Cable,HDMI Cable"
+2319,79,"Bluetooth Speaker,Cooling Pad,Smart Bulb,Microphone"
+2320,763,"Laptop Stand,Graphics Card,Wireless Mouse,Tripod"
+2321,112,"Webcam,HDMI Cable,CPU,Cooling Pad"
+2322,1202,"Microphone,RAM Stick,Smartwatch,Mechanical Keyboard,SSD"
+2323,831,"Bluetooth Speaker,Microphone"
+2324,235,"Cooling Pad,Power Supply Unit"
+2325,985,
+2326,430,"Motherboard,Power Strip,External Hard Drive"
+2327,1356,"Printer,USB Cable,SSD,Bluetooth Speaker,Motherboard"
+2328,962,"Mechanical Keyboard,Graphics Card"
+2329,1484,Mechanical Keyboard
+2330,582,
+2331,1147,"Bluetooth Speaker,Webcam"
+2332,1098,"Wireless Mouse,Microphone,Tablet,Smartwatch,Power Supply Unit"
+2333,583,Power Strip
+2334,1274,"Tripod,Laptop Stand,Drone,Power Bank,Bluetooth Speaker"
+2335,684,"Webcam,Headphones,Drone"
+2336,1629,Drone
+2337,372,"Graphics Card,Smartphone,Motherboard,USB Cable"
+2338,789,"Charger,VR Headset"
+2339,955,"Wireless Mouse,Webcam,Scanner,SSD,CPU"
+2340,209,Charger
+2341,1551,"RAM Stick,Charger,Smart Bulb,SSD,Microphone"
+2342,1433,"SSD,External Hard Drive,Power Supply Unit,Charger"
+2343,1054,"Power Strip,WiFi Router,Smart Bulb,Printer,Scanner"
+2344,1256,
+2345,761,Smartwatch
+2346,848,"Laptop,Webcam,Motherboard,Laptop Stand,USB Hub"
+2347,1209,
+2348,639,"Bluetooth Speaker,WiFi Router,Headphones,Cooling Pad,Monitor"
+2349,1225,"CPU,Smart Bulb,RAM Stick"
+2350,49,"Bluetooth Speaker,Smart Bulb"
+2351,407,"Smart Bulb,WiFi Router,Power Supply Unit,Printer"
+2352,1029,"Tablet,Power Supply Unit,Webcam"
+2353,1097,VR Headset
+2354,36,
+2355,850,"Cooling Pad,Headphones"
+2356,887,"Bluetooth Speaker,Smartwatch"
+2357,1280,"Power Strip,Graphics Card"
+2358,1374,
+2359,285,"Scanner,USB Hub,Wireless Mouse,CPU,Microphone"
+2360,922,"Graphics Card,Tripod,Wireless Mouse,Power Strip,Mechanical Keyboard"
+2361,278,"Graphics Card,Power Strip"
+2362,1503,"Power Supply Unit,Printer"
+2363,1056,"Graphics Card,Headphones,External Hard Drive,Smartphone"
+2364,499,
+2365,730,RAM Stick
+2366,281,"Laptop Stand,Tablet"
+2367,573,"Power Bank,Wireless Mouse,Graphics Card,Headphones"
+2368,643,"External Hard Drive,Graphics Card,Headphones,Smartwatch,Monitor"
+2369,598,
+2370,1497,"Smartwatch,CPU,Tripod"
+2371,1094,HDMI Cable
+2372,297,"Smartphone,Microphone,Smartwatch,Tripod"
+2373,697,"Power Strip,Scanner,Smartphone"
+2374,715,"Power Strip,Monitor,Graphics Card"
+2375,1283,"Monitor,External Hard Drive,Laptop,HDMI Cable"
+2376,1222,Tripod
+2377,1341,"Laptop Stand,Smartwatch"
+2378,1196,"Graphics Card,WiFi Router,Power Strip,Laptop Stand,Drone"
+2379,667,Webcam
+2380,685,"Tripod,Webcam,Smart Bulb,Wireless Mouse"
+2381,224,"Tripod,Laptop Stand"
+2382,177,Power Strip
+2383,1273,
+2384,32,"Cooling Pad,USB Hub,Scanner,USB Cable,CPU"
+2385,1342,"Laptop Stand,Bluetooth Speaker"
+2386,1176,"Graphics Card,Smartphone,SSD,Laptop,RAM Stick"
+2387,44,"Smartwatch,Laptop,Power Supply Unit,Graphics Card,Smart Bulb"
+2388,76,Motherboard
+2389,148,
+2390,271,Laptop
+2391,993,"WiFi Router,Smartwatch,Laptop,Scanner,Power Bank"
+2392,445,"WiFi Router,CPU,Power Supply Unit,Headphones,External Hard Drive"
+2393,802,"CPU,HDMI Cable"
+2394,347,"Bluetooth Speaker,CPU,External Hard Drive,RAM Stick"
+2395,1175,"Cooling Pad,USB Hub,Headphones,Charger,Microphone"
+2396,1666,
+2397,1396,
+2398,1455,"Power Supply Unit,Webcam,CPU"
+2399,823,"USB Cable,Bluetooth Speaker,Laptop,Microphone"
+2400,1262,"Motherboard,Graphics Card"
+2401,938,"CPU,Wireless Mouse,Headphones"
+2402,278,"Wireless Mouse,Smart Bulb"
+2403,65,Graphics Card
+2404,712,
+2405,722,"Graphics Card,Bluetooth Speaker,Tablet"
+2406,1563,Charger
+2407,305,"Mechanical Keyboard,USB Hub,Laptop,Printer,Tripod"
+2408,1464,"RAM Stick,Graphics Card,Wireless Mouse,Graphics Card,Bluetooth Speaker"
+2409,521,
+2410,1290,Mechanical Keyboard
+2411,150,"Webcam,Graphics Card,Motherboard,Charger,WiFi Router"
+2412,715,
+2413,627,"Graphics Card,Laptop Stand,Scanner,Tablet,HDMI Cable"
+2414,556,"Tablet,Printer,HDMI Cable,External Hard Drive,Graphics Card"
+2415,1613,Scanner
+2416,1236,"Printer,Microphone,Laptop Stand"
+2417,515,"Scanner,Tripod,External Hard Drive,Drone,Smartphone"
+2418,1240,"Power Strip,SSD,Monitor"
+2419,994,Smartphone
+2420,1078,"Mechanical Keyboard,Graphics Card,Scanner,Graphics Card"
+2421,380,"Smartwatch,Drone,Bluetooth Speaker"
+2422,688,Scanner
+2423,1225,"Motherboard,Bluetooth Speaker,RAM Stick"
+2424,612,"Graphics Card,Charger"
+2425,1247,"RAM Stick,Scanner"
+2426,394,"SSD,USB Cable,Monitor,Power Bank,RAM Stick"
+2427,285,"Tablet,Drone,Laptop,Graphics Card"
+2428,685,Mechanical Keyboard
+2429,1422,"Mechanical Keyboard,Drone,WiFi Router,Headphones"
+2430,1167,"USB Cable,Charger,USB Hub,Smart Bulb,Drone"
+2431,1514,"Graphics Card,External Hard Drive,CPU"
+2432,856,"Charger,Smartwatch,Graphics Card,Wireless Mouse"
+2433,665,WiFi Router
+2434,71,"Drone,USB Hub,Cooling Pad,WiFi Router,Power Bank"
+2435,229,"Monitor,Graphics Card,Cooling Pad"
+2436,293,"Mechanical Keyboard,Headphones,External Hard Drive,VR Headset"
+2437,68,
+2438,123,"Cooling Pad,Motherboard,Bluetooth Speaker"
+2439,295,Smartwatch
+2440,913,"Laptop Stand,SSD,Graphics Card,Smart Bulb,Headphones"
+2441,706,"Printer,Microphone,External Hard Drive,CPU"
+2442,1191,"External Hard Drive,Graphics Card,Microphone,Smartwatch"
+2443,1293,"HDMI Cable,SSD,Mechanical Keyboard,Printer,Scanner"
+2444,488,"USB Hub,Webcam,Graphics Card,Mechanical Keyboard"
+2445,1414,"Microphone,Monitor"
+2446,1212,"Drone,WiFi Router,External Hard Drive,Smartwatch,Tablet"
+2447,1633,Charger
+2448,1296,"Drone,Monitor"
+2449,1649,Motherboard
+2450,557,"Wireless Mouse,CPU,VR Headset"
+2451,862,
+2452,718,"Smart Bulb,Tripod"
+2453,1300,"USB Cable,Smartwatch,Microphone"
+2454,1438,"USB Hub,Laptop"
+2455,1583,"Charger,Scanner,Cooling Pad,Mechanical Keyboard,Smartwatch"
+2456,676,"Charger,Laptop Stand,Bluetooth Speaker,Graphics Card,Drone"
+2457,1028,"Microphone,Tripod"
+2458,553,"Smart Bulb,Power Strip,Graphics Card,Laptop Stand,USB Hub"
+2459,68,"Graphics Card,USB Hub,Headphones"
+2460,90,
+2461,623,Microphone
+2462,25,"Scanner,Smartphone,Smart Bulb,Wireless Mouse"
+2463,808,"Bluetooth Speaker,Printer,Laptop Stand,Charger,Power Bank"
+2464,615,"Mechanical Keyboard,Cooling Pad"
+2465,475,"Headphones,Power Bank"
+2466,681,
+2467,88,"VR Headset,Cooling Pad,External Hard Drive,RAM Stick,Headphones"
+2468,593,"Graphics Card,Cooling Pad,Power Bank,Power Strip,Mechanical Keyboard"
+2469,100,
+2470,576,
+2471,1548,"Tripod,Wireless Mouse"
+2472,188,Smartwatch
+2473,1216,"Microphone,Smartphone,Monitor,Tripod,Laptop"
+2474,1092,"VR Headset,External Hard Drive"
+2475,1019,"RAM Stick,Monitor"
+2476,1164,"Bluetooth Speaker,USB Cable,External Hard Drive"
+2477,327,"Headphones,Laptop,Smartwatch,VR Headset,Power Supply Unit"
+2478,1050,"Bluetooth Speaker,Mechanical Keyboard,USB Hub"
+2479,694,"Headphones,HDMI Cable"
+2480,873,"Cooling Pad,Printer,Monitor,VR Headset"
+2481,1108,"WiFi Router,Laptop,Graphics Card"
+2482,881,
+2483,1079,
+2484,194,"Wireless Mouse,Mechanical Keyboard,Charger,Printer,Laptop"
+2485,64,"USB Cable,Webcam,Laptop"
+2486,1264,
+2487,901,Webcam
+2488,646,"Tripod,Laptop,Mechanical Keyboard,Smart Bulb"
+2489,798,
+2490,174,"Motherboard,Graphics Card,Drone,Microphone"
+2491,587,"Microphone,Scanner,USB Hub,Laptop Stand,Motherboard"
+2492,172,"Smartwatch,External Hard Drive,Mechanical Keyboard"
+2493,1630,"Mechanical Keyboard,VR Headset"
+2494,299,"Smartphone,Cooling Pad,Charger,Wireless Mouse,Webcam"
+2495,1343,"Power Bank,Wireless Mouse,Webcam,Cooling Pad"
+2496,1038,
+2497,961,"USB Cable,Tripod,Tablet,Scanner,HDMI Cable"
+2498,1451,"Tripod,Scanner,Motherboard"
+2499,1565,
+2500,1315,Webcam
+2501,772,"External Hard Drive,Scanner,HDMI Cable,Smartwatch,Mechanical Keyboard"
+2502,519,"Webcam,USB Hub"
+2503,1171,"External Hard Drive,Graphics Card"
+2504,770,"Monitor,RAM Stick,Printer"
+2505,580,
+2506,1535,"Webcam,Smart Bulb,Bluetooth Speaker"
+2507,1323,Drone
+2508,706,"USB Cable,Scanner,Laptop,Wireless Mouse"
+2509,1655,"Microphone,Headphones,Tripod,Power Bank,Laptop"
+2510,395,"VR Headset,Microphone,Drone,Power Supply Unit"
+2511,952,"Graphics Card,External Hard Drive,Power Supply Unit"
+2512,1235,"Mechanical Keyboard,Graphics Card,Power Bank,Microphone"
+2513,968,"Scanner,Motherboard,Smart Bulb,External Hard Drive,Power Strip"
+2514,955,"Monitor,Smartphone,VR Headset,External Hard Drive"
+2515,169,"Graphics Card,Printer,HDMI Cable,VR Headset"
+2516,913,"Cooling Pad,Microphone,Monitor,Headphones"
+2517,630,"Power Supply Unit,Scanner,Tablet,SSD"
+2518,467,"Bluetooth Speaker,Power Strip,Scanner,Printer,Laptop Stand"
+2519,1659,Headphones
+2520,715,"Smartwatch,Charger,External Hard Drive,Power Supply Unit,Printer"
+2521,8,"Bluetooth Speaker,Tripod,WiFi Router,Headphones"
+2522,1561,"Microphone,RAM Stick,Power Bank"
+2523,953,"Microphone,Charger,WiFi Router,Laptop Stand"
+2524,1425,"Microphone,Cooling Pad,RAM Stick,Mechanical Keyboard,Scanner"
+2525,381,"HDMI Cable,USB Hub"
+2526,417,
+2527,1207,"VR Headset,Printer,External Hard Drive,Webcam,Motherboard"
+2528,1606,"Cooling Pad,Scanner,Monitor"
+2529,1212,"Charger,External Hard Drive,HDMI Cable"
+2530,251,"Smartphone,Webcam,Graphics Card"
+2531,179,"Smart Bulb,Bluetooth Speaker,Graphics Card,Charger"
+2532,392,"Smartphone,SSD,Scanner,Microphone"
+2533,8,"HDMI Cable,Graphics Card,Bluetooth Speaker,External Hard Drive,USB Hub"
+2534,278,"VR Headset,Charger,SSD,Power Bank,Printer"
+2535,1172,"VR Headset,Scanner,Headphones,CPU"
+2536,1518,"Bluetooth Speaker,USB Hub,Smartwatch"
+2537,534,"Drone,Laptop,Cooling Pad"
+2538,330,
+2539,1556,
+2540,842,"Microphone,HDMI Cable,Drone,Motherboard"
+2541,138,Laptop
+2542,1348,"WiFi Router,Bluetooth Speaker,Graphics Card,VR Headset,Wireless Mouse"
+2543,1273,VR Headset
+2544,776,"RAM Stick,WiFi Router"
+2545,644,Wireless Mouse
+2546,307,"Cooling Pad,Power Bank,Wireless Mouse,Headphones"
+2547,1002,"Smart Bulb,Motherboard"
+2548,1137,
+2549,1208,"Charger,Tripod,Webcam"
+2550,113,"Wireless Mouse,WiFi Router"
+2551,473,"Monitor,Headphones,Cooling Pad,Tablet,Drone"
+2552,47,Power Supply Unit
+2553,1572,"Graphics Card,Microphone,Headphones,WiFi Router"
+2554,237,"Bluetooth Speaker,USB Cable"
+2555,995,"Scanner,Printer,Tablet,Bluetooth Speaker"
+2556,765,"HDMI Cable,VR Headset"
+2557,480,"Motherboard,Tablet,Microphone"
+2558,1455,"Mechanical Keyboard,Power Strip,Power Bank"
+2559,957,Laptop Stand
+2560,930,Monitor
+2561,778,"Power Strip,Graphics Card"
+2562,452,"Smart Bulb,Power Supply Unit,VR Headset,Microphone,Motherboard"
+2563,1492,"Bluetooth Speaker,External Hard Drive,Wireless Mouse,Charger"
+2564,1558,RAM Stick
+2565,696,"Drone,Power Bank,SSD"
+2566,1539,Monitor
+2567,298,"Graphics Card,Motherboard,Graphics Card,USB Hub"
+2568,982,"Tripod,Mechanical Keyboard"
+2569,180,
+2570,1461,"Power Strip,Bluetooth Speaker,Webcam,Motherboard,Graphics Card"
+2571,422,"WiFi Router,Power Strip"
+2572,197,"USB Cable,Laptop Stand,Cooling Pad,Bluetooth Speaker,Microphone"
+2573,929,
+2574,1629,"Smartwatch,Headphones"
+2575,593,Power Bank
+2576,905,USB Cable
+2577,1391,"RAM Stick,Tripod,Laptop Stand,Power Supply Unit"
+2578,1462,"Tablet,Graphics Card,CPU,Printer"
+2579,474,
+2580,1364,"Graphics Card,HDMI Cable,Smart Bulb"
+2581,905,"Power Strip,Printer,Monitor"
+2582,1061,"Cooling Pad,Graphics Card,Tripod,Webcam,Laptop"
+2583,721,"CPU,USB Hub,Laptop Stand,Power Supply Unit,USB Cable"
+2584,232,HDMI Cable
+2585,516,
+2586,1578,"Laptop Stand,Wireless Mouse"
+2587,774,"Motherboard,Bluetooth Speaker,Headphones,USB Cable,Tripod"
+2588,1492,CPU
+2589,729,"External Hard Drive,VR Headset,WiFi Router"
+2590,977,Power Bank
+2591,1354,
+2592,1031,
+2593,1237,
+2594,934,
+2595,567,
+2596,1005,Microphone
+2597,1561,"HDMI Cable,Power Strip"
+2598,370,"Tablet,Charger"
+2599,1314,"HDMI Cable,Cooling Pad,WiFi Router"
+2600,1007,"Monitor,External Hard Drive,Graphics Card"
+2601,427,"Wireless Mouse,Smartwatch,Laptop,CPU,Printer"
+2602,265,HDMI Cable
+2603,254,"Printer,WiFi Router,Microphone,Cooling Pad,External Hard Drive"
+2604,126,
+2605,254,"Wireless Mouse,RAM Stick,Graphics Card"
+2606,907,Scanner
+2607,1587,"RAM Stick,CPU"
+2608,1000,"Motherboard,SSD,Tripod,USB Cable,Tablet"
+2609,1661,
+2610,1070,Mechanical Keyboard
+2611,142,Power Supply Unit
+2612,1572,"Monitor,RAM Stick"
+2613,1215,Wireless Mouse
+2614,285,"Smartphone,Tripod,Laptop,Laptop Stand"
+2615,767,"Power Bank,Smartwatch,Monitor,CPU,Power Supply Unit"
+2616,1292,"HDMI Cable,WiFi Router,Webcam,Mechanical Keyboard"
+2617,679,"CPU,VR Headset,Mechanical Keyboard"
+2618,1419,
+2619,1217,"Laptop Stand,Graphics Card,HDMI Cable,Smartphone"
+2620,457,"USB Hub,Power Bank,Power Strip,Graphics Card"
+2621,645,"Laptop,Tablet"
+2622,1402,RAM Stick
+2623,146,"CPU,Laptop Stand,WiFi Router,Tablet,Drone"
+2624,861,"HDMI Cable,Tablet"
+2625,953,"Tripod,CPU"
+2626,103,"Power Bank,Power Supply Unit,Monitor,Webcam"
+2627,81,"Power Bank,Microphone,Cooling Pad,USB Hub"
+2628,838,
+2629,488,
+2630,787,"Laptop,Graphics Card,USB Cable,Cooling Pad"
+2631,1059,"CPU,Printer"
+2632,1458,"Bluetooth Speaker,Tablet,Motherboard,VR Headset,Smart Bulb"
+2633,840,Laptop
+2634,410,"Webcam,Power Supply Unit,Printer,HDMI Cable,Smartwatch"
+2635,962,"Power Bank,Microphone,CPU"
+2636,1643,"Graphics Card,Power Bank,Microphone,Webcam"
+2637,982,"Power Supply Unit,USB Hub,Power Strip"
+2638,561,Tripod
+2639,628,Smartwatch
+2640,1435,"Scanner,Drone"
+2641,183,"Laptop,Power Supply Unit,SSD,Scanner"
+2642,1561,"SSD,Smart Bulb"
+2643,692,External Hard Drive
+2644,1630,"Laptop Stand,SSD"
+2645,1594,
+2646,5,"Bluetooth Speaker,USB Hub"
+2647,1090,"RAM Stick,Wireless Mouse"
+2648,1449,"Graphics Card,USB Cable"
+2649,177,"SSD,Cooling Pad,Scanner,Monitor"
+2650,1610,"Power Strip,WiFi Router,HDMI Cable,Graphics Card,Mechanical Keyboard"
+2651,1424,Motherboard
+2652,1089,"Monitor,Bluetooth Speaker,Laptop"
+2653,1366,"CPU,Power Bank,Graphics Card,Webcam,Monitor"
+2654,624,
+2655,658,"Graphics Card,Headphones,Drone,HDMI Cable,Monitor"
+2656,456,"Webcam,Mechanical Keyboard,VR Headset"
+2657,46,Headphones
+2658,546,Monitor
+2659,1099,Bluetooth Speaker
+2660,1234,"Drone,WiFi Router,Headphones,RAM Stick"
+2661,432,Scanner
+2662,289,Headphones
+2663,1435,Bluetooth Speaker
+2664,822,"HDMI Cable,USB Cable"
+2665,914,"External Hard Drive,Cooling Pad,RAM Stick"
+2666,1099,
+2667,70,"Charger,Graphics Card,Drone"
+2668,1220,"SSD,Power Strip"
+2669,274,"Power Supply Unit,Scanner,Webcam,Graphics Card,USB Cable"
+2670,1071,"SSD,Microphone,Wireless Mouse,Charger"
+2671,747,"VR Headset,Smart Bulb,Charger"
+2672,618,"USB Cable,Webcam,Smartphone,HDMI Cable"
+2673,64,"Graphics Card,Smart Bulb,Scanner"
+2674,265,"Printer,Graphics Card"
+2675,483,Tripod
+2676,1312,Graphics Card
+2677,682,"USB Hub,Laptop Stand"
+2678,248,
+2679,497,Wireless Mouse
+2680,197,"USB Cable,VR Headset,Graphics Card"
+2681,1392,Graphics Card
+2682,1164,"HDMI Cable,Webcam,Headphones"
+2683,334,"Webcam,Wireless Mouse,USB Hub,Laptop Stand,Power Bank"
+2684,361,"WiFi Router,USB Cable,Webcam,Mechanical Keyboard"
+2685,1599,
+2686,241,
+2687,72,"Smart Bulb,SSD,USB Cable,WiFi Router"
+2688,285,"External Hard Drive,Microphone,Laptop"
+2689,1377,
+2690,1363,"Power Supply Unit,Printer,Smart Bulb"
+2691,1631,
+2692,1282,"RAM Stick,Power Supply Unit"
+2693,1371,"Laptop Stand,Headphones,Tripod"
+2694,573,"Graphics Card,Laptop"
+2695,611,"RAM Stick,Charger,Monitor,Scanner,WiFi Router"
+2696,828,"Headphones,Microphone,Printer,Laptop Stand,Mechanical Keyboard"
+2697,1302,"Drone,Scanner,Smart Bulb,Headphones"
+2698,666,"Power Supply Unit,CPU"
+2699,412,
+2700,1374,External Hard Drive
+2701,273,"Power Supply Unit,Printer,Smartphone,Motherboard"
+2702,923,"Cooling Pad,Tripod"
+2703,230,"Tablet,RAM Stick,Mechanical Keyboard,Power Strip"
+2704,65,"Graphics Card,RAM Stick,USB Hub,Printer"
+2705,165,Scanner
+2706,1301,"Graphics Card,Smartwatch,Motherboard,RAM Stick,Mechanical Keyboard"
+2707,823,"USB Hub,SSD,Graphics Card"
+2708,353,"Smart Bulb,Tripod,Laptop Stand,CPU"
+2709,449,"Tripod,Bluetooth Speaker"
+2710,547,"Cooling Pad,Webcam,Laptop Stand"
+2711,462,"Charger,Tablet,Mechanical Keyboard,External Hard Drive,Smartwatch"
+2712,1157,Graphics Card
+2713,332,"External Hard Drive,WiFi Router,USB Cable"
+2714,1090,"VR Headset,Webcam,Cooling Pad"
+2715,223,"Wireless Mouse,USB Hub"
+2716,55,"Bluetooth Speaker,Drone,Printer"
+2717,188,"HDMI Cable,Laptop"
+2718,304,
+2719,633,Wireless Mouse
+2720,1052,"Charger,Laptop,Smart Bulb,Bluetooth Speaker"
+2721,508,"SSD,Smart Bulb,CPU,Bluetooth Speaker"
+2722,542,"Drone,Cooling Pad"
+2723,1150,
+2724,82,"Graphics Card,Power Bank,Tablet,Mechanical Keyboard,Power Supply Unit"
+2725,1577,
+2726,510,"WiFi Router,Power Supply Unit,Graphics Card,Monitor"
+2727,203,"CPU,VR Headset,Power Supply Unit,Monitor,Cooling Pad"
+2728,1529,"WiFi Router,Graphics Card,Wireless Mouse,USB Cable,Smart Bulb"
+2729,1419,"Laptop Stand,Wireless Mouse"
+2730,283,VR Headset
+2731,187,"CPU,Charger,Wireless Mouse,Laptop,External Hard Drive"
+2732,1394,"Printer,Bluetooth Speaker,Power Bank,Charger"
+2733,246,"Graphics Card,Wireless Mouse"
+2734,1040,"Drone,External Hard Drive"
+2735,1250,"Printer,Bluetooth Speaker,Charger,Microphone"
+2736,1137,
+2737,87,
+2738,1418,"Printer,Charger,WiFi Router"
+2739,1440,"Wireless Mouse,WiFi Router,Microphone,Charger,Tablet"
+2740,357,"Printer,USB Cable,Graphics Card,CPU"
+2741,1299,"Bluetooth Speaker,Monitor,Graphics Card,Graphics Card"
+2742,94,"CPU,WiFi Router,HDMI Cable,RAM Stick,Webcam"
+2743,938,"HDMI Cable,Laptop Stand,Power Supply Unit,Bluetooth Speaker,WiFi Router"
+2744,488,Power Strip
+2745,1490,Scanner
+2746,1448,"Mechanical Keyboard,Smart Bulb,VR Headset,Motherboard"
+2747,188,"VR Headset,Scanner,Motherboard,Printer"
+2748,1337,"SSD,Printer,Bluetooth Speaker,Microphone"
+2749,1205,"Smartwatch,CPU"
+2750,1234,
+2751,1340,"HDMI Cable,Microphone"
+2752,1414,"Power Bank,USB Cable,Laptop Stand,Power Strip,Graphics Card"
+2753,1471,"Drone,USB Cable,Mechanical Keyboard,Charger"
+2754,1340,"Mechanical Keyboard,Smartwatch"
+2755,1399,Cooling Pad
+2756,1429,"Headphones,Scanner,Charger,Printer"
+2757,1585,"Laptop Stand,VR Headset,Cooling Pad,Graphics Card,Smartphone"
+2758,674,"Tablet,Cooling Pad"
+2759,1645,"Drone,Smart Bulb,USB Cable,Power Supply Unit,Graphics Card"
+2760,227,
+2761,777,"Power Supply Unit,Scanner,WiFi Router,Wireless Mouse"
+2762,1344,
+2763,935,Headphones
+2764,536,"Drone,Cooling Pad"
+2765,368,"External Hard Drive,Charger,Cooling Pad,CPU,Mechanical Keyboard"
+2766,1552,"Smartwatch,WiFi Router,Cooling Pad"
+2767,1565,VR Headset
+2768,948,"HDMI Cable,Tripod,Charger"
+2769,1207,
+2770,313,"Wireless Mouse,Graphics Card,Smart Bulb,Smartphone"
+2771,768,
+2772,516,"Printer,SSD,WiFi Router"
+2773,476,Monitor
+2774,1182,"Monitor,Tablet"
+2775,1475,"External Hard Drive,Graphics Card,CPU"
+2776,1252,"USB Cable,Motherboard,RAM Stick,External Hard Drive,Webcam"
+2777,262,"Smartwatch,Bluetooth Speaker,Scanner,Drone"
+2778,1649,"Charger,Smartwatch"
+2779,1276,"Power Strip,Graphics Card,USB Cable,Smart Bulb,Mechanical Keyboard"
+2780,1462,Graphics Card
+2781,1470,"CPU,Power Bank,Monitor"
+2782,1175,
+2783,46,"Power Bank,Smart Bulb"
+2784,844,Printer
+2785,1566,"Scanner,Laptop Stand"
+2786,964,"Power Supply Unit,RAM Stick,Tablet,CPU,Cooling Pad"
+2787,1162,Tripod
+2788,1393,
+2789,923,
+2790,903,"USB Cable,Webcam,Laptop,SSD"
+2791,382,"Printer,Monitor,Headphones"
+2792,781,"Tablet,Mechanical Keyboard,Smartwatch,USB Hub,RAM Stick"
+2793,1149,"Mechanical Keyboard,External Hard Drive"
+2794,874,"Monitor,VR Headset,USB Hub,Drone"
+2795,463,
+2796,1471,"Tripod,Wireless Mouse"
+2797,1360,"SSD,Laptop,Graphics Card,Smartwatch,External Hard Drive"
+2798,720,"Monitor,HDMI Cable,Power Bank,Tablet"
+2799,903,"Smart Bulb,Wireless Mouse,Scanner,External Hard Drive,Monitor"
+2800,653,"Graphics Card,Drone"
+2801,1259,"WiFi Router,SSD,Cooling Pad,USB Hub,Wireless Mouse"
+2802,525,"Laptop Stand,Tablet"
+2803,262,"Scanner,Power Bank,Charger,Headphones"
+2804,1138,"RAM Stick,Tripod,Bluetooth Speaker"
+2805,1658,"Motherboard,WiFi Router,Tripod"
+2806,1347,Laptop
+2807,1104,"WiFi Router,Headphones,Motherboard"
+2808,49,"Graphics Card,Charger,Monitor,Mechanical Keyboard"
+2809,1467,"Microphone,External Hard Drive,Tripod,Power Strip,USB Hub"
+2810,706,
+2811,410,"Laptop Stand,WiFi Router,Smartwatch,Drone"
+2812,55,"Smartphone,WiFi Router"
+2813,1603,
+2814,1032,"Wireless Mouse,WiFi Router,Bluetooth Speaker,Cooling Pad"
+2815,210,"Smartwatch,VR Headset,Monitor,Laptop Stand"
+2816,700,Mechanical Keyboard
+2817,978,
+2818,360,"Bluetooth Speaker,Charger,VR Headset,Drone"
+2819,886,"Motherboard,Drone"
+2820,885,"Smartphone,Microphone,Webcam,Charger,External Hard Drive"
+2821,567,HDMI Cable
+2822,1406,"Smartphone,Tablet,Power Supply Unit,USB Hub,Headphones"
+2823,267,"Laptop,Webcam,Graphics Card,Microphone,Headphones"
+2824,1505,"HDMI Cable,Headphones,Scanner"
+2825,1477,"Charger,Webcam,External Hard Drive,Cooling Pad,USB Cable"
+2826,305,"Tablet,Charger,Wireless Mouse,External Hard Drive,Headphones"
+2827,1406,HDMI Cable
+2828,468,"HDMI Cable,Bluetooth Speaker,CPU,External Hard Drive"
+2829,687,Smart Bulb
+2830,780,Smartwatch
+2831,1244,
+2832,1212,"Cooling Pad,Smartwatch"
+2833,1593,"SSD,VR Headset,USB Hub"
+2834,1605,Smartphone
+2835,185,"Smartphone,Power Supply Unit,HDMI Cable,WiFi Router,Cooling Pad"
+2836,1540,"WiFi Router,Graphics Card,Charger,USB Hub"
+2837,1212,"Smartwatch,RAM Stick,WiFi Router,VR Headset,Power Strip"
+2838,1165,"RAM Stick,Smartwatch,Microphone"
+2839,53,"Power Strip,Monitor,External Hard Drive,Scanner,USB Cable"
+2840,865,
+2841,1354,Scanner
+2842,748,
+2843,870,"Bluetooth Speaker,USB Cable,Graphics Card,Power Strip,SSD"
+2844,1268,"Graphics Card,Power Supply Unit,Monitor,VR Headset,Tablet"
+2845,1118,"Monitor,USB Hub,Smartwatch,WiFi Router,VR Headset"
+2846,813,"Wireless Mouse,WiFi Router,Power Strip"
+2847,590,"Smart Bulb,Graphics Card,Laptop,Microphone"
+2848,359,Tripod
+2849,640,"Scanner,Smart Bulb,Webcam,Microphone"
+2850,1375,"CPU,Tablet,Bluetooth Speaker,Charger"
+2851,1648,
+2852,1618,Monitor
+2853,1446,"Webcam,Drone,Smartphone,External Hard Drive,Headphones"
+2854,1647,"Monitor,Mechanical Keyboard,VR Headset,Laptop,Bluetooth Speaker"
+2855,1425,"SSD,Smartphone,USB Hub"
+2856,1538,"External Hard Drive,Microphone"
+2857,745,"VR Headset,Laptop Stand,Graphics Card"
+2858,1130,Power Strip
+2859,1397,"Cooling Pad,Wireless Mouse"
+2860,1010,
+2861,1253,"Charger,Headphones,External Hard Drive,USB Hub,Power Supply Unit"
+2862,1629,Charger
+2863,878,"SSD,External Hard Drive,Charger,Power Bank,CPU"
+2864,735,"USB Hub,SSD"
+2865,1065,"Smart Bulb,Wireless Mouse"
+2866,313,External Hard Drive
+2867,1658,"Cooling Pad,Smart Bulb,Smartwatch"
+2868,903,"Laptop Stand,Scanner,Power Bank,CPU,Laptop"
+2869,1087,
+2870,174,External Hard Drive
+2871,572,"Mechanical Keyboard,RAM Stick,Cooling Pad,Power Strip"
+2872,117,"Wireless Mouse,Tripod,Smart Bulb"
+2873,155,
+2874,1300,"Power Supply Unit,Motherboard,USB Hub,Laptop,Smart Bulb"
+2875,1136,
+2876,460,Monitor
+2877,699,"Power Strip,RAM Stick,Wireless Mouse"
+2878,1417,
+2879,297,Motherboard
+2880,658,"Tablet,WiFi Router,Smartwatch"
+2881,1571,"Mechanical Keyboard,Cooling Pad,Laptop Stand,External Hard Drive,USB Hub"
+2882,182,Webcam
+2883,513,
+2884,405,"Power Bank,Laptop,Printer,Charger"
+2885,237,"Graphics Card,External Hard Drive,Tripod,Monitor,Wireless Mouse"
+2886,51,"Power Supply Unit,External Hard Drive,Monitor"
+2887,1371,"Smart Bulb,Monitor"
+2888,25,"Laptop,Tablet,Headphones,Mechanical Keyboard"
+2889,632,"Monitor,External Hard Drive,Tablet"
+2890,71,Graphics Card
+2891,58,"Graphics Card,Scanner,Printer"
+2892,447,"Mechanical Keyboard,CPU,Tripod"
+2893,152,"Printer,Graphics Card,Charger,Smartphone"
+2894,1172,"Graphics Card,Motherboard,Tripod,Drone,Smartwatch"
+2895,1361,"Laptop,Mechanical Keyboard,External Hard Drive,SSD,Webcam"
+2896,809,"Bluetooth Speaker,Power Supply Unit,Smartphone"
+2897,1338,"Monitor,Printer"
+2898,679,"Motherboard,USB Cable,Graphics Card,Wireless Mouse,Tablet"
+2899,1512,
+2900,564,Power Bank
+2901,1371,"Webcam,Headphones"
+2902,111,"Headphones,RAM Stick,Graphics Card,CPU,HDMI Cable"
+2903,365,"Bluetooth Speaker,Microphone,Laptop Stand"
+2904,1288,"Smartphone,Smart Bulb,Laptop,Bluetooth Speaker,Graphics Card"
+2905,1526,"USB Cable,Motherboard"
+2906,1019,"Mechanical Keyboard,WiFi Router"
+2907,753,"WiFi Router,USB Cable,Graphics Card,USB Hub"
+2908,1108,
+2909,1200,"Mechanical Keyboard,Smartphone,Scanner"
+2910,303,"WiFi Router,Printer,Power Supply Unit"
+2911,315,"Motherboard,Smart Bulb"
+2912,1481,Smartphone
+2913,246,
+2914,1273,"Graphics Card,RAM Stick,Wireless Mouse,Bluetooth Speaker,Smartphone"
+2915,1007,
+2916,1021,"Wireless Mouse,Smart Bulb,Tablet,Webcam,HDMI Cable"
+2917,737,Motherboard
+2918,428,"Scanner,Power Bank"
+2919,1068,"Smartphone,WiFi Router,Tripod"
+2920,871,"Power Supply Unit,Motherboard,VR Headset,Graphics Card"
+2921,45,HDMI Cable
+2922,1173,"SSD,Drone,WiFi Router"
+2923,1579,"Scanner,Headphones,Cooling Pad,SSD,Smartwatch"
+2924,1032,"Power Bank,Power Strip,Cooling Pad,Webcam"
+2925,602,"USB Hub,USB Cable"
+2926,152,"Wireless Mouse,Scanner,Laptop,Mechanical Keyboard"
+2927,359,"Charger,Tablet,Tripod,RAM Stick"
+2928,1037,"Graphics Card,WiFi Router,Laptop Stand,Wireless Mouse"
+2929,1314,"Smartwatch,USB Hub"
+2930,1527,"Wireless Mouse,Motherboard,Cooling Pad"
+2931,1283,"Wireless Mouse,Tripod,Microphone"
+2932,1249,"Smartphone,Graphics Card,Drone,Monitor,Webcam"
+2933,1337,"Power Supply Unit,Headphones,Charger"
+2934,363,
+2935,1528,"Scanner,Headphones,Webcam"
+2936,928,HDMI Cable
+2937,600,"Smartwatch,Smart Bulb,Printer"
+2938,1515,"Monitor,WiFi Router,USB Cable,Smartphone,Charger"
+2939,398,
+2940,864,"HDMI Cable,RAM Stick,Mechanical Keyboard"
+2941,1575,"VR Headset,HDMI Cable"
+2942,1605,"HDMI Cable,Laptop,Graphics Card"
+2943,1571,"Graphics Card,Power Strip,Charger,Printer"
+2944,1400,"Power Supply Unit,Laptop Stand,Tripod"
+2945,1206,"HDMI Cable,Graphics Card,CPU,VR Headset,Webcam"
+2946,817,"Drone,External Hard Drive,Tablet,HDMI Cable,Power Strip"
+2947,1209,"Power Strip,Cooling Pad"
+2948,110,"Webcam,Tablet,VR Headset"
+2949,373,Power Bank
+2950,84,"Cooling Pad,Scanner"
+2951,1161,Power Bank
+2952,29,Mechanical Keyboard
+2953,1591,
+2954,670,"SSD,Webcam,Smartphone,Scanner,Tripod"
+2955,1228,Power Strip
+2956,1206,Drone
+2957,401,"Power Strip,Mechanical Keyboard,HDMI Cable,Laptop Stand"
+2958,500,"Tripod,SSD,USB Hub,Drone,Printer"
+2959,1413,"HDMI Cable,Smartwatch"
+2960,802,
+2961,132,"Microphone,Laptop,Laptop Stand,Graphics Card,Bluetooth Speaker"
+2962,450,"Monitor,Smartphone,Smart Bulb,Mechanical Keyboard,Smartwatch"
+2963,418,"Smartwatch,Bluetooth Speaker,Printer,Headphones"
+2964,411,"SSD,Monitor,Tripod"
+2965,216,
+2966,283,"USB Cable,Graphics Card,Cooling Pad"
+2967,1403,
+2968,877,"Graphics Card,HDMI Cable,Graphics Card,WiFi Router"
+2969,672,
+2970,652,Wireless Mouse
+2971,861,"USB Cable,Laptop"
+2972,1352,Laptop
+2973,1560,
+2974,955,"Printer,Laptop,Graphics Card,Tripod,Monitor"
+2975,1412,"Cooling Pad,Smartphone,Power Strip,Webcam,Laptop Stand"
+2976,1069,"Laptop Stand,Graphics Card"
+2977,819,
+2978,1129,"Power Supply Unit,Bluetooth Speaker"
+2979,908,"USB Cable,Laptop,Webcam,Monitor"
+2980,108,"Headphones,Mechanical Keyboard,Smartphone"
+2981,822,"WiFi Router,Power Strip,CPU,Graphics Card,RAM Stick"
+2982,90,"Power Supply Unit,Charger,RAM Stick,Printer"
+2983,801,"VR Headset,RAM Stick,Motherboard,Power Bank"
+2984,355,"Smart Bulb,VR Headset,Power Strip,Microphone,Drone"
+2985,1594,"Wireless Mouse,Printer,Charger"
+2986,141,Microphone
+2987,744,"Tripod,External Hard Drive,Printer,Wireless Mouse"
+2988,971,"Motherboard,Laptop Stand,Tripod,WiFi Router,Charger"
+2989,11,
+2990,408,"SSD,Mechanical Keyboard,USB Hub,HDMI Cable,Motherboard"
+2991,1571,"Tablet,Scanner"
+2992,1210,"SSD,Laptop,Scanner,RAM Stick,Laptop Stand"
+2993,227,"Graphics Card,Mechanical Keyboard,HDMI Cable,Smartphone"
+2994,697,"Power Strip,Smartwatch,Printer,Scanner,Power Supply Unit"
+2995,661,"Headphones,External Hard Drive,USB Cable"
+2996,100,"USB Cable,Smart Bulb,Cooling Pad,Graphics Card,Smartphone"
+2997,1563,Drone
+2998,507,
+2999,522,"VR Headset,Motherboard,Microphone,Tablet,Laptop Stand"
+3000,1340,"Power Strip,Smartphone"
+3001,568,
+3002,1417,"Motherboard,Power Strip"
+3003,1517,Smartwatch
+3004,1047,"USB Cable,Laptop"
+3005,919,
+3006,1021,"VR Headset,Drone,Wireless Mouse,Bluetooth Speaker,Laptop Stand"
+3007,227,CPU
+3008,1354,SSD
+3009,241,"Mechanical Keyboard,HDMI Cable,Smartphone,Drone,Power Bank"
+3010,884,
+3011,110,"Power Strip,VR Headset,Tripod"
+3012,1059,"Motherboard,USB Cable,Graphics Card"
+3013,660,"Monitor,Graphics Card,Power Supply Unit"
+3014,1231,"Laptop Stand,Smartwatch,WiFi Router,Graphics Card"
+3015,293,
+3016,669,Monitor
+3017,907,
+3018,910,"Wireless Mouse,Monitor,Mechanical Keyboard,HDMI Cable,Headphones"
+3019,1527,"Smart Bulb,RAM Stick"
+3020,1310,"Webcam,Graphics Card"
+3021,366,"Power Supply Unit,Laptop"
+3022,497,Scanner
+3023,1643,"Laptop,CPU"
+3024,319,
+3025,549,"Cooling Pad,Headphones,Graphics Card,Laptop Stand,Charger"
+3026,162,SSD
+3027,1554,"Graphics Card,USB Cable,Webcam"
+3028,381,"USB Cable,Headphones,Printer,WiFi Router"
+3029,469,"USB Hub,Microphone,Power Bank"
+3030,514,"Bluetooth Speaker,Power Bank"
+3031,1412,"USB Cable,Tripod,Cooling Pad"
+3032,481,"Headphones,External Hard Drive,Tripod,WiFi Router"
+3033,485,
+3034,1239,"CPU,USB Hub,Power Supply Unit,Motherboard"
+3035,336,"Webcam,Printer,Laptop Stand,Graphics Card,Mechanical Keyboard"
+3036,1267,SSD
+3037,320,Motherboard
+3038,1524,"Wireless Mouse,Tablet,VR Headset,CPU,Smartwatch"
+3039,112,"SSD,Power Supply Unit,Laptop,Motherboard,Smart Bulb"
+3040,50,"VR Headset,Smartphone,Power Supply Unit"
+3041,1289,"Webcam,HDMI Cable,Printer,Graphics Card"
+3042,1364,Smartwatch
+3043,593,"Headphones,CPU,USB Cable,USB Hub,WiFi Router"
+3044,1114,"Motherboard,USB Cable,Microphone,Smartphone"
+3045,652,"CPU,Scanner,Motherboard,Charger,Printer"
+3046,1234,
+3047,81,Wireless Mouse
+3048,724,Mechanical Keyboard
+3049,1030,USB Hub
+3050,730,"Mechanical Keyboard,Graphics Card,External Hard Drive"
+3051,1281,"Smart Bulb,Smartphone,Power Bank,Laptop,Bluetooth Speaker"
+3052,1006,"Webcam,USB Cable,Power Strip,Smartwatch"
+3053,306,"Charger,Power Supply Unit,Webcam,Laptop,Cooling Pad"
+3054,375,"Power Strip,Graphics Card,Graphics Card,Motherboard,CPU"
+3055,1214,"Monitor,HDMI Cable,SSD,Power Supply Unit,RAM Stick"
+3056,1268,"External Hard Drive,Microphone"
+3057,314,"Power Bank,Monitor,Tablet,Headphones"
+3058,540,USB Hub
+3059,511,"Mechanical Keyboard,Motherboard,Wireless Mouse,Tablet"
+3060,1223,"Tripod,USB Cable,External Hard Drive,Power Strip,WiFi Router"
+3061,820,"Webcam,Cooling Pad,Graphics Card"
+3062,668,
+3063,1579,"RAM Stick,Graphics Card"
+3064,69,"Smartwatch,Bluetooth Speaker,Motherboard,Laptop Stand,USB Cable"
+3065,768,Mechanical Keyboard
+3066,1157,"CPU,Monitor"
+3067,1228,Laptop
+3068,840,"Mechanical Keyboard,Laptop,Smart Bulb"
+3069,330,"Tripod,Motherboard"
+3070,1636,"USB Cable,Cooling Pad,HDMI Cable,USB Hub"
+3071,535,"Graphics Card,Power Supply Unit,Power Strip,Drone"
+3072,689,"Smartphone,Motherboard,SSD,Smart Bulb"
+3073,539,"Cooling Pad,Smartphone,Monitor,Printer,Laptop"
+3074,546,"Headphones,Smartphone,CPU,Graphics Card,SSD"
+3075,829,Power Bank
+3076,812,
+3077,483,
+3078,488,Wireless Mouse
+3079,650,Wireless Mouse
+3080,1268,"Smartphone,Graphics Card,WiFi Router,Power Strip"
+3081,305,"Drone,VR Headset,Wireless Mouse,Charger"
+3082,259,"Smartphone,Graphics Card,Motherboard,Drone,Laptop Stand"
+3083,1573,"Power Strip,Tripod,Smartphone"
+3084,414,"Bluetooth Speaker,Motherboard,Power Strip,Cooling Pad,Smartwatch"
+3085,414,"Printer,Power Supply Unit,Power Bank,Smart Bulb"
+3086,161,
+3087,307,"Smartwatch,USB Hub,Mechanical Keyboard,Smartphone,HDMI Cable"
+3088,516,"Headphones,USB Hub"
+3089,1187,Motherboard
+3090,1632,"HDMI Cable,CPU,Microphone,RAM Stick,Headphones"
+3091,923,"SSD,VR Headset"
+3092,206,"Tablet,Bluetooth Speaker,Power Supply Unit,Laptop Stand"
+3093,405,"WiFi Router,Smart Bulb,USB Cable,Printer"
+3094,791,"Webcam,Bluetooth Speaker,Scanner,Charger,Wireless Mouse"
+3095,453,"Motherboard,Smartphone,Tripod,USB Hub"
+3096,1227,
+3097,1214,"Scanner,Graphics Card,WiFi Router,Power Bank"
+3098,1455,"Graphics Card,Bluetooth Speaker"
+3099,1040,"Cooling Pad,Webcam,Bluetooth Speaker"
+3100,544,
+3101,461,"Mechanical Keyboard,Webcam,Power Supply Unit,USB Hub,Power Bank"
+3102,311,"RAM Stick,Smart Bulb,Graphics Card,Tablet"
+3103,302,HDMI Cable
+3104,885,"Headphones,SSD,Power Supply Unit,Motherboard,Microphone"
+3105,888,"Printer,Smart Bulb,Mechanical Keyboard,Tripod,Motherboard"
+3106,364,RAM Stick
+3107,1076,"Webcam,Motherboard,WiFi Router,Power Supply Unit"
+3108,138,
+3109,874,"Microphone,Scanner,USB Cable,Laptop,Drone"
+3110,1118,"Power Supply Unit,SSD,Tablet,RAM Stick,Smart Bulb"
+3111,732,USB Cable
+3112,1559,"HDMI Cable,Charger,WiFi Router,Smart Bulb,Bluetooth Speaker"
+3113,25,
+3114,428,
+3115,508,Microphone
+3116,1066,"Mechanical Keyboard,Laptop"
+3117,289,SSD
+3118,1429,"Cooling Pad,Laptop Stand,CPU,WiFi Router,Graphics Card"
+3119,1622,"Printer,USB Hub,SSD,External Hard Drive,Power Bank"
+3120,632,"Bluetooth Speaker,Wireless Mouse"
+3121,718,
+3122,688,
+3123,1107,
+3124,178,"Laptop Stand,USB Hub,Mechanical Keyboard,Wireless Mouse,Webcam"
+3125,1305,"Tablet,USB Cable,RAM Stick"
+3126,1662,"SSD,Graphics Card"
+3127,968,Bluetooth Speaker
+3128,1330,"VR Headset,CPU,Smart Bulb"
+3129,8,"Tablet,Mechanical Keyboard,Power Bank"
+3130,1393,"SSD,Smart Bulb,Graphics Card,Bluetooth Speaker,Graphics Card"
+3131,749,"USB Hub,Webcam,CPU,Charger"
+3132,824,"Power Bank,Charger"
+3133,1014,"Monitor,Smartphone,Webcam"
+3134,1483,Headphones
+3135,126,USB Cable
+3136,461,"Microphone,Laptop,External Hard Drive,Laptop Stand,CPU"
+3137,155,RAM Stick
+3138,335,
+3139,792,"HDMI Cable,Tablet,Scanner"
+3140,762,"Webcam,SSD,Graphics Card"
+3141,926,"Charger,External Hard Drive"
+3142,203,
+3143,332,
+3144,352,"Graphics Card,Motherboard,Tripod,Charger,HDMI Cable"
+3145,213,"Graphics Card,Motherboard,Power Bank,Smartphone"
+3146,832,
+3147,1063,"HDMI Cable,Tablet,Mechanical Keyboard"
+3148,317,"Headphones,Charger"
+3149,1060,"Monitor,Smart Bulb,Webcam,Laptop"
+3150,1179,"RAM Stick,Smart Bulb,USB Hub,Power Bank"
+3151,890,
+3152,584,"Graphics Card,WiFi Router"
+3153,543,"HDMI Cable,Power Bank,Smartphone,Smartwatch,Printer"
+3154,1148,"Monitor,CPU,Scanner,Motherboard"
+3155,921,"Graphics Card,Graphics Card,Headphones"
+3156,1617,"Tablet,Motherboard,Laptop Stand,VR Headset"
+3157,1425,
+3158,922,Bluetooth Speaker
+3159,538,Smart Bulb
+3160,407,"Microphone,Printer,Wireless Mouse,WiFi Router"
+3161,1175,Printer
+3162,1083,"Smartphone,Webcam,Smartwatch,Laptop Stand"
+3163,1657,"Drone,CPU,Printer,SSD,USB Hub"
+3164,1002,
+3165,1268,
+3166,1255,"USB Cable,Microphone"
+3167,707,USB Hub
+3168,828,"Power Supply Unit,Graphics Card,Monitor,SSD,Scanner"
+3169,1393,
+3170,1325,"Tripod,SSD,Laptop Stand"
+3171,433,
+3172,1393,"Laptop Stand,External Hard Drive,Bluetooth Speaker,RAM Stick"
+3173,1393,"Headphones,CPU,Smartwatch"
+3174,1234,"Printer,Smartwatch,RAM Stick"
+3175,238,"Mechanical Keyboard,Laptop,Power Strip,Smartwatch"
+3176,888,"Power Bank,CPU,Charger,Printer,USB Hub"
+3177,1220,"Scanner,Smart Bulb,Webcam"
+3178,554,
+3179,1390,"Microphone,Graphics Card,HDMI Cable,Tripod"
+3180,1381,"Monitor,Drone,HDMI Cable,USB Hub"
+3181,1365,Smartphone
+3182,1074,Scanner
+3183,923,"Monitor,Tablet,USB Cable,RAM Stick,Bluetooth Speaker"
+3184,1004,"Monitor,Power Strip"
+3185,748,"Power Supply Unit,RAM Stick,Graphics Card,Webcam"
+3186,990,Cooling Pad
+3187,1402,"Graphics Card,RAM Stick,Motherboard,SSD"
+3188,1624,Power Strip
+3189,1114,"Webcam,Graphics Card,External Hard Drive"
+3190,1026,"RAM Stick,USB Hub,Power Strip,Smartphone"
+3191,652,"Tablet,HDMI Cable"
+3192,1440,
+3193,1468,"USB Hub,Charger"
+3194,721,"Bluetooth Speaker,Graphics Card,Tablet,Monitor"
+3195,460,"Wireless Mouse,Tablet,Power Supply Unit,Scanner"
+3196,1282,"Microphone,Motherboard"
+3197,162,"Graphics Card,WiFi Router,Power Bank,Motherboard"
+3198,1275,RAM Stick
+3199,654,"Power Strip,Graphics Card"
+3200,1502,"Laptop,External Hard Drive,USB Cable"
+3201,769,"Wireless Mouse,Motherboard,Drone"
+3202,548,"External Hard Drive,Printer"
+3203,1090,"USB Hub,Scanner,HDMI Cable"
+3204,916,"Bluetooth Speaker,Smart Bulb,Microphone,Drone"
+3205,887,"Printer,HDMI Cable"
+3206,1460,"Power Strip,External Hard Drive,VR Headset,USB Cable,Cooling Pad"
+3207,1028,
+3208,183,"HDMI Cable,Power Strip,Smart Bulb"
+3209,1655,CPU
+3210,1542,SSD
+3211,65,Graphics Card
+3212,556,"USB Cable,Scanner,Monitor,Webcam"
+3213,95,"Wireless Mouse,USB Cable,Tripod"
+3214,996,"Laptop Stand,Microphone,VR Headset,Monitor"
+3215,1497,
+3216,1326,Bluetooth Speaker
+3217,697,
+3218,1166,"Power Bank,SSD,Headphones,Laptop Stand"
+3219,1664,"Microphone,Graphics Card,Webcam,Tripod,Laptop Stand"
+3220,376,"Motherboard,Microphone,Laptop Stand,Graphics Card"
+3221,1453,
+3222,963,
+3223,1312,"RAM Stick,Headphones,Drone"
+3224,643,Webcam
+3225,1097,
+3226,1125,"Power Bank,Scanner,Charger"
+3227,430,"Monitor,Graphics Card,RAM Stick,USB Cable,Graphics Card"
+3228,769,"Webcam,CPU,Printer,WiFi Router,Smartwatch"
+3229,509,"Graphics Card,Power Bank"
+3230,1334,"Monitor,Scanner,Wireless Mouse"
+3231,683,"WiFi Router,Power Strip"
+3232,422,"RAM Stick,Drone"
+3233,585,"Laptop Stand,Laptop"
+3234,181,
+3235,689,"Scanner,Tablet,USB Hub,Power Supply Unit"
+3236,373,"Webcam,Bluetooth Speaker,Laptop,VR Headset"
+3237,1419,"Charger,Power Bank"
+3238,1015,
+3239,1036,Graphics Card
+3240,656,"WiFi Router,Smart Bulb,Power Strip,Monitor"
+3241,1664,"Drone,Smartphone"
+3242,812,"RAM Stick,WiFi Router,Motherboard,Cooling Pad,Power Bank"
+3243,1624,"Smartwatch,HDMI Cable,WiFi Router"
+3244,1192,"SSD,External Hard Drive,Bluetooth Speaker,Motherboard"
+3245,624,
+3246,192,"Headphones,Power Bank,Cooling Pad,Graphics Card,WiFi Router"
+3247,464,"Monitor,Power Strip"
+3248,770,SSD
+3249,1034,SSD
+3250,647,"Smart Bulb,Mechanical Keyboard,WiFi Router"
+3251,1469,"USB Cable,Smartwatch,Power Bank"
+3252,756,Motherboard
+3253,825,Power Supply Unit
+3254,900,"SSD,USB Hub,Smart Bulb"
+3255,844,"USB Hub,RAM Stick"
+3256,840,"Power Strip,USB Cable,HDMI Cable,Microphone"
+3257,848,"USB Hub,Power Strip,Microphone"
+3258,1366,"Scanner,Laptop Stand,Drone"
+3259,1432,"Printer,External Hard Drive,Power Bank,USB Hub,VR Headset"
+3260,1327,"Printer,Tablet,Wireless Mouse,SSD,Cooling Pad"
+3261,1652,USB Cable
+3262,1032,"Graphics Card,HDMI Cable,Power Supply Unit,Laptop Stand,Drone"
+3263,169,
+3264,1548,"Printer,Smartwatch,External Hard Drive,Headphones,USB Cable"
+3265,568,Printer
+3266,387,"External Hard Drive,Laptop,Smartwatch,Headphones,HDMI Cable"
+3267,307,"Bluetooth Speaker,Webcam"
+3268,176,"Smart Bulb,WiFi Router"
+3269,1539,"Power Bank,Cooling Pad,Smartphone,Bluetooth Speaker,Microphone"
+3270,447,"SSD,USB Cable,Cooling Pad,Tablet"
+3271,767,"Smartphone,Graphics Card"
+3272,1288,
+3273,1491,
+3274,449,"Drone,Microphone"
+3275,453,"Laptop,Webcam"
+3276,1403,"Smartphone,Mechanical Keyboard,Webcam,Cooling Pad"
+3277,1187,
+3278,533,"Mechanical Keyboard,USB Cable,Laptop"
+3279,1605,"USB Hub,SSD"
+3280,390,Scanner
+3281,1309,"Power Supply Unit,RAM Stick,USB Hub"
+3282,1120,"VR Headset,Drone,Power Supply Unit,Mechanical Keyboard"
+3283,505,USB Hub
+3284,219,"Wireless Mouse,Tablet,Graphics Card"
+3285,1430,
+3286,666,"USB Cable,Scanner,USB Hub"
+3287,890,"WiFi Router,Microphone,CPU,Smartphone"
+3288,381,"SSD,USB Cable,Power Bank"
+3289,818,Graphics Card
+3290,1455,"SSD,Power Supply Unit,Headphones,Bluetooth Speaker"
+3291,831,"RAM Stick,WiFi Router,USB Cable"
+3292,737,
+3293,299,"USB Cable,Laptop Stand,Motherboard"
+3294,1474,"Laptop,Scanner,Charger"
+3295,909,"Webcam,Graphics Card"
+3296,1202,
+3297,513,"Motherboard,WiFi Router"
+3298,1628,"Smart Bulb,Charger,Microphone"
+3299,1338,
+3300,112,"Smartwatch,Graphics Card,Bluetooth Speaker"
+3301,741,
+3302,597,
+3303,50,"Charger,External Hard Drive,Motherboard,Power Strip"
+3304,141,"Scanner,Headphones,HDMI Cable,WiFi Router,Smartphone"
+3305,1366,"Tripod,Scanner,VR Headset,Laptop Stand,Mechanical Keyboard"
+3306,648,"Printer,Smart Bulb"
+3307,1444,
+3308,1448,
+3309,611,"Drone,Smartphone,Monitor"
+3310,1566,"Monitor,HDMI Cable,Laptop Stand,Tripod"
+3311,464,Power Strip
+3312,1645,"Wireless Mouse,External Hard Drive,Power Supply Unit,Tripod,Mechanical Keyboard"
+3313,1107,
+3314,726,Printer
+3315,941,"CPU,Motherboard"
+3316,954,"Power Supply Unit,Printer,Power Bank"
+3317,19,"Drone,Laptop,Power Supply Unit"
+3318,1248,
+3319,1075,"WiFi Router,Power Supply Unit"
+3320,116,"Drone,VR Headset,Printer,HDMI Cable,Cooling Pad"
+3321,239,WiFi Router
+3322,784,"RAM Stick,WiFi Router,HDMI Cable,Bluetooth Speaker"
+3323,1286,"Power Bank,WiFi Router,Drone,Laptop"
+3324,403,"Laptop Stand,HDMI Cable,USB Cable,SSD"
+3325,651,"USB Cable,Printer,Smartwatch,Monitor,Power Strip"
+3326,791,Cooling Pad
+3327,1499,Drone
+3328,604,"Graphics Card,Headphones"
+3329,281,
+3330,1206,"Scanner,Smartphone,Webcam,Smart Bulb"
+3331,1301,"Cooling Pad,Tablet,Scanner,Webcam"
+3332,607,"Mechanical Keyboard,Tablet,SSD,Scanner,Laptop"
+3333,143,"Headphones,Scanner,Drone,USB Hub,Webcam"
+3334,473,"Laptop Stand,Wireless Mouse,Tablet"
+3335,1229,"Power Strip,Headphones,SSD,Smartphone"
+3336,1177,Graphics Card
+3337,331,"WiFi Router,Webcam,RAM Stick,Power Supply Unit,Laptop"
+3338,491,"Smartwatch,Tripod"
+3339,2,"HDMI Cable,External Hard Drive,Power Strip,CPU"
+3340,894,"Headphones,Scanner,Webcam"
+3341,699,"Smartwatch,Mechanical Keyboard,Motherboard"
+3342,1567,Headphones
+3343,1188,"Headphones,Graphics Card,Tripod,Power Strip"
+3344,939,
+3345,716,
+3346,416,
+3347,341,
+3348,28,
+3349,477,
+3350,63,"RAM Stick,Printer,HDMI Cable,Wireless Mouse,Cooling Pad"
+3351,1445,"USB Hub,Mechanical Keyboard,SSD,RAM Stick"
+3352,1276,"HDMI Cable,Power Supply Unit,SSD"
+3353,1211,Power Supply Unit
+3354,862,"SSD,Printer,HDMI Cable,Smart Bulb,Headphones"
+3355,974,"Headphones,SSD,Graphics Card,USB Hub,HDMI Cable"
+3356,1047,"Power Strip,Drone"
+3357,656,"Headphones,Tablet,Printer,HDMI Cable,USB Hub"
+3358,914,"CPU,Laptop,Microphone,Power Strip"
+3359,1534,Laptop
+3360,1604,External Hard Drive
+3361,574,"Webcam,Cooling Pad,Smart Bulb,Laptop Stand,Smartwatch"
+3362,1177,"Drone,USB Cable,Bluetooth Speaker,Smartwatch,Graphics Card"
+3363,872,"Smartphone,Webcam"
+3364,1080,"Power Supply Unit,Graphics Card"
+3365,597,"Laptop,Motherboard,Cooling Pad"
+3366,930,"Charger,Webcam,Microphone,USB Cable"
+3367,1636,
+3368,166,
+3369,1551,"Tripod,Laptop,Laptop Stand"
+3370,767,"RAM Stick,Wireless Mouse,USB Cable,External Hard Drive"
+3371,1536,"Headphones,Laptop Stand,Power Supply Unit,RAM Stick,Cooling Pad"
+3372,121,Motherboard
+3373,1399,"Tablet,Wireless Mouse"
+3374,369,
+3375,848,"Motherboard,Tablet"
+3376,1330,"Smartwatch,VR Headset,Drone,Headphones"
+3377,1171,Headphones
+3378,539,"Monitor,Smartwatch"
+3379,945,RAM Stick
+3380,1379,"Mechanical Keyboard,Laptop Stand,Smart Bulb"
+3381,1112,"Smartphone,SSD,Headphones,Monitor,Smart Bulb"
+3382,1162,SSD
+3383,721,"USB Hub,External Hard Drive,SSD"
+3384,931,
+3385,1586,
+3386,1253,"Graphics Card,WiFi Router"
+3387,490,
+3388,876,
+3389,708,"SSD,Bluetooth Speaker,CPU"
+3390,478,"Charger,Tablet,Power Strip"
+3391,422,"Printer,Headphones,USB Hub,Mechanical Keyboard"
+3392,1659,"VR Headset,USB Hub,External Hard Drive,Monitor,Bluetooth Speaker"
+3393,1039,Laptop Stand
+3394,765,"Power Strip,Microphone,Graphics Card"
+3395,257,"Laptop Stand,Microphone"
+3396,1647,Laptop
+3397,1567,"SSD,Wireless Mouse,Webcam,Laptop Stand"
+3398,523,"USB Cable,Smartwatch"
+3399,250,"Graphics Card,Laptop"
+3400,678,"RAM Stick,Smartphone,WiFi Router"
+3401,1224,"Cooling Pad,Charger,Drone"
+3402,288,Smartwatch
+3403,1169,"Graphics Card,Mechanical Keyboard,Microphone,Drone"
+3404,604,"Mechanical Keyboard,VR Headset,SSD"
+3405,1170,"USB Hub,Cooling Pad,Headphones"
+3406,444,"Scanner,Graphics Card,USB Hub"
+3407,174,"Microphone,WiFi Router,HDMI Cable"
+3408,1227,"External Hard Drive,Drone,CPU,Smart Bulb"
+3409,77,"Cooling Pad,Power Supply Unit,Monitor,Laptop Stand,Drone"
+3410,260,"Mechanical Keyboard,Motherboard,Smart Bulb"
+3411,509,
+3412,1509,"Laptop,VR Headset,Tablet"
+3413,580,Tablet
+3414,359,
+3415,1277,
+3416,455,Laptop
+3417,359,
+3418,79,
+3419,1400,"Cooling Pad,Mechanical Keyboard,Power Supply Unit,Tripod,Drone"
+3420,285,"Printer,Smartphone"
+3421,866,"RAM Stick,Power Bank,Motherboard"
+3422,1508,"Smartwatch,Microphone,Power Strip"
+3423,938,"Headphones,SSD,Power Strip,RAM Stick,USB Hub"
+3424,1389,"Wireless Mouse,Webcam,Graphics Card,Smartwatch"
+3425,21,"Power Strip,Printer"
+3426,289,"Microphone,Motherboard,Charger"
+3427,225,"Smartwatch,WiFi Router,Power Bank"
+3428,1503,
+3429,866,"Bluetooth Speaker,Monitor,Motherboard"
+3430,1641,"Drone,Mechanical Keyboard,External Hard Drive,Smart Bulb,HDMI Cable"
+3431,707,Bluetooth Speaker
+3432,569,"Scanner,Wireless Mouse,Drone,Cooling Pad"
+3433,1535,
+3434,120,"Headphones,Webcam,Drone,Printer"
+3435,753,"Monitor,Headphones"
+3436,8,"Scanner,Smartwatch"
+3437,1412,"Cooling Pad,Monitor,Wireless Mouse,Charger,Scanner"
+3438,1410,"SSD,Headphones,Smartphone,CPU,Laptop Stand"
+3439,540,Graphics Card
+3440,1233,"Power Bank,RAM Stick"
+3441,471,"Power Strip,Scanner,Mechanical Keyboard,USB Cable"
+3442,269,"Tripod,Bluetooth Speaker,Charger,Microphone"
+3443,1488,"VR Headset,Power Supply Unit,Scanner,Motherboard"
+3444,693,"VR Headset,Scanner,SSD,USB Cable,RAM Stick"
+3445,368,"HDMI Cable,Charger,Cooling Pad"
+3446,231,"WiFi Router,Smartwatch,Smart Bulb,Scanner"
+3447,1551,Graphics Card
+3448,1079,Headphones
+3449,1143,"WiFi Router,Bluetooth Speaker"
+3450,1348,"Charger,VR Headset,Motherboard"
+3451,507,"Bluetooth Speaker,SSD,Laptop"
+3452,1270,Motherboard
+3453,213,
+3454,1178,"Printer,Cooling Pad,Monitor,USB Hub,SSD"
+3455,681,"Smartphone,Monitor,USB Cable,Printer"
+3456,148,"VR Headset,Motherboard,Power Strip,Graphics Card,Charger"
+3457,1632,"Scanner,Graphics Card,Drone,Power Bank,CPU"
+3458,1251,
+3459,1411,"Smartphone,Printer"
+3460,836,"Bluetooth Speaker,Microphone,Smart Bulb"
+3461,1349,"Smartphone,USB Cable,Monitor,Mechanical Keyboard,WiFi Router"
+3462,1278,"Scanner,Printer,External Hard Drive,Mechanical Keyboard,Tripod"
+3463,196,Graphics Card
+3464,95,"USB Cable,Monitor,External Hard Drive,HDMI Cable,Laptop Stand"
+3465,1604,"Mechanical Keyboard,Power Bank"
+3466,659,
+3467,831,"Tripod,Drone,Mechanical Keyboard,RAM Stick,Power Supply Unit"
+3468,1120,Smartphone
+3469,246,"WiFi Router,Drone,Motherboard,USB Cable,Tripod"
+3470,1235,"CPU,Power Bank,USB Cable"
+3471,308,"Wireless Mouse,Cooling Pad,USB Hub"
+3472,654,"WiFi Router,Microphone,Webcam,USB Hub"
+3473,766,"Cooling Pad,Headphones,Motherboard,Charger"
+3474,1232,"External Hard Drive,Scanner"
+3475,1258,"Smart Bulb,Power Supply Unit,Power Strip,Headphones,USB Hub"
+3476,1189,"CPU,Scanner,Smartphone,USB Cable,Wireless Mouse"
+3477,831,"Smartwatch,Printer,USB Hub"
+3478,486,"Graphics Card,Smart Bulb,CPU,RAM Stick"
+3479,1037,"Charger,SSD,External Hard Drive,Laptop Stand,Monitor"
+3480,484,"SSD,RAM Stick"
+3481,947,
+3482,825,"Drone,VR Headset,USB Cable,Graphics Card,Printer"
+3483,1365,Tripod
+3484,730,"Printer,Tablet"
+3485,1047,
+3486,1113,"Laptop,Power Strip"
+3487,1354,"VR Headset,CPU,Tablet,USB Hub,External Hard Drive"
+3488,719,"Webcam,Headphones"
+3489,1570,"SSD,Headphones"
+3490,21,"Graphics Card,Mechanical Keyboard,Webcam"
+3491,1187,"Smart Bulb,Smartphone,Charger,Headphones"
+3492,1472,"Graphics Card,USB Cable,Monitor,Charger,Smartwatch"
+3493,1378,"CPU,Laptop,Graphics Card"
+3494,1325,Microphone
+3495,267,
+3496,1084,"RAM Stick,Laptop,Power Supply Unit,Printer,External Hard Drive"
+3497,503,"RAM Stick,WiFi Router"
+3498,1392,"Tablet,Bluetooth Speaker,Scanner,Smartphone,WiFi Router"
+3499,1298,"VR Headset,Graphics Card,Scanner,Drone"
+3500,556,"Microphone,VR Headset,Bluetooth Speaker,Drone"
+3501,720,"Graphics Card,Microphone"
+3502,1268,"Smartwatch,USB Hub,RAM Stick"
+3503,1617,
+3504,764,"Webcam,Printer,Power Strip,WiFi Router,Motherboard"
+3505,351,
+3506,297,
+3507,979,Laptop
+3508,501,Smart Bulb
+3509,44,Mechanical Keyboard
+3510,36,"Power Supply Unit,Smartphone,WiFi Router,Charger"
+3511,1170,"WiFi Router,Microphone"
+3512,1661,"Graphics Card,Smartphone,Microphone,USB Cable,Charger"
+3513,1561,"Mechanical Keyboard,Charger,VR Headset"
+3514,706,
+3515,846,
+3516,1512,USB Cable
+3517,30,"Smart Bulb,Cooling Pad,WiFi Router,Laptop Stand"
+3518,1489,"Smartphone,Headphones,External Hard Drive"
+3519,1190,"Laptop,Mechanical Keyboard,Power Supply Unit"
+3520,694,"Laptop Stand,HDMI Cable,Scanner,Power Supply Unit"
+3521,1182,
+3522,1157,"Scanner,Webcam,Smartwatch,Power Supply Unit"
+3523,1432,"Charger,Laptop,Power Supply Unit,Webcam,Wireless Mouse"
+3524,1532,"Graphics Card,Laptop Stand"
+3525,344,Drone
+3526,862,"Tripod,Smartwatch,RAM Stick,External Hard Drive,WiFi Router"
+3527,1585,"RAM Stick,Cooling Pad,Power Supply Unit,Mechanical Keyboard"
+3528,1319,"WiFi Router,Wireless Mouse,Microphone"
+3529,501,
+3530,719,"Graphics Card,Webcam"
+3531,129,"USB Cable,USB Hub"
+3532,662,
+3533,332,HDMI Cable
+3534,844,"Power Strip,Printer,RAM Stick"
+3535,1553,"VR Headset,Smart Bulb"
+3536,1530,"Monitor,Power Supply Unit"
+3537,80,"Power Supply Unit,Motherboard,Scanner,Webcam,Headphones"
+3538,1510,
+3539,1157,"Graphics Card,Headphones,Power Bank"
+3540,1491,"Printer,Microphone"
+3541,317,"USB Hub,Smartwatch"
+3542,1537,Smart Bulb
+3543,1466,"Microphone,Webcam,Graphics Card"
+3544,1549,"Laptop Stand,VR Headset,Smartphone"
+3545,435,"Power Supply Unit,Graphics Card,Tripod,Graphics Card,USB Hub"
+3546,1429,Mechanical Keyboard
+3547,633,"Laptop,Mechanical Keyboard"
+3548,425,"Monitor,Scanner,Graphics Card,External Hard Drive"
+3549,562,"Laptop,WiFi Router"
+3550,450,Microphone
+3551,498,
+3552,284,External Hard Drive
+3553,132,"SSD,Wireless Mouse,Power Bank"
+3554,1153,"Mechanical Keyboard,USB Hub,Scanner,Laptop Stand"
+3555,1605,"External Hard Drive,RAM Stick"
+3556,1037,"External Hard Drive,USB Hub,CPU,Graphics Card"
+3557,1219,"RAM Stick,Microphone,VR Headset,Drone,SSD"
+3558,1367,"VR Headset,Smartwatch,Monitor,Mechanical Keyboard,Laptop"
+3559,353,"Webcam,Bluetooth Speaker"
+3560,639,
+3561,493,Graphics Card
+3562,1565,"Wireless Mouse,Mechanical Keyboard,Headphones,Power Strip,Monitor"
+3563,1128,
+3564,1101,"CPU,Charger,Laptop"
+3565,97,Bluetooth Speaker
+3566,898,"Power Strip,CPU,Tripod,RAM Stick"
+3567,582,"Tripod,Graphics Card,Smartphone"
+3568,1192,"Microphone,USB Hub,USB Cable,Laptop,Printer"
+3569,1460,"Tablet,Monitor,Laptop,Graphics Card"
+3570,690,"Smartwatch,Microphone,External Hard Drive,Scanner,Wireless Mouse"
+3571,137,"Charger,Smart Bulb,Drone,Mechanical Keyboard"
+3572,1336,Webcam
+3573,852,"Scanner,External Hard Drive,Wireless Mouse,USB Cable,Monitor"
+3574,656,"SSD,USB Cable,VR Headset"
+3575,1101,
+3576,85,"Monitor,Printer,Wireless Mouse"
+3577,679,"Laptop,Tablet,Laptop Stand,Bluetooth Speaker,USB Cable"
+3578,1489,"Microphone,Scanner"
+3579,1323,
+3580,1159,VR Headset
+3581,928,"Scanner,Cooling Pad,Mechanical Keyboard,VR Headset"
+3582,336,Wireless Mouse
+3583,634,"HDMI Cable,WiFi Router,Monitor"
+3584,1276,"Power Bank,Webcam"
+3585,1037,"USB Hub,CPU,External Hard Drive,Mechanical Keyboard"
+3586,1028,Power Bank
+3587,187,"VR Headset,Power Strip,Charger"
+3588,526,"Smartwatch,Tripod,Cooling Pad,Power Bank"
+3589,1401,"CPU,Laptop"
+3590,938,
+3591,1121,USB Hub
+3592,414,"Printer,Graphics Card,VR Headset,Cooling Pad,Bluetooth Speaker"
+3593,1394,"Smart Bulb,HDMI Cable"
+3594,412,"Tablet,Power Bank,Printer"
+3595,97,
+3596,443,
+3597,1419,"Power Strip,Laptop Stand,Tablet"
+3598,954,Power Bank
+3599,1041,Bluetooth Speaker
+3600,41,"Bluetooth Speaker,HDMI Cable,Drone"
+3601,233,Scanner
+3602,1328,
+3603,847,
+3604,402,"Headphones,HDMI Cable,USB Cable,CPU,Monitor"
+3605,565,"Mechanical Keyboard,Wireless Mouse,USB Cable"
+3606,1243,"Bluetooth Speaker,Smartwatch,WiFi Router,Graphics Card,Power Strip"
+3607,872,
+3608,381,"WiFi Router,Wireless Mouse,Motherboard"
+3609,652,Drone
+3610,1413,"Power Supply Unit,External Hard Drive,Wireless Mouse,Laptop Stand,HDMI Cable"
+3611,1270,Power Strip
+3612,189,
+3613,1149,
+3614,1618,"Webcam,Headphones,Power Bank,Smartphone,CPU"
+3615,1469,Bluetooth Speaker
+3616,1014,"Power Bank,Headphones,Power Strip"
+3617,427,"Headphones,VR Headset"
+3618,751,"HDMI Cable,Scanner"
+3619,620,"HDMI Cable,Graphics Card,Printer"
+3620,656,"Mechanical Keyboard,Smart Bulb"
+3621,58,"Laptop Stand,Power Supply Unit,Smartphone,Wireless Mouse,CPU"
+3622,1413,Scanner
+3623,512,"Laptop,VR Headset,Printer"
+3624,766,"Webcam,Motherboard,External Hard Drive,Monitor,Smartwatch"
+3625,1436,"WiFi Router,Mechanical Keyboard,Smartwatch,Charger,Printer"
+3626,664,"Scanner,Smart Bulb"
+3627,326,"Charger,Laptop,Power Supply Unit,Webcam"
+3628,1331,"Wireless Mouse,External Hard Drive"
+3629,579,CPU
+3630,708,"CPU,Smartphone,Smartwatch"
+3631,779,"Mechanical Keyboard,RAM Stick"
+3632,1435,"Scanner,HDMI Cable"
+3633,85,"Laptop Stand,USB Cable"
+3634,759,"WiFi Router,Laptop Stand"
+3635,1454,"Laptop,RAM Stick,Power Bank"
+3636,81,"Laptop Stand,Wireless Mouse,Power Strip,Monitor"
+3637,1619,
+3638,1235,WiFi Router
+3639,557,"Power Strip,Wireless Mouse,VR Headset,Tripod"
+3640,1197,USB Hub
+3641,1323,"Power Supply Unit,Webcam,RAM Stick,Laptop Stand,Microphone"
+3642,1490,"USB Hub,USB Cable,Laptop,Smart Bulb,Tablet"
+3643,1362,Drone
+3644,632,"Mechanical Keyboard,Motherboard,Cooling Pad,Scanner"
+3645,1666,"Bluetooth Speaker,Tablet,Laptop"
+3646,969,"Bluetooth Speaker,Headphones,Scanner"
+3647,1436,"WiFi Router,Cooling Pad,Tripod,USB Hub"
+3648,319,"USB Cable,Mechanical Keyboard,Graphics Card,Smartwatch"
+3649,904,"Printer,USB Hub,Cooling Pad,Monitor,Power Strip"
+3650,1341,"CPU,Motherboard,Headphones,USB Cable,RAM Stick"
+3651,576,Mechanical Keyboard
+3652,897,
+3653,1601,"Smart Bulb,Monitor"
+3654,362,"VR Headset,Tripod,Monitor,USB Cable,Smartphone"
+3655,726,"Microphone,USB Hub"
+3656,924,
+3657,591,"Mechanical Keyboard,SSD,Charger"
+3658,1498,"Printer,Monitor,Power Bank"
+3659,230,Scanner
+3660,265,"SSD,RAM Stick"
+3661,1287,Power Strip
+3662,127,"Power Bank,Smart Bulb,Printer"
+3663,648,"Microphone,Scanner"
+3664,72,
+3665,398,
+3666,506,"Wireless Mouse,Laptop,WiFi Router,Cooling Pad,Smartphone"
+3667,475,Monitor
+3668,103,"Mechanical Keyboard,Smart Bulb"
+3669,1386,"Power Strip,Laptop,RAM Stick"
+3670,698,"Monitor,Tripod,VR Headset,Microphone"
+3671,1331,
+3672,1562,"Microphone,Smartwatch,VR Headset"
+3673,33,Graphics Card
+3674,1540,"Smartphone,Laptop Stand,Printer,WiFi Router"
+3675,170,
+3676,1479,"Webcam,External Hard Drive"
+3677,223,"Smart Bulb,Graphics Card,Tablet,Drone,Cooling Pad"
+3678,1629,Scanner
+3679,1372,
+3680,1513,"WiFi Router,Tablet,Mechanical Keyboard,CPU"
+3681,370,"Smartphone,Graphics Card"
+3682,623,"Graphics Card,USB Cable"
+3683,114,"VR Headset,Cooling Pad,External Hard Drive"
+3684,306,
+3685,105,"Power Strip,HDMI Cable,Microphone"
+3686,296,"Smart Bulb,Charger,Tablet,Graphics Card,Bluetooth Speaker"
+3687,1087,"Laptop,Smartphone"
+3688,76,"VR Headset,Scanner"
+3689,1209,"Graphics Card,Power Supply Unit,Scanner"
+3690,1357,"Tablet,WiFi Router,Power Bank,External Hard Drive"
+3691,679,"CPU,HDMI Cable,Graphics Card,Cooling Pad"
+3692,955,"Laptop,Wireless Mouse,Webcam,Smartwatch"
+3693,994,"USB Hub,WiFi Router"
+3694,1083,"Tripod,RAM Stick,Motherboard,Smartphone"
+3695,1452,"Power Supply Unit,HDMI Cable,Printer"
+3696,1621,CPU
+3697,1258,Printer
+3698,1093,"Drone,Printer,Motherboard,External Hard Drive,RAM Stick"
+3699,514,VR Headset
+3700,149,"VR Headset,Microphone,Webcam"
+3701,270,"Printer,Bluetooth Speaker,Tripod"
+3702,1380,"VR Headset,USB Hub,Webcam,Bluetooth Speaker"
+3703,77,"Power Bank,HDMI Cable,Monitor"
+3704,981,"Graphics Card,Cooling Pad"
+3705,82,"Tablet,USB Cable,USB Hub,CPU"
+3706,961,"Scanner,Graphics Card,Tripod,USB Hub,Laptop"
+3707,1463,"CPU,USB Hub,Power Bank,VR Headset,Smart Bulb"
+3708,342,"Printer,Charger"
+3709,1506,Smartphone
+3710,1093,"Graphics Card,Charger"
+3711,676,"WiFi Router,Printer,Monitor,Scanner"
+3712,465,"Tripod,Tablet,Drone"
+3713,314,"Wireless Mouse,HDMI Cable,Laptop Stand,Microphone"
+3714,847,"SSD,Smart Bulb,Headphones,Cooling Pad"
+3715,42,"CPU,Laptop,HDMI Cable,Smart Bulb"
+3716,412,
+3717,1562,
+3718,490,
+3719,990,"Scanner,Drone,CPU"
+3720,1573,"Tripod,Mechanical Keyboard,HDMI Cable,Smart Bulb,USB Hub"
+3721,815,
+3722,1065,"CPU,Scanner"
+3723,822,"RAM Stick,Webcam,Laptop Stand"
+3724,275,"Printer,USB Hub,Headphones,Graphics Card,Webcam"
+3725,1285,
+3726,1317,HDMI Cable
+3727,576,
+3728,595,"Laptop Stand,Smartwatch"
+3729,1291,"Drone,Tablet"
+3730,495,"Power Bank,Mechanical Keyboard,WiFi Router,HDMI Cable,Power Supply Unit"
+3731,613,Motherboard
+3732,791,"Charger,Graphics Card"
+3733,626,"Scanner,Drone,Laptop"
+3734,419,"Printer,Monitor"
+3735,1010,"Graphics Card,Tripod"
+3736,1296,"Smart Bulb,SSD,Drone,Smartwatch,Headphones"
+3737,1177,"USB Hub,Microphone,Power Supply Unit,Smart Bulb"
+3738,748,"Headphones,Motherboard,Webcam,USB Cable"
+3739,1370,"VR Headset,WiFi Router,CPU"
+3740,44,"Mechanical Keyboard,Cooling Pad,Power Strip"
+3741,916,"Motherboard,Laptop Stand,Smartphone,CPU"
+3742,651,Smartwatch
+3743,1186,VR Headset
+3744,240,"Webcam,Charger"
+3745,1607,Monitor
+3746,1417,"Cooling Pad,External Hard Drive,Monitor,Smart Bulb"
+3747,37,"Laptop,RAM Stick"
+3748,1195,"Tablet,Scanner,Graphics Card"
+3749,982,"Graphics Card,USB Hub,External Hard Drive,CPU"
+3750,224,"Wireless Mouse,Power Bank,Graphics Card,Tablet"
+3751,224,CPU
+3752,773,"Microphone,RAM Stick,USB Hub,VR Headset,WiFi Router"
+3753,478,"Bluetooth Speaker,Smart Bulb"
+3754,558,"Power Strip,Mechanical Keyboard,USB Cable,SSD,Monitor"
+3755,287,USB Hub
+3756,1144,"Motherboard,SSD,RAM Stick,Printer"
+3757,1103,"Graphics Card,Power Bank,CPU,Tripod,Wireless Mouse"
+3758,205,Webcam
+3759,60,Power Bank
+3760,667,"Smartphone,CPU,Laptop Stand,Smartwatch"
+3761,1462,"Webcam,Scanner"
+3762,1588,
+3763,1298,"Bluetooth Speaker,Graphics Card,USB Hub,Smartwatch,Smartphone"
+3764,1000,Printer
+3765,1154,Smartphone
+3766,828,"Microphone,Power Bank,Wireless Mouse,Scanner,Tablet"
+3767,1517,Smartphone
+3768,1051,"Wireless Mouse,Smartphone,Tripod,Graphics Card"
+3769,1606,"USB Cable,Smartphone"
+3770,864,"USB Hub,Scanner,Tripod,Smartwatch,Power Bank"
+3771,375,
+3772,152,"Monitor,Drone,Bluetooth Speaker,Charger,CPU"
+3773,1347,"Monitor,Cooling Pad"
+3774,1661,Mechanical Keyboard
+3775,1266,"Power Strip,Laptop Stand,Graphics Card,RAM Stick"
+3776,1170,Laptop Stand
+3777,261,"Graphics Card,Motherboard,Printer"
+3778,994,"Headphones,Tablet,Smartwatch"
+3779,1491,"Motherboard,WiFi Router,Graphics Card,Bluetooth Speaker,Smart Bulb"
+3780,662,Laptop Stand
+3781,1078,
+3782,725,"VR Headset,CPU,Webcam"
+3783,1544,RAM Stick
+3784,981,"Smart Bulb,Tripod"
+3785,1143,USB Cable
+3786,1523,"Mechanical Keyboard,Smartwatch"
+3787,1173,
+3788,1637,"Mechanical Keyboard,Cooling Pad,USB Cable,Tablet"
+3789,124,"Microphone,Monitor,Webcam"
+3790,815,"Webcam,Cooling Pad,Smartwatch"
+3791,644,"Microphone,Tripod,VR Headset,Scanner"
+3792,614,
+3793,528,"USB Cable,Graphics Card,Monitor"
+3794,1046,
+3795,1287,"Drone,Printer,Tripod,Smart Bulb,Smartwatch"
+3796,746,"Cooling Pad,Power Supply Unit,SSD,Headphones,External Hard Drive"
+3797,729,"External Hard Drive,Laptop"
+3798,179,"Laptop Stand,Mechanical Keyboard,Power Supply Unit,WiFi Router"
+3799,130,"Power Strip,Wireless Mouse"
+3800,1425,"SSD,Motherboard,Power Bank,Power Supply Unit,Graphics Card"
+3801,1339,"Tripod,Wireless Mouse,Smartphone"
+3802,573,
+3803,715,CPU
+3804,500,
+3805,782,"Charger,VR Headset,Microphone,HDMI Cable"
+3806,1210,"Headphones,Microphone,Scanner,Power Strip,Graphics Card"
+3807,974,"Tablet,Wireless Mouse,Laptop Stand,SSD"
+3808,1419,"Smart Bulb,Power Supply Unit,Charger"
+3809,493,External Hard Drive
+3810,1297,"Tripod,Microphone,Smart Bulb"
+3811,659,
+3812,584,"Headphones,CPU,VR Headset,Drone,Charger"
+3813,230,"Laptop Stand,Power Bank,Smartphone"
+3814,969,
+3815,1650,
+3816,1653,"Graphics Card,Wireless Mouse,Laptop"
+3817,648,"Bluetooth Speaker,Smartwatch,USB Cable"
+3818,571,"Tablet,External Hard Drive,RAM Stick,Smart Bulb"
+3819,988,SSD
+3820,1367,"Smart Bulb,Mechanical Keyboard"
+3821,933,"Power Bank,Laptop Stand,Microphone,Power Supply Unit,Charger"
+3822,955,"USB Hub,Monitor"
+3823,1128,"Graphics Card,Laptop,Laptop Stand,Motherboard"
+3824,1331,"CPU,Printer"
+3825,219,"Headphones,RAM Stick,Graphics Card"
+3826,1105,"RAM Stick,Smartwatch,Motherboard"
+3827,559,"Graphics Card,HDMI Cable"
+3828,509,"HDMI Cable,CPU"
+3829,624,"WiFi Router,Smart Bulb,USB Cable"
+3830,1028,Charger
+3831,410,"Tripod,Power Supply Unit"
+3832,409,
+3833,1047,"Graphics Card,Mechanical Keyboard,HDMI Cable"
+3834,271,"Graphics Card,Smartwatch"
+3835,1650,"Power Supply Unit,USB Hub,CPU,Tripod"
+3836,280,"WiFi Router,Smartwatch,Laptop Stand,External Hard Drive"
+3837,1176,"Wireless Mouse,SSD,Tablet,VR Headset"
+3838,1572,"External Hard Drive,Smartwatch,USB Hub"
+3839,871,"SSD,USB Hub"
+3840,785,"SSD,CPU,Graphics Card,Smart Bulb,Power Supply Unit"
+3841,505,"Tablet,Drone,SSD,Mechanical Keyboard,RAM Stick"
+3842,1292,"Drone,Scanner"
+3843,1265,"Headphones,Laptop Stand,SSD"
+3844,452,Smart Bulb
+3845,585,"Microphone,Graphics Card,Printer,Power Bank"
+3846,1394,"RAM Stick,Webcam,Headphones,USB Hub,Graphics Card"
+3847,71,"Graphics Card,Microphone,RAM Stick"
+3848,110,"Tripod,Drone,Mechanical Keyboard,Laptop"
+3849,436,
+3850,183,"Drone,Printer,Headphones,Wireless Mouse,Webcam"
+3851,1185,Power Bank
+3852,12,"External Hard Drive,CPU"
+3853,1328,"USB Hub,SSD,Charger"
+3854,1210,"Charger,Wireless Mouse,Smartwatch,RAM Stick"
+3855,880,Graphics Card
+3856,13,"RAM Stick,USB Cable,Motherboard,Graphics Card,Smartphone"
+3857,770,
+3858,248,"Webcam,Laptop"
+3859,609,"USB Cable,Charger"
+3860,1499,
+3861,610,"Tablet,Mechanical Keyboard"
+3862,32,RAM Stick
+3863,37,"Printer,Tablet"
+3864,215,Laptop
+3865,1598,"Power Bank,Charger"
+3866,1205,"Power Bank,Power Supply Unit,Laptop,HDMI Cable"
+3867,67,"Webcam,Wireless Mouse,HDMI Cable"
+3868,1660,
+3869,454,SSD
+3870,1288,"SSD,Tablet,CPU"
+3871,589,"VR Headset,HDMI Cable"
+3872,503,
+3873,936,
+3874,234,"Graphics Card,Power Bank,External Hard Drive,WiFi Router"
+3875,1515,"USB Cable,HDMI Cable,Power Supply Unit,Smartphone"
+3876,901,"Scanner,Microphone,Webcam,VR Headset,RAM Stick"
+3877,110,
+3878,197,Power Bank
+3879,1157,"Microphone,WiFi Router,Cooling Pad,SSD,Motherboard"
+3880,332,"Power Strip,Tripod,Mechanical Keyboard,Smartwatch"
+3881,112,"Monitor,CPU,Drone,Motherboard,Power Supply Unit"
+3882,323,"HDMI Cable,Motherboard"
+3883,1092,
+3884,308,"USB Hub,Mechanical Keyboard"
+3885,1440,"Webcam,Tripod"
+3886,242,"Monitor,Motherboard"
+3887,289,HDMI Cable
+3888,648,"WiFi Router,HDMI Cable,Microphone"
+3889,797,"Smartphone,Cooling Pad,HDMI Cable,Tripod"
+3890,143,
+3891,1008,
+3892,361,Smartphone
+3893,991,"Scanner,Headphones,Smartphone,Printer"
+3894,803,"Monitor,WiFi Router"
+3895,1452,"Power Strip,Graphics Card,SSD,HDMI Cable"
+3896,1065,"Smart Bulb,Power Strip,Motherboard,SSD,Printer"
+3897,959,"Monitor,Smartwatch,VR Headset,Webcam"
+3898,755,Drone
+3899,1291,"Mechanical Keyboard,VR Headset,Smart Bulb"
+3900,783,Laptop Stand
+3901,698,
+3902,786,"Mechanical Keyboard,Scanner"
+3903,876,Wireless Mouse
+3904,1056,"Power Strip,Graphics Card,Microphone"
+3905,1470,"External Hard Drive,Smartwatch,Graphics Card,Drone"
+3906,1061,Graphics Card
+3907,1154,"SSD,VR Headset,Laptop,CPU,Smart Bulb"
+3908,1496,"Graphics Card,Tablet,RAM Stick"
+3909,522,
+3910,1499,
+3911,638,WiFi Router
+3912,1636,Tablet
+3913,199,Headphones
+3914,789,"Motherboard,Microphone"
+3915,365,"Mechanical Keyboard,Smartphone,Graphics Card,Motherboard,Charger"
+3916,1135,Webcam
+3917,483,"Power Bank,Microphone,WiFi Router,External Hard Drive"
+3918,1422,
+3919,45,"Monitor,CPU,Motherboard,Tripod"
+3920,1051,Tablet
+3921,1607,"Webcam,Drone,Cooling Pad,Tablet,Power Strip"
+3922,536,
+3923,1101,"WiFi Router,USB Cable,HDMI Cable"
+3924,1087,"Smartphone,Graphics Card,Mechanical Keyboard,Power Bank,WiFi Router"
+3925,530,"External Hard Drive,Power Supply Unit"
+3926,1441,"Smartwatch,Cooling Pad,USB Hub"
+3927,1065,"Printer,WiFi Router,USB Cable,CPU,Power Bank"
+3928,849,
+3929,674,"Bluetooth Speaker,Wireless Mouse"
+3930,841,
+3931,506,
+3932,241,"Power Bank,Tripod,Laptop,Tablet"
+3933,912,"Headphones,Monitor,Mechanical Keyboard,Laptop Stand"
+3934,1010,"Drone,Scanner,Wireless Mouse,Bluetooth Speaker,Charger"
+3935,3,"Smartphone,Smart Bulb"
+3936,60,"Monitor,Drone,Power Supply Unit,Graphics Card,USB Cable"
+3937,888,Mechanical Keyboard
+3938,928,"Monitor,USB Cable"
+3939,1358,"Microphone,SSD,Smart Bulb"
+3940,1033,"USB Hub,Cooling Pad,Graphics Card,WiFi Router,Motherboard"
+3941,1038,Motherboard
+3942,1499,"Smartwatch,USB Hub,Headphones,SSD"
+3943,1400,
+3944,419,Graphics Card
+3945,74,"WiFi Router,Microphone,RAM Stick,CPU,Drone"
+3946,871,"Cooling Pad,Mechanical Keyboard"
+3947,798,
+3948,132,"Smartphone,Graphics Card"
+3949,234,
+3950,1649,
+3951,467,"USB Cable,SSD,Motherboard,Printer"
+3952,1175,"Power Strip,Webcam,Drone,Scanner,USB Cable"
+3953,30,"HDMI Cable,Wireless Mouse,VR Headset"
+3954,1047,"Drone,Scanner,Tablet"
+3955,1550,"HDMI Cable,Cooling Pad,Graphics Card"
+3956,1599,"Laptop,Smartphone,Bluetooth Speaker,RAM Stick,External Hard Drive"
+3957,211,"Smartphone,USB Hub,Laptop,Smartwatch"
+3958,208,
+3959,1185,
+3960,1302,"Bluetooth Speaker,VR Headset,USB Cable"
+3961,1106,"Graphics Card,Laptop,USB Cable,SSD,External Hard Drive"
+3962,245,
+3963,1059,SSD
+3964,675,Smart Bulb
+3965,131,"RAM Stick,Motherboard,Printer"
+3966,43,"Smartwatch,Scanner,Monitor"
+3967,178,"Graphics Card,Drone,Charger"
+3968,1029,"Charger,Monitor,Smart Bulb"
+3969,168,"Power Supply Unit,Scanner,USB Cable,Bluetooth Speaker,Power Strip"
+3970,567,"Tablet,Smartphone,USB Cable,Power Bank"
+3971,823,"Cooling Pad,Printer,Smart Bulb"
+3972,71,"Printer,Power Bank,Drone,Graphics Card,Power Supply Unit"
+3973,586,"Tripod,Tablet,Webcam,Smartphone"
+3974,647,
+3975,782,"Graphics Card,Power Supply Unit,Charger"
+3976,1351,"Mechanical Keyboard,Charger,Webcam,Monitor"
+3977,119,Monitor
+3978,293,
+3979,1432,"Smart Bulb,Power Supply Unit,Smartphone,Drone"
+3980,1102,
+3981,1358,"Power Supply Unit,USB Hub"
+3982,815,"VR Headset,USB Cable,CPU,Headphones,Drone"
+3983,217,
+3984,1148,"Drone,Power Bank,Headphones"
+3985,397,"Printer,Charger"
+3986,1136,"Smartphone,Bluetooth Speaker,Scanner,External Hard Drive,Microphone"
+3987,1419,"Power Bank,Charger,Printer"
+3988,1176,"Printer,Bluetooth Speaker,Mechanical Keyboard,SSD,Wireless Mouse"
+3989,1352,Monitor
+3990,1653,"USB Cable,Tablet,Cooling Pad,RAM Stick"
+3991,1337,"SSD,USB Cable,Scanner,Headphones,Graphics Card"
+3992,243,Printer
+3993,1133,
+3994,1105,"Tablet,Power Bank"
+3995,13,"Scanner,Printer,CPU"
+3996,1397,
+3997,1661,"Drone,Charger"
+3998,354,"Tripod,Graphics Card,Microphone,Bluetooth Speaker,Cooling Pad"
+3999,1118,"RAM Stick,Monitor,Smart Bulb,Wireless Mouse"
+4000,180,"Smart Bulb,Laptop Stand"
+4001,547,"Smartwatch,Printer,Power Supply Unit"
+4002,1321,Mechanical Keyboard
+4003,1217,"Tripod,Cooling Pad,USB Cable,Laptop Stand"
+4004,614,"Tablet,Headphones,CPU"
+4005,419,
+4006,740,"Motherboard,Smartwatch"
+4007,1429,"Tablet,Monitor,Smartwatch"
+4008,411,"Drone,Charger,Tripod,Graphics Card,Monitor"
+4009,1250,"SSD,Power Supply Unit,Smartphone,Mechanical Keyboard,USB Cable"
+4010,1629,
+4011,491,"USB Cable,Laptop,Smartwatch,Webcam"
+4012,235,"Webcam,Graphics Card"
+4013,1092,"Graphics Card,Microphone,Smartwatch,Power Bank,Headphones"
+4014,1641,"HDMI Cable,VR Headset,External Hard Drive"
+4015,4,
+4016,763,"USB Hub,Microphone,Smartphone,Tablet"
+4017,1382,"Power Supply Unit,Wireless Mouse,SSD,Motherboard,Printer"
+4018,1189,
+4019,1051,"Smart Bulb,Smartphone,Monitor,VR Headset,USB Hub"
+4020,100,"SSD,USB Hub,Monitor"
+4021,738,Cooling Pad
+4022,1528,"Laptop,Smartphone"
+4023,1538,
+4024,716,
+4025,423,"Smartphone,USB Cable,Power Strip"
+4026,1057,RAM Stick
+4027,513,Monitor
+4028,884,"Tripod,USB Cable,VR Headset,RAM Stick,Tablet"
+4029,300,"USB Hub,Drone,External Hard Drive,Smartphone,VR Headset"
+4030,1009,"Laptop Stand,RAM Stick,Bluetooth Speaker"
+4031,1179,"Wireless Mouse,Bluetooth Speaker"
+4032,1553,"Drone,CPU"
+4033,428,"Laptop Stand,Wireless Mouse,Graphics Card,Motherboard"
+4034,555,Microphone
+4035,364,"RAM Stick,Smartphone,Motherboard"
+4036,621,"USB Hub,Motherboard,Webcam,VR Headset,Wireless Mouse"
+4037,899,"Power Supply Unit,Laptop Stand,HDMI Cable"
+4038,409,Scanner
+4039,827,"Printer,Microphone,Graphics Card,Monitor,HDMI Cable"
+4040,1592,"Graphics Card,Microphone,Monitor,Tablet"
+4041,1605,Headphones
+4042,393,Drone
+4043,170,Headphones
+4044,674,"Laptop,Power Supply Unit"
+4045,719,"Scanner,Charger,Wireless Mouse"
+4046,768,Tablet
+4047,412,"Smartphone,Power Bank"
+4048,1547,"Scanner,Charger"
+4049,1234,"Mechanical Keyboard,Laptop Stand,Graphics Card"
+4050,1362,
+4051,1606,"VR Headset,Scanner,Printer,Smartphone,Charger"
+4052,1342,"Smart Bulb,Graphics Card,Tablet,VR Headset,Laptop Stand"
+4053,1118,"Bluetooth Speaker,Graphics Card"
+4054,305,Charger
+4055,521,"Power Bank,Printer"
+4056,1324,"Mechanical Keyboard,Webcam,Charger"
+4057,1407,CPU
+4058,1387,"Laptop Stand,USB Hub,Bluetooth Speaker,Graphics Card"
+4059,1526,"Charger,Bluetooth Speaker"
+4060,1079,"Laptop,Printer,Wireless Mouse"
+4061,1603,"Monitor,WiFi Router,SSD,Printer"
+4062,1572,"Laptop,Smartphone,Smart Bulb"
+4063,1582,
+4064,345,Laptop
+4065,596,"Mechanical Keyboard,Power Strip"
+4066,944,External Hard Drive
+4067,1598,RAM Stick
+4068,91,"Mechanical Keyboard,Tablet,USB Hub,Printer,Graphics Card"
+4069,505,"Smartwatch,Bluetooth Speaker,SSD,Laptop Stand,USB Hub"
+4070,115,"External Hard Drive,USB Hub,Cooling Pad,Bluetooth Speaker"
+4071,783,"RAM Stick,Cooling Pad"
+4072,657,"WiFi Router,Graphics Card"
+4073,60,"USB Cable,CPU,Webcam"
+4074,508,Tripod
+4075,322,"SSD,Bluetooth Speaker"
+4076,93,"Graphics Card,Microphone"
+4077,1072,"Motherboard,VR Headset,Power Bank"
+4078,623,"USB Hub,Graphics Card"
+4079,504,
+4080,1118,"Smart Bulb,Power Strip,HDMI Cable,Microphone"
+4081,509,"Smart Bulb,Bluetooth Speaker,Smartphone,Tripod"
+4082,265,Tablet
+4083,1060,
+4084,900,"Scanner,Tablet,Laptop Stand,Smart Bulb"
+4085,334,Printer
+4086,789,"CPU,Graphics Card,WiFi Router"
+4087,1249,"Motherboard,Printer,Smartphone,Power Supply Unit,Headphones"
+4088,1199,
+4089,897,
+4090,1242,"Cooling Pad,Graphics Card,External Hard Drive"
+4091,134,"Bluetooth Speaker,Power Supply Unit,Smartwatch"
+4092,64,"HDMI Cable,Graphics Card,Drone,Power Strip,Bluetooth Speaker"
+4093,1117,"USB Cable,Power Supply Unit"
+4094,431,"HDMI Cable,Webcam"
+4095,553,"Power Strip,Bluetooth Speaker,HDMI Cable,WiFi Router"
+4096,1651,"USB Cable,SSD"
+4097,60,
+4098,501,"Graphics Card,Microphone"
+4099,1122,"Cooling Pad,Smartphone,RAM Stick,Printer,HDMI Cable"
+4100,1147,
+4101,872,"Printer,Scanner,CPU"
+4102,570,"Bluetooth Speaker,USB Hub,Headphones,VR Headset,Graphics Card"
+4103,934,"Graphics Card,CPU"
+4104,248,
+4105,36,
+4106,472,"RAM Stick,Microphone"
+4107,1156,"HDMI Cable,Scanner,External Hard Drive,Power Supply Unit"
+4108,1079,
+4109,181,"Bluetooth Speaker,Laptop Stand,Graphics Card,Motherboard"
+4110,1330,"Smartphone,Laptop Stand"
+4111,171,
+4112,979,"Laptop Stand,Graphics Card"
+4113,660,"Tripod,Wireless Mouse,External Hard Drive"
+4114,1235,Bluetooth Speaker
+4115,840,"Wireless Mouse,Printer,Cooling Pad"
+4116,460,
+4117,889,"Webcam,Wireless Mouse,Power Supply Unit"
+4118,1074,"Printer,Charger,VR Headset,USB Cable"
+4119,105,
+4120,1466,"USB Cable,Power Supply Unit,Microphone,HDMI Cable,WiFi Router"
+4121,494,USB Hub
+4122,1216,
+4123,900,
+4124,708,Drone
+4125,737,"Laptop Stand,Tripod,Printer"
+4126,828,USB Cable
+4127,48,"External Hard Drive,VR Headset"
+4128,651,"Power Bank,Printer,External Hard Drive,Power Strip"
+4129,789,"HDMI Cable,USB Hub,VR Headset"
+4130,232,"SSD,Wireless Mouse,Cooling Pad,Printer,Smart Bulb"
+4131,526,"Laptop Stand,Charger,Microphone"
+4132,1160,"Headphones,VR Headset,Smartwatch,Tablet"
+4133,1018,"CPU,WiFi Router,Printer,Bluetooth Speaker"
+4134,230,
+4135,664,"Scanner,VR Headset,HDMI Cable"
+4136,40,"Microphone,Bluetooth Speaker"
+4137,110,"Bluetooth Speaker,Smartwatch,Power Supply Unit"
+4138,1445,Webcam
+4139,170,"Smart Bulb,Tablet,Power Bank,Smartphone"
+4140,1319,"Printer,Laptop,Graphics Card,Drone"
+4141,1241,"Microphone,RAM Stick,Power Strip,External Hard Drive,Motherboard"
+4142,68,Tripod
+4143,1241,"Tablet,Webcam"
+4144,142,"Monitor,Webcam,USB Cable,Laptop Stand"
+4145,934,Drone
+4146,247,
+4147,39,"Graphics Card,Headphones"
+4148,125,Mechanical Keyboard
+4149,367,"Drone,Scanner,Tablet,HDMI Cable,WiFi Router"
+4150,318,Graphics Card
+4151,1463,"External Hard Drive,Smartwatch,SSD,Tablet,Power Bank"
+4152,297,"Graphics Card,Smart Bulb,Printer,Motherboard"
+4153,1002,"Smartwatch,WiFi Router,Microphone,USB Hub,External Hard Drive"
+4154,445,"Cooling Pad,USB Hub,Laptop,WiFi Router,Graphics Card"
+4155,1054,"Headphones,Smartwatch,Charger,Wireless Mouse,Laptop Stand"
+4156,708,"Cooling Pad,VR Headset,WiFi Router,Laptop"
+4157,991,Graphics Card
+4158,1193,Graphics Card
+4159,1321,"Tripod,Microphone,USB Hub,Graphics Card"
+4160,489,
+4161,1319,Bluetooth Speaker
+4162,59,"Microphone,Power Supply Unit,External Hard Drive,Tablet"
+4163,302,SSD
+4164,236,Mechanical Keyboard
+4165,562,"VR Headset,Webcam,Mechanical Keyboard,Microphone,Laptop Stand"
+4166,1352,"WiFi Router,Laptop,USB Cable,Webcam"
+4167,110,"Microphone,Laptop,SSD,Mechanical Keyboard,Smartwatch"
+4168,1601,Laptop
+4169,753,"Power Strip,Power Supply Unit,Mechanical Keyboard"
+4170,1164,"Power Supply Unit,Printer,Power Bank"
+4171,1350,
+4172,702,"USB Cable,Headphones,Printer,Webcam"
+4173,1595,"Cooling Pad,CPU,Tripod,Graphics Card"
+4174,706,"Printer,Laptop,Smart Bulb,USB Hub"
+4175,530,"Smartwatch,Graphics Card,Scanner,Charger"
+4176,162,
+4177,63,"Printer,Tripod,Microphone,Charger,Graphics Card"
+4178,1355,"HDMI Cable,Monitor,Drone,USB Hub"
+4179,409,"Cooling Pad,Power Bank"
+4180,96,"Smartphone,Scanner,Power Supply Unit"
+4181,407,"Smart Bulb,USB Cable,Smartwatch,Laptop,Tablet"
+4182,359,"WiFi Router,Scanner,HDMI Cable"
+4183,1659,"Power Supply Unit,Scanner,Graphics Card"
+4184,512,"External Hard Drive,Tripod,Graphics Card"
+4185,527,
+4186,299,"Printer,Laptop Stand,VR Headset,Power Supply Unit,Smartphone"
+4187,645,
+4188,274,"Power Strip,USB Cable,Mechanical Keyboard,Tablet,VR Headset"
+4189,1079,"Laptop,Printer"
+4190,558,Drone
+4191,804,
+4192,1192,"SSD,Headphones,USB Hub"
+4193,350,"VR Headset,Mechanical Keyboard,Printer,Motherboard"
+4194,942,"Drone,Microphone,External Hard Drive"
+4195,1404,"Power Strip,Bluetooth Speaker,Scanner"
+4196,804,Bluetooth Speaker
+4197,163,"Wireless Mouse,Charger,CPU,Graphics Card,Smartwatch"
+4198,447,RAM Stick
+4199,133,"Graphics Card,Printer,Wireless Mouse"
+4200,709,"Laptop,Monitor,USB Hub"
+4201,1643,"Bluetooth Speaker,SSD,Power Bank,RAM Stick,Scanner"
+4202,163,"Graphics Card,Smartphone,USB Hub,Scanner,Bluetooth Speaker"
+4203,374,"VR Headset,Smart Bulb,Power Bank,Tablet,Webcam"
+4204,1338,"Webcam,WiFi Router,Graphics Card"
+4205,623,
+4206,455,Headphones
+4207,1665,Graphics Card
+4208,157,"WiFi Router,Webcam"
+4209,617,"CPU,Webcam,Smart Bulb,Tripod,SSD"
+4210,1656,"External Hard Drive,USB Hub,Smart Bulb"
+4211,1159,"Webcam,Smart Bulb,VR Headset,Microphone,SSD"
+4212,203,"Smartphone,Headphones,Power Strip"
+4213,1084,"Monitor,Tripod,Printer,Tablet,Smart Bulb"
+4214,1630,
+4215,86,
+4216,493,"Laptop,Graphics Card,Laptop Stand,Smart Bulb"
+4217,446,"SSD,Smartwatch,Smart Bulb"
+4218,1473,"Tablet,Tripod,Scanner,Laptop"
+4219,882,USB Hub
+4220,1146,"Smartwatch,Graphics Card,Cooling Pad,Tablet"
+4221,1589,"Smart Bulb,Smartwatch,RAM Stick,Graphics Card"
+4222,455,
+4223,79,
+4224,1025,"USB Cable,Printer,Microphone,Motherboard,Charger"
+4225,889,Smart Bulb
+4226,1043,Cooling Pad
+4227,1367,"WiFi Router,Webcam"
+4228,362,"CPU,Tablet"
+4229,394,Tripod
+4230,258,
+4231,1214,Power Strip
+4232,1204,"USB Hub,Smart Bulb,Printer,Bluetooth Speaker"
+4233,1610,"Headphones,USB Hub,Webcam"
+4234,1058,"Charger,Smart Bulb,External Hard Drive"
+4235,1457,
+4236,35,"Power Strip,HDMI Cable"
+4237,510,"Microphone,RAM Stick,Cooling Pad,Tripod,WiFi Router"
+4238,916,Graphics Card
+4239,42,"Power Strip,Webcam,USB Hub,Power Supply Unit,Smartphone"
+4240,347,
+4241,399,
+4242,85,"Cooling Pad,WiFi Router,Headphones,Tripod"
+4243,851,
+4244,1229,"Microphone,CPU,USB Cable,SSD,Printer"
+4245,1377,CPU
+4246,1207,"Drone,External Hard Drive"
+4247,391,"Headphones,Smartwatch,VR Headset"
+4248,17,"Tripod,VR Headset,Bluetooth Speaker,Smartphone"
+4249,1064,"USB Cable,RAM Stick"
+4250,831,"Webcam,Tripod"
+4251,634,"Printer,Tablet,CPU"
+4252,577,"Tripod,Cooling Pad"
+4253,1193,Charger
+4254,367,
+4255,878,
+4256,832,USB Hub
+4257,1042,"Mechanical Keyboard,Microphone"
+4258,672,WiFi Router
+4259,574,"Motherboard,Webcam"
+4260,391,
+4261,1318,"Printer,Bluetooth Speaker,Wireless Mouse"
+4262,296,"Power Bank,WiFi Router,USB Cable,Smartphone,Motherboard"
+4263,372,"Webcam,USB Hub"
+4264,231,"Graphics Card,Printer"
+4265,140,"Webcam,Wireless Mouse,Tablet,Graphics Card,Power Supply Unit"
+4266,259,"SSD,WiFi Router,Laptop,Drone"
+4267,779,"Webcam,Printer,Microphone"
+4268,353,"Smart Bulb,Charger,WiFi Router,Scanner,Webcam"
+4269,32,"Scanner,Mechanical Keyboard,Printer"
+4270,1191,"RAM Stick,Tablet"
+4271,907,"Printer,CPU,Laptop Stand,Webcam,Microphone"
+4272,1043,"RAM Stick,Graphics Card,Smartwatch"
+4273,1144,"SSD,Headphones,USB Hub"
+4274,1344,"Drone,Headphones,Power Supply Unit,External Hard Drive"
+4275,978,"Microphone,USB Cable,SSD,Power Bank"
+4276,1229,
+4277,1559,
+4278,1276,"Power Strip,External Hard Drive"
+4279,1483,"Printer,Webcam"
+4280,1265,"Scanner,Laptop Stand"
+4281,303,Printer
+4282,69,Power Supply Unit
+4283,34,"Power Strip,Webcam"
+4284,427,"Cooling Pad,Headphones"
+4285,936,Webcam
+4286,397,Motherboard
+4287,1229,"USB Cable,Bluetooth Speaker,Wireless Mouse,Motherboard,Mechanical Keyboard"
+4288,1434,"Graphics Card,Cooling Pad,Power Strip,Headphones,Power Bank"
+4289,1126,"Motherboard,Charger,Webcam,Wireless Mouse"
+4290,1415,Tripod
+4291,444,Power Bank
+4292,1157,"HDMI Cable,Drone,Smart Bulb,Webcam"
+4293,407,SSD
+4294,367,"Microphone,HDMI Cable,Headphones"
+4295,959,VR Headset
+4296,818,"Webcam,USB Hub,Smartphone,RAM Stick"
+4297,1301,"Tripod,Microphone"
+4298,1565,Headphones
+4299,373,"Smartwatch,Webcam"
+4300,800,
+4301,31,"USB Hub,Bluetooth Speaker,External Hard Drive,WiFi Router,Tablet"
+4302,1454,"Graphics Card,Laptop,Microphone,Power Strip,Power Supply Unit"
+4303,936,"Laptop Stand,VR Headset,Microphone,Monitor"
+4304,879,
+4305,262,"Smart Bulb,VR Headset,HDMI Cable,Graphics Card,Smartphone"
+4306,1158,"WiFi Router,Bluetooth Speaker,Laptop,Tripod,HDMI Cable"
+4307,1249,
+4308,971,"Tripod,Mechanical Keyboard,Microphone,Graphics Card"
+4309,716,"External Hard Drive,Graphics Card"
+4310,396,"WiFi Router,Headphones,Monitor"
+4311,1017,"Power Strip,Printer,Cooling Pad,Laptop"
+4312,1026,
+4313,900,USB Cable
+4314,57,"Tripod,Scanner,Headphones,USB Cable"
+4315,474,"VR Headset,Tablet,Drone"
+4316,936,"USB Cable,Smartwatch,Drone"
+4317,500,Drone
+4318,829,"USB Cable,USB Hub,Scanner"
+4319,1189,"Cooling Pad,Laptop,Power Bank"
+4320,348,VR Headset
+4321,789,Power Supply Unit
+4322,535,"Graphics Card,Laptop,Drone,Wireless Mouse"
+4323,1240,"Graphics Card,Bluetooth Speaker,Motherboard"
+4324,188,Webcam
+4325,687,"Microphone,Smartphone,Mechanical Keyboard,WiFi Router,USB Cable"
+4326,1550,
+4327,213,"Charger,Tripod,USB Cable,Power Bank"
+4328,418,"Printer,Smartwatch,Graphics Card"
+4329,832,"Cooling Pad,Webcam,Tablet,USB Hub"
+4330,1491,
+4331,610,"Printer,Monitor,Mechanical Keyboard"
+4332,1083,Charger
+4333,1198,"HDMI Cable,Bluetooth Speaker"
+4334,569,"VR Headset,Monitor,Tripod,Power Supply Unit"
+4335,634,Tripod
+4336,1567,
+4337,1047,"Laptop,WiFi Router,RAM Stick,Power Supply Unit"
+4338,232,"Scanner,External Hard Drive,Laptop,Graphics Card,Power Supply Unit"
+4339,1316,Graphics Card
+4340,1061,
+4341,1620,"VR Headset,Power Supply Unit,Scanner,Graphics Card,Mechanical Keyboard"
+4342,1587,"Smart Bulb,Headphones,Monitor,USB Hub,Mechanical Keyboard"
+4343,1268,
+4344,1383,"Power Bank,VR Headset,Webcam,Charger,Microphone"
+4345,337,"Wireless Mouse,Laptop"
+4346,562,"HDMI Cable,SSD,Wireless Mouse,Smartphone,Scanner"
+4347,1278,"Power Bank,Drone,Tripod,Graphics Card,Monitor"
+4348,793,Tripod
+4349,620,"Printer,Cooling Pad,Laptop"
+4350,1404,
+4351,212,"Power Bank,Smartphone"
+4352,1391,"Microphone,Power Supply Unit,Tripod,Monitor"
+4353,969,
+4354,571,Smartwatch
+4355,576,"Bluetooth Speaker,USB Hub,RAM Stick,Headphones"
+4356,931,"Charger,Graphics Card,Power Supply Unit"
+4357,611,"Drone,Headphones"
+4358,1239,"Graphics Card,Laptop,USB Hub,Webcam"
+4359,950,"Cooling Pad,Charger,Scanner"
+4360,712,"Printer,CPU,Laptop Stand,Monitor,Smartwatch"
+4361,1176,"External Hard Drive,Laptop Stand,Wireless Mouse,USB Cable,RAM Stick"
+4362,89,Laptop
+4363,297,"Smart Bulb,Tablet,Tripod,Smartwatch,WiFi Router"
+4364,1026,"Graphics Card,Printer,VR Headset,Graphics Card,Headphones"
+4365,445,"Smartwatch,Tripod,USB Cable,USB Hub"
+4366,1189,"Tablet,Bluetooth Speaker"
+4367,1315,"Smart Bulb,Motherboard"
+4368,648,"WiFi Router,Mechanical Keyboard"
+4369,1072,
+4370,368,"External Hard Drive,Bluetooth Speaker,WiFi Router"
+4371,301,"Webcam,Laptop,Scanner,Tablet"
+4372,1403,"Graphics Card,SSD,Power Strip"
+4373,942,
+4374,335,"Smartwatch,SSD,Tablet"
+4375,375,"Webcam,Graphics Card,Mechanical Keyboard,Microphone,Motherboard"
+4376,863,"Graphics Card,Microphone,USB Hub,Smartwatch,Smart Bulb"
+4377,727,Bluetooth Speaker
+4378,1281,"Power Strip,WiFi Router"
+4379,1350,"Mechanical Keyboard,Tripod,Motherboard,Charger,RAM Stick"
+4380,987,"Webcam,Drone"
+4381,1659,"Tablet,Scanner,Charger"
+4382,548,
+4383,415,"Wireless Mouse,Power Supply Unit,Scanner,Monitor"
+4384,1257,"Tripod,Printer,USB Hub,WiFi Router"
+4385,1334,"Smart Bulb,Monitor"
+4386,1098,"Smartphone,SSD"
+4387,1139,"Tripod,External Hard Drive"
+4388,403,Drone
+4389,267,"Webcam,RAM Stick,Smart Bulb"
+4390,1456,
+4391,1233,"Laptop Stand,Bluetooth Speaker,Graphics Card,Smart Bulb"
+4392,301,
+4393,293,
+4394,462,Microphone
+4395,704,"Bluetooth Speaker,Cooling Pad,HDMI Cable"
+4396,112,"Smart Bulb,WiFi Router,USB Hub,Charger,Tablet"
+4397,908,
+4398,463,"Printer,RAM Stick,Drone"
+4399,440,"Microphone,Power Strip,Smartwatch,USB Cable"
+4400,905,"Charger,Graphics Card"
+4401,34,External Hard Drive
+4402,1193,"Laptop Stand,Printer,Power Strip,Smartphone"
+4403,1393,"Smart Bulb,CPU"
+4404,623,"Wireless Mouse,Tripod,Charger"
+4405,307,"Smartwatch,Tablet,VR Headset,Smartphone"
+4406,705,"Microphone,Mechanical Keyboard"
+4407,848,
+4408,963,"USB Cable,Bluetooth Speaker"
+4409,1004,
+4410,834,"Headphones,SSD,Power Bank,Printer,Smart Bulb"
+4411,816,"Cooling Pad,Webcam,Printer,Headphones,Laptop"
+4412,660,
+4413,1183,"Tablet,Printer,Monitor"
+4414,831,
+4415,1295,
+4416,87,"Smartwatch,Charger,SSD,Cooling Pad,Smartphone"
+4417,979,"Cooling Pad,Drone,HDMI Cable,WiFi Router"
+4418,871,
+4419,335,"Charger,Power Supply Unit,SSD,Tablet,USB Cable"
+4420,588,"Microphone,Power Bank,Monitor,Power Strip"
+4421,1591,"Microphone,CPU,Power Bank,Laptop Stand,Tripod"
+4422,1199,"Printer,Cooling Pad,Webcam,WiFi Router,Smartwatch"
+4423,1173,
+4424,698,
+4425,980,"Printer,Power Supply Unit,Laptop"
+4426,201,"Monitor,Charger,Graphics Card,Webcam"
+4427,744,"Power Strip,RAM Stick,Webcam"
+4428,542,"Scanner,Smartphone,External Hard Drive"
+4429,1135,"Motherboard,Printer"
+4430,912,"Graphics Card,Drone,Laptop,Tablet,Laptop Stand"
+4431,1499,"Smartphone,Cooling Pad,Smart Bulb,VR Headset,Scanner"
+4432,198,"External Hard Drive,Tablet"
+4433,1109,"Smartwatch,Smart Bulb,RAM Stick"
+4434,625,"Laptop Stand,Smart Bulb,VR Headset,Bluetooth Speaker,Scanner"
+4435,475,Headphones
+4436,1493,"External Hard Drive,Mechanical Keyboard,Scanner"
+4437,73,External Hard Drive
+4438,1659,"Wireless Mouse,Power Bank,Printer,WiFi Router,Motherboard"
+4439,1402,"Laptop,Webcam,Charger,HDMI Cable"
+4440,918,Power Strip
+4441,1433,
+4442,886,"Webcam,Smartphone,Power Supply Unit"
+4443,752,Motherboard
+4444,833,"CPU,Headphones"
+4445,918,"Tablet,SSD,HDMI Cable,Drone,Microphone"
+4446,1391,"SSD,Tablet,Cooling Pad,Laptop"
+4447,1119,"Drone,External Hard Drive"
+4448,150,"Smartwatch,USB Hub"
+4449,960,"Tablet,Charger"
+4450,1445,SSD
+4451,530,
+4452,1338,"Drone,Charger,Power Bank"
+4453,515,"Monitor,Printer,Smartwatch,HDMI Cable,RAM Stick"
+4454,1527,"RAM Stick,CPU"
+4455,1434,
+4456,1095,Graphics Card
+4457,776,
+4458,1138,"RAM Stick,Headphones,CPU"
+4459,1001,"Cooling Pad,Graphics Card,Bluetooth Speaker,Power Supply Unit"
+4460,1556,Smart Bulb
+4461,1503,"CPU,Laptop,Smartphone,Laptop Stand"
+4462,1614,"Laptop,USB Cable,Tablet"
+4463,851,"Microphone,Tripod"
+4464,767,"Graphics Card,Monitor,USB Cable,Laptop Stand,Drone"
+4465,926,"Bluetooth Speaker,Cooling Pad,CPU,Graphics Card"
+4466,162,"Monitor,HDMI Cable,Webcam"
+4467,1123,"HDMI Cable,USB Hub"
+4468,194,
+4469,1352,"Power Strip,RAM Stick"
+4470,1168,Monitor
+4471,201,"Headphones,HDMI Cable,USB Cable,Cooling Pad"
+4472,221,WiFi Router
+4473,1570,Cooling Pad
+4474,787,Webcam
+4475,1454,"Laptop Stand,USB Cable,USB Hub"
+4476,302,
+4477,122,
+4478,279,"USB Cable,External Hard Drive,CPU,Headphones"
+4479,1168,"Headphones,Laptop,Drone,External Hard Drive"
+4480,632,"RAM Stick,Printer,Power Strip"
+4481,1207,"Tablet,Webcam,Power Strip,Tripod,Power Bank"
+4482,50,
+4483,587,
+4484,1487,"Smart Bulb,Graphics Card,Graphics Card,Headphones"
+4485,1397,"USB Cable,CPU,Headphones"
+4486,1222,
+4487,873,HDMI Cable
+4488,1406,
+4489,265,"Printer,Power Bank,Power Supply Unit,HDMI Cable"
+4490,91,Drone
+4491,194,
+4492,173,
+4493,1068,
+4494,581,
+4495,900,"External Hard Drive,Monitor"
+4496,1023,
+4497,1634,"Smartwatch,Power Strip"
+4498,330,"Mechanical Keyboard,Laptop,Printer"
+4499,532,"Tablet,Smartphone,Scanner"
+4500,683,"Webcam,Laptop Stand,Power Strip"
+4501,395,"Drone,Laptop,Cooling Pad"
+4502,478,
+4503,1368,"Scanner,Cooling Pad,Drone,Microphone,Graphics Card"
+4504,15,VR Headset
+4505,776,Printer
+4506,144,"Charger,VR Headset,Printer"
+4507,805,
+4508,946,"WiFi Router,Webcam,USB Cable,USB Hub"
+4509,629,"Smartwatch,Smart Bulb,Power Supply Unit,Cooling Pad"
+4510,794,
+4511,526,"Cooling Pad,Power Strip,WiFi Router,CPU"
+4512,198,
+4513,119,"Tablet,Motherboard,Smart Bulb,Power Strip,Smartphone"
+4514,1386,"Smart Bulb,Cooling Pad,Microphone"
+4515,675,"Tablet,Bluetooth Speaker,Webcam,Printer"
+4516,300,"HDMI Cable,Graphics Card,Bluetooth Speaker,Smartphone"
+4517,742,"VR Headset,Smart Bulb,RAM Stick,Cooling Pad"
+4518,1575,"External Hard Drive,Power Bank,Tablet,Headphones,USB Cable"
+4519,533,Laptop Stand
+4520,1071,"Graphics Card,Webcam,Smartwatch,USB Hub,RAM Stick"
+4521,11,WiFi Router
+4522,1341,"Webcam,Microphone"
+4523,684,
+4524,253,"Microphone,Smart Bulb"
+4525,10,WiFi Router
+4526,1100,Microphone
+4527,1065,External Hard Drive
+4528,754,
+4529,852,"Mechanical Keyboard,Webcam,USB Cable"
+4530,288,"HDMI Cable,Power Bank"
+4531,1524,
+4532,461,"Power Strip,Webcam,Headphones"
+4533,1353,"Laptop,SSD,Tripod,Graphics Card,Smartwatch"
+4534,242,"Motherboard,Power Bank,Mechanical Keyboard,Printer,Tablet"
+4535,451,"SSD,External Hard Drive"
+4536,332,"Bluetooth Speaker,Charger,WiFi Router,Drone"
+4537,1387,
+4538,332,Graphics Card
+4539,1246,"Printer,CPU,USB Hub,Scanner"
+4540,1396,"Microphone,HDMI Cable,Power Bank"
+4541,1205,"Laptop Stand,Tablet,USB Cable"
+4542,104,"Cooling Pad,USB Hub,CPU,Laptop"
+4543,1275,"Smart Bulb,Bluetooth Speaker"
+4544,1179,
+4545,1355,
+4546,1058,"Scanner,Headphones,RAM Stick,Monitor,Laptop Stand"
+4547,276,
+4548,974,"Power Bank,Smart Bulb"
+4549,827,Drone
+4550,1455,Laptop
+4551,1537,"Charger,Printer"
+4552,541,Smartphone
+4553,1013,"Microphone,Smartphone"
+4554,1015,Laptop
+4555,574,"Graphics Card,Laptop Stand,Drone,CPU,USB Hub"
+4556,127,
+4557,371,"Laptop,Headphones,SSD,Smart Bulb"
+4558,221,"VR Headset,Graphics Card,CPU"
+4559,490,
+4560,143,
+4561,858,"VR Headset,Monitor,Printer,Tripod"
+4562,542,"Motherboard,Headphones,VR Headset,Bluetooth Speaker"
+4563,867,"USB Hub,Smartphone,VR Headset,External Hard Drive"
+4564,541,"Power Bank,Wireless Mouse,Microphone"
+4565,195,"Scanner,Bluetooth Speaker,Motherboard,HDMI Cable,Graphics Card"
+4566,1371,"USB Cable,Laptop Stand"
+4567,231,"VR Headset,Power Strip,Power Bank,Drone,Motherboard"
+4568,1267,"WiFi Router,Laptop,RAM Stick,Mechanical Keyboard,Power Bank"
+4569,260,"Smartphone,Charger"
+4570,1293,CPU
+4571,435,"Webcam,Tablet,Graphics Card"
+4572,1664,"WiFi Router,Tripod,Laptop"
+4573,666,"Wireless Mouse,USB Hub,Smartphone,Tripod"
+4574,1514,Cooling Pad
+4575,138,"Smartwatch,Wireless Mouse"
+4576,247,Charger
+4577,937,"VR Headset,SSD,Smartwatch"
+4578,491,SSD
+4579,901,Graphics Card
+4580,1541,VR Headset
+4581,291,"VR Headset,Charger,Wireless Mouse,Drone,WiFi Router"
+4582,57,
+4583,1378,"VR Headset,RAM Stick,Printer"
+4584,61,"SSD,External Hard Drive,RAM Stick,Power Strip"
+4585,944,"USB Cable,Smart Bulb,Smartphone,SSD,Smartwatch"
+4586,568,"Power Supply Unit,Power Bank,Smart Bulb"
+4587,640,"Cooling Pad,USB Cable,Printer"
+4588,1190,"Smartphone,Power Strip,RAM Stick,Graphics Card,Mechanical Keyboard"
+4589,34,Smartphone
+4590,1471,CPU
+4591,1495,Cooling Pad
+4592,957,"Smart Bulb,Monitor,Smartwatch,SSD"
+4593,1218,"Laptop,Scanner"
+4594,1013,"SSD,Smartwatch,Scanner,Charger"
+4595,1287,"Bluetooth Speaker,Laptop Stand,Microphone,Motherboard"
+4596,1387,
+4597,1094,"USB Cable,Tripod,Power Bank"
+4598,1413,Smartwatch
+4599,773,"WiFi Router,SSD"
+4600,1128,
+4601,649,
+4602,781,"Laptop,Monitor,RAM Stick,Headphones,Motherboard"
+4603,48,Printer
+4604,858,"Drone,Scanner,CPU,Smartphone"
+4605,469,"Power Supply Unit,Monitor,Wireless Mouse,Drone,Printer"
+4606,751,"Tripod,WiFi Router,Power Supply Unit,Smartwatch,HDMI Cable"
+4607,1256,"Power Supply Unit,Wireless Mouse,Smartphone"
+4608,695,
+4609,551,"Laptop,Scanner,Power Strip"
+4610,417,Charger
+4611,1086,"VR Headset,WiFi Router"
+4612,1617,"Microphone,Power Strip,Bluetooth Speaker,Scanner"
+4613,552,"Smartphone,Cooling Pad"
+4614,1529,"Tripod,Printer"
+4615,953,"Power Supply Unit,Tablet,Smartwatch"
+4616,1091,Graphics Card
+4617,1143,
+4618,971,
+4619,1200,"Microphone,Webcam,Graphics Card,Motherboard"
+4620,1512,"Smartwatch,USB Hub,Power Bank"
+4621,259,
+4622,487,VR Headset
+4623,730,"Power Bank,Graphics Card"
+4624,649,Drone
+4625,898,"WiFi Router,SSD,CPU"
+4626,1138,"Cooling Pad,Bluetooth Speaker,Graphics Card"
+4627,1327,"USB Hub,Motherboard,USB Cable,Power Supply Unit"
+4628,430,"Graphics Card,Monitor"
+4629,1313,"USB Cable,Smartwatch,Microphone,Tablet,External Hard Drive"
+4630,472,
+4631,822,"Microphone,Monitor"
+4632,11,"Motherboard,Tripod"
+4633,1638,"USB Hub,Graphics Card"
+4634,1250,"HDMI Cable,CPU,Power Strip"
+4635,773,"Charger,Power Supply Unit"
+4636,200,"Smart Bulb,Microphone,Drone,WiFi Router,Printer"
+4637,77,"Charger,Webcam"
+4638,513,Monitor
+4639,98,"Tripod,CPU,HDMI Cable,Power Supply Unit"
+4640,1143,"SSD,Motherboard,Graphics Card,Charger"
+4641,1015,Scanner
+4642,506,"External Hard Drive,Power Strip,CPU,Drone,Cooling Pad"
+4643,867,"Charger,Smartphone,Wireless Mouse,Tablet,Bluetooth Speaker"
+4644,118,Power Strip
+4645,1253,
+4646,304,USB Cable
+4647,1248,"Bluetooth Speaker,Drone,USB Cable"
+4648,445,
+4649,1642,Smartwatch
+4650,1244,"USB Cable,Smartphone"
+4651,1094,"SSD,Wireless Mouse"
+4652,572,"USB Cable,RAM Stick,Mechanical Keyboard,Charger,Monitor"
+4653,316,"Power Bank,Drone"
+4654,810,USB Hub
+4655,650,Scanner
+4656,935,
+4657,1573,
+4658,32,"USB Hub,Headphones,External Hard Drive,Tablet,Tripod"
+4659,811,"Laptop,WiFi Router,RAM Stick,Laptop Stand"
+4660,113,Webcam
+4661,420,"CPU,Motherboard"
+4662,633,"Tripod,Drone,Power Bank,VR Headset"
+4663,1559,"Cooling Pad,Laptop Stand,VR Headset,Headphones"
+4664,703,"Graphics Card,WiFi Router,Headphones,Laptop,CPU"
+4665,633,
+4666,1142,
+4667,743,
+4668,373,"RAM Stick,Motherboard,External Hard Drive,Drone"
+4669,2,"Power Bank,Scanner,Power Strip,RAM Stick"
+4670,1180,"USB Cable,CPU"
+4671,165,"Power Strip,Smart Bulb,Charger,VR Headset,Mechanical Keyboard"
+4672,1149,"Scanner,CPU,Tripod,Mechanical Keyboard"
+4673,709,"Power Strip,Smartwatch,Wireless Mouse"
+4674,774,"Graphics Card,Printer,USB Cable,Motherboard,Power Supply Unit"
+4675,10,USB Hub
+4676,1450,"Smartwatch,Smart Bulb,Monitor,Cooling Pad,Power Strip"
+4677,1110,
+4678,1338,
+4679,659,"Charger,Webcam"
+4680,227,"Webcam,Laptop,Smart Bulb"
+4681,1590,"SSD,Scanner,Tripod,Smartphone,HDMI Cable"
+4682,218,"Smartwatch,Scanner,USB Cable,Headphones,Tablet"
+4683,966,
+4684,1594,Graphics Card
+4685,1433,
+4686,303,"Smartwatch,Drone"
+4687,764,"Monitor,HDMI Cable,CPU,Charger,VR Headset"
+4688,1358,Smartphone
+4689,1528,"Microphone,Graphics Card"
+4690,1198,Printer
+4691,560,
+4692,393,USB Cable
+4693,829,"Smartwatch,USB Hub,Drone,RAM Stick"
+4694,1499,Printer
+4695,1447,
+4696,749,"Laptop Stand,USB Cable,WiFi Router,Power Strip"
+4697,841,"Power Bank,Mechanical Keyboard,Scanner,Smartphone"
+4698,194,"Bluetooth Speaker,Charger,Drone"
+4699,926,"Motherboard,Wireless Mouse,Power Supply Unit,Webcam,Charger"
+4700,270,
+4701,1396,"Tripod,Wireless Mouse,Power Supply Unit,Smartwatch"
+4702,358,"Cooling Pad,Scanner"
+4703,1071,"Motherboard,Scanner,Webcam,Mechanical Keyboard,Headphones"
+4704,1215,"Charger,USB Cable,Laptop Stand,Power Strip,Graphics Card"
+4705,1083,"Monitor,Mechanical Keyboard"
+4706,644,
+4707,52,"Smartwatch,Laptop,Power Supply Unit,USB Hub"
+4708,1637,"CPU,Power Supply Unit,USB Hub,USB Cable"
+4709,446,Bluetooth Speaker
+4710,1332,"USB Hub,Cooling Pad"
+4711,830,"Smartwatch,HDMI Cable,Power Strip,Cooling Pad,Motherboard"
+4712,802,"VR Headset,Cooling Pad"
+4713,650,"HDMI Cable,Tablet"
+4714,1552,"WiFi Router,Headphones,Graphics Card"
+4715,1249,"Tablet,Cooling Pad,Tripod,Webcam"
+4716,1047,
+4717,299,"Smartwatch,Graphics Card,USB Hub,Webcam"
+4718,58,"Wireless Mouse,External Hard Drive,SSD,Bluetooth Speaker,Webcam"
+4719,1624,"CPU,Mechanical Keyboard,Charger,Graphics Card,Drone"
+4720,1063,"Graphics Card,RAM Stick,Power Supply Unit,Charger,CPU"
+4721,1116,"Power Strip,Printer,USB Cable"
+4722,1208,
+4723,1307,Scanner
+4724,1041,"USB Cable,RAM Stick,Smartwatch,VR Headset,Webcam"
+4725,1284,"Tablet,Power Strip,Graphics Card,Drone,VR Headset"
+4726,638,
+4727,202,"Bluetooth Speaker,External Hard Drive,USB Hub,VR Headset"
+4728,1121,"Smartwatch,Mechanical Keyboard,Graphics Card,SSD"
+4729,1645,"Power Strip,VR Headset,Smart Bulb"
+4730,1022,"Mechanical Keyboard,WiFi Router"
+4731,1158,"Laptop,Drone,USB Cable"
+4732,1465,"Power Bank,SSD,USB Cable,Tripod,Monitor"
+4733,469,"HDMI Cable,Graphics Card,Webcam,Power Strip,Laptop"
+4734,1007,Laptop Stand
+4735,430,"Graphics Card,Monitor,Scanner"
+4736,14,
+4737,1025,"SSD,RAM Stick,Tablet,Smart Bulb,Wireless Mouse"
+4738,605,"Cooling Pad,Smartphone,Tripod,Microphone"
+4739,537,"Graphics Card,Webcam,CPU,RAM Stick,Charger"
+4740,780,Monitor
+4741,244,Graphics Card
+4742,134,"Power Bank,Printer,Monitor"
+4743,1080,HDMI Cable
+4744,772,"Smartphone,Drone,Charger,Tablet"
+4745,1415,"External Hard Drive,USB Hub,Smartwatch"
+4746,724,"Scanner,Bluetooth Speaker,Cooling Pad,Printer,Headphones"
+4747,816,"Smartphone,Headphones"
+4748,1446,
+4749,274,"Graphics Card,Charger,Laptop"
+4750,1405,"WiFi Router,Tablet"
+4751,516,"Mechanical Keyboard,Charger"
+4752,537,"Graphics Card,Charger,Mechanical Keyboard,SSD,Microphone"
+4753,525,"Laptop,Smartphone"
+4754,857,"SSD,Cooling Pad,Smart Bulb"
+4755,1404,"Laptop,Power Strip"
+4756,1555,"HDMI Cable,Tablet,SSD"
+4757,57,"HDMI Cable,Motherboard,SSD"
+4758,1335,
+4759,386,"Laptop Stand,Microphone,Cooling Pad,Laptop,Printer"
+4760,552,"SSD,Bluetooth Speaker,Monitor,USB Hub"
+4761,1593,"Laptop,Tablet"
+4762,256,"Cooling Pad,Drone,HDMI Cable,Smart Bulb,Graphics Card"
+4763,1104,Laptop Stand
+4764,680,"Mechanical Keyboard,Tablet,Webcam,Microphone"
+4765,91,Tablet
+4766,1402,"Motherboard,Graphics Card,VR Headset,USB Hub,Power Strip"
+4767,1079,
+4768,789,"Graphics Card,Bluetooth Speaker,Wireless Mouse,Tripod"
+4769,1256,Scanner
+4770,43,"Power Supply Unit,Scanner,Microphone,Laptop,Power Bank"
+4771,1253,"Cooling Pad,Charger,WiFi Router"
+4772,87,"Wireless Mouse,Laptop,Webcam"
+4773,992,"Mechanical Keyboard,USB Cable,Graphics Card,Motherboard"
+4774,1495,
+4775,1448,"Smartwatch,WiFi Router,Drone,Mechanical Keyboard,USB Hub"
+4776,945,"Tripod,HDMI Cable"
+4777,58,"Tablet,Charger,Smart Bulb"
+4778,307,
+4779,541,
+4780,179,Drone
+4781,1501,"Headphones,Smartwatch,WiFi Router,Motherboard,Microphone"
+4782,98,
+4783,287,"Charger,Smartwatch,Drone,Graphics Card"
+4784,1146,"External Hard Drive,Graphics Card,Tripod"
+4785,1099,
+4786,206,Power Supply Unit
+4787,932,"External Hard Drive,Printer,Graphics Card,RAM Stick,SSD"
+4788,1465,Laptop
+4789,738,"Webcam,Microphone,Laptop"
+4790,659,Charger
+4791,1583,"WiFi Router,Charger"
+4792,1226,"Smartphone,Laptop,Mechanical Keyboard,Power Supply Unit,Graphics Card"
+4793,1158,"Bluetooth Speaker,Webcam,SSD"
+4794,1509,"SSD,Smart Bulb"
+4795,1221,"Laptop,VR Headset,Headphones"
+4796,868,"Drone,Microphone"
+4797,38,"Webcam,Smartphone,USB Hub,Tripod"
+4798,1508,"Graphics Card,WiFi Router"
+4799,454,"Laptop,Microphone,Charger,Smart Bulb,Motherboard"
+4800,963,"Tablet,Mechanical Keyboard"
+4801,1202,"Power Strip,External Hard Drive,Laptop Stand,Tripod"
+4802,425,"Tablet,Smartwatch"
+4803,1623,"Wireless Mouse,Tripod,Monitor,Laptop Stand,Drone"
+4804,356,Smartphone
+4805,250,"Laptop Stand,SSD,Graphics Card"
+4806,1512,RAM Stick
+4807,777,"Laptop,VR Headset"
+4808,960,
+4809,1049,"Charger,Laptop,Mechanical Keyboard,Cooling Pad,Smart Bulb"
+4810,777,Smartwatch
+4811,925,"Motherboard,Power Supply Unit,Power Bank,WiFi Router,HDMI Cable"
+4812,423,Graphics Card
+4813,714,"Scanner,Tablet,SSD"
+4814,1536,
+4815,1075,"RAM Stick,Scanner,Smartphone,Headphones"
+4816,1400,Power Supply Unit
+4817,1205,"Printer,Graphics Card,Wireless Mouse"
+4818,1104,"Smartwatch,Power Bank,Scanner,Drone"
+4819,28,"USB Hub,Smartwatch"
+4820,510,Tripod
+4821,1560,"Mechanical Keyboard,Scanner,Charger"
+4822,448,
+4823,1008,SSD
+4824,1270,
+4825,1599,"USB Cable,Power Bank,Webcam,Motherboard,Bluetooth Speaker"
+4826,1509,"Headphones,Drone"
+4827,354,"Bluetooth Speaker,RAM Stick,Webcam"
+4828,858,Printer
+4829,227,"CPU,Tripod,Power Supply Unit,Power Strip"
+4830,366,"Webcam,Power Strip"
+4831,820,"VR Headset,Headphones,External Hard Drive"
+4832,462,"USB Hub,Printer"
+4833,639,"RAM Stick,Bluetooth Speaker,Wireless Mouse"
+4834,1233,"Charger,Laptop,External Hard Drive,Smart Bulb,Power Strip"
+4835,201,
+4836,129,
+4837,303,"Microphone,Monitor,SSD,Tripod,Headphones"
+4838,199,"RAM Stick,WiFi Router,Laptop"
+4839,386,"Power Supply Unit,Monitor,Printer"
+4840,375,"Wireless Mouse,Charger"
+4841,623,
+4842,1328,
+4843,1353,CPU
+4844,863,VR Headset
+4845,468,"Drone,Smartphone,External Hard Drive,Tablet,Scanner"
+4846,1103,"HDMI Cable,Headphones,Tablet,Power Supply Unit,SSD"
+4847,1135,"External Hard Drive,Cooling Pad"
+4848,857,"Printer,Graphics Card,USB Cable,Mechanical Keyboard"
+4849,307,"WiFi Router,Scanner,RAM Stick,USB Cable,Tablet"
+4850,586,RAM Stick
+4851,683,"HDMI Cable,Smartphone"
+4852,328,Cooling Pad
+4853,1410,"RAM Stick,Charger,Mechanical Keyboard,Tripod,Monitor"
+4854,653,USB Hub
+4855,149,Charger
+4856,807,"Tripod,Smartphone,Smart Bulb"
+4857,525,RAM Stick
+4858,181,"Webcam,Mechanical Keyboard,USB Hub,VR Headset"
+4859,302,
+4860,816,"Power Bank,WiFi Router"
+4861,624,"Charger,USB Cable"
+4862,615,"VR Headset,Smartwatch,Smartphone,HDMI Cable"
+4863,1413,"Power Bank,Tablet"
+4864,1387,"VR Headset,Tripod,Mechanical Keyboard,Scanner,Motherboard"
+4865,114,"Webcam,WiFi Router,Bluetooth Speaker,Smart Bulb"
+4866,1356,"Microphone,Drone,VR Headset,Laptop Stand"
+4867,1155,
+4868,1234,"Smartphone,SSD"
+4869,1582,"Smart Bulb,Graphics Card,RAM Stick,USB Cable"
+4870,776,Power Supply Unit
+4871,652,USB Cable
+4872,1255,"Bluetooth Speaker,HDMI Cable,RAM Stick,Power Supply Unit"
+4873,1298,"Smartwatch,Power Bank"
+4874,894,"Smart Bulb,CPU,WiFi Router"
+4875,1165,"SSD,Laptop,Power Supply Unit,Motherboard"
+4876,1098,"Power Supply Unit,Graphics Card"
+4877,946,"Smart Bulb,USB Hub"
+4878,1652,"Monitor,Headphones,Printer,SSD"
+4879,46,
+4880,1391,"Printer,WiFi Router,Tripod,Power Bank"
+4881,389,
+4882,978,"USB Hub,Power Bank"
+4883,1070,"Tripod,Smartwatch,Webcam,USB Hub,Bluetooth Speaker"
+4884,612,
+4885,1574,Smartwatch
+4886,453,
+4887,811,Headphones
+4888,585,"Drone,WiFi Router,Printer"
+4889,894,"Bluetooth Speaker,Tablet,RAM Stick,Cooling Pad"
+4890,1316,"USB Cable,Tripod,Scanner"
+4891,1106,"Monitor,CPU"
+4892,1151,Laptop Stand
+4893,1075,"Bluetooth Speaker,Cooling Pad,Graphics Card,Printer"
+4894,188,
+4895,312,"Power Strip,Headphones,Drone"
+4896,1207,
+4897,290,HDMI Cable
+4898,67,"Smartwatch,Motherboard,HDMI Cable"
+4899,91,Wireless Mouse
+4900,1472,"Printer,Bluetooth Speaker,Headphones,Mechanical Keyboard"
+4901,430,Power Strip
+4902,1234,"WiFi Router,Printer,SSD"
+4903,507,"WiFi Router,Graphics Card,Mechanical Keyboard"
+4904,924,"RAM Stick,Smartwatch,CPU"
+4905,1146,"Graphics Card,Charger"
+4906,599,USB Cable
+4907,145,"Laptop,Wireless Mouse"
+4908,1144,Scanner
+4909,624,Cooling Pad
+4910,28,"Smartwatch,Monitor,Printer,Mechanical Keyboard,Drone"
+4911,1037,Mechanical Keyboard
+4912,13,"Printer,Graphics Card,Scanner,Cooling Pad,USB Hub"
+4913,850,"RAM Stick,HDMI Cable,Smartwatch,USB Hub,Tablet"
+4914,427,"Microphone,Power Strip,VR Headset,Webcam,Tablet"
+4915,929,"Power Bank,Headphones,Power Supply Unit"
+4916,1015,Smartwatch
+4917,380,"Power Supply Unit,Graphics Card,Microphone,Smart Bulb,Monitor"
+4918,780,"Power Supply Unit,External Hard Drive"
+4919,1644,"WiFi Router,Power Bank"
+4920,40,"CPU,RAM Stick,Tripod,Smartwatch"
+4921,1254,Laptop
+4922,1292,Charger
+4923,467,
+4924,388,Webcam
+4925,1323,
+4926,1235,WiFi Router
+4927,764,"CPU,Drone,Smartwatch"
+4928,1440,"Wireless Mouse,Cooling Pad,RAM Stick,Graphics Card"
+4929,76,"Bluetooth Speaker,CPU"
+4930,462,"Microphone,CPU"
+4931,486,"Mechanical Keyboard,Smartphone,Drone"
+4932,823,"CPU,Bluetooth Speaker,Smart Bulb,Scanner"
+4933,1225,Microphone
+4934,35,"Wireless Mouse,WiFi Router,SSD,Graphics Card,HDMI Cable"
+4935,408,"Graphics Card,VR Headset"
+4936,1453,"VR Headset,Motherboard,Microphone"
+4937,562,
+4938,1076,"HDMI Cable,Webcam"
+4939,692,
+4940,159,"External Hard Drive,HDMI Cable,Webcam"
+4941,1420,"VR Headset,Webcam,WiFi Router,Microphone,USB Hub"
+4942,117,Microphone
+4943,205,"Power Supply Unit,CPU,Wireless Mouse,HDMI Cable,Bluetooth Speaker"
+4944,666,"CPU,Power Bank"
+4945,1035,"VR Headset,External Hard Drive,Webcam"
+4946,77,Drone
+4947,1342,"Charger,Monitor"
+4948,39,"USB Hub,Monitor,Cooling Pad"
+4949,1301,Smart Bulb
+4950,1370,"SSD,USB Cable"
+4951,488,"Motherboard,RAM Stick,Charger,VR Headset"
+4952,577,"Smartwatch,Drone,Microphone"
+4953,1084,"Scanner,Motherboard,Laptop Stand,Power Strip"
+4954,461,"Graphics Card,Mechanical Keyboard,Cooling Pad,Power Strip"
+4955,612,"Tripod,Monitor,Power Strip,Motherboard,USB Hub"
+4956,1012,
+4957,1166,"Mechanical Keyboard,Smartwatch,Power Strip,SSD,Webcam"
+4958,1215,"Tripod,Bluetooth Speaker"
+4959,1093,"CPU,Power Bank,Power Supply Unit"
+4960,294,"RAM Stick,Drone,Smartwatch,Printer"
+4961,818,VR Headset
+4962,1176,"Power Supply Unit,Charger,RAM Stick,External Hard Drive"
+4963,947,"Microphone,HDMI Cable"
+4964,631,"Mechanical Keyboard,Tablet,Printer"
+4965,449,"Scanner,Monitor"
+4966,661,Drone
+4967,1088,"Printer,RAM Stick,USB Cable,Drone"
+4968,144,"Power Strip,Webcam,RAM Stick,Headphones"
+4969,551,Cooling Pad
+4970,757,"WiFi Router,Graphics Card"
+4971,348,"SSD,Graphics Card"
+4972,85,"Charger,USB Cable,Mechanical Keyboard"
+4973,397,"HDMI Cable,VR Headset"
+4974,175,"Scanner,CPU,Power Supply Unit,Laptop,Printer"
+4975,837,
+4976,875,"Laptop Stand,Graphics Card"
+4977,653,"SSD,Smartphone,Laptop,Printer,CPU"
+4978,319,Power Bank
+4979,1216,"Smartphone,Printer,Mechanical Keyboard,Graphics Card"
+4980,479,"Printer,Webcam,Microphone"
+4981,872,Smartwatch
+4982,651,"Monitor,Webcam"
+4983,617,"Bluetooth Speaker,Motherboard,HDMI Cable"
+4984,1342,"Tripod,External Hard Drive,Power Strip,Headphones,Charger"
+4985,1008,"Wireless Mouse,Laptop Stand,Headphones"
+4986,1227,"Power Bank,Smart Bulb,Motherboard,Drone,Bluetooth Speaker"
+4987,780,"Tablet,VR Headset,Laptop"
+4988,1242,"Tablet,Headphones,Cooling Pad,Microphone"
+4989,931,"USB Hub,Cooling Pad"
+4990,1008,
+4991,218,
+4992,613,
+4993,1309,"Tablet,Wireless Mouse,Laptop Stand,Motherboard,Power Supply Unit"
+4994,709,"Graphics Card,Graphics Card,Scanner,Microphone,Monitor"
+4995,106,"SSD,USB Hub,Power Strip,Wireless Mouse,Drone"
+4996,899,
+4997,1219,
+4998,793,"VR Headset,Scanner,SSD,Drone"
+4999,890,"Headphones,Scanner,VR Headset,Wireless Mouse,Motherboard"
+5000,395,"Monitor,WiFi Router,Motherboard,Microphone,Power Strip"
+5001,000,""
+5002,10000,"Graphics Card,Microphone"
+5003,15000,"Graphics Card,Microphone,Drone"

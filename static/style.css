@@ -1,0 +1,531 @@
+/* ═══════════════════════════════════════════════════════
+   style.css  —  MarketBasket Engine
+   Theme: Dark premium analytics dashboard
+   Fonts: Space Grotesk (headings) + IBM Plex Sans (body)
+═══════════════════════════════════════════════════════ */
+
+/* ── 1. CSS Variables ─────────────────────────────────── */
+:root {
+  --bg:          #080c10;
+  --surface:     #0f1520;
+  --surface-2:   #141c2b;
+  --border:      rgba(255,255,255,0.07);
+  --border-bright: rgba(255,255,255,0.13);
+
+  --text:        #dde4f0;
+  --muted:       #6b7a99;
+  --muted-light: #8a97b8;
+
+  --green:       #00e5a0;
+  --green-dim:   rgba(0, 229, 160, 0.12);
+  --green-glow:  rgba(0, 229, 160, 0.25);
+
+  --amber:       #f5a623;
+  --amber-dim:   rgba(245, 166, 35, 0.12);
+
+  --red:         #ff5b6e;
+  --red-dim:     rgba(255, 91, 110, 0.12);
+
+  --blue:        #4e9eff;
+  --blue-dim:    rgba(78, 158, 255, 0.12);
+
+  --radius-sm:   8px;
+  --radius:      14px;
+  --radius-lg:   20px;
+  --shadow:      0 8px 32px rgba(0,0,0,0.5);
+  --shadow-card: 0 2px 12px rgba(0,0,0,0.4);
+}
+
+/* ── 2. Reset & Base ──────────────────────────────────── */
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+body {
+  font-family: 'IBM Plex Sans', 'Segoe UI', sans-serif;
+  background: var(--bg);
+  color: var(--text);
+  line-height: 1.65;
+  min-height: 100vh;
+  overflow-x: hidden;
+}
+
+/* Subtle grid texture on bg */
+body::before {
+  content: '';
+  position: fixed;
+  inset: 0;
+  background-image:
+    linear-gradient(rgba(0,229,160,0.015) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(0,229,160,0.015) 1px, transparent 1px);
+  background-size: 40px 40px;
+  pointer-events: none;
+  z-index: 0;
+}
+
+main, nav { position: relative; z-index: 1; }
+
+/* ── 3. Typography ────────────────────────────────────── */
+h1, h2, h3 {
+  font-family: 'Space Grotesk', 'Syne', sans-serif;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  line-height: 1.2;
+}
+
+.accent { color: var(--green); }
+.muted  { color: var(--muted-light); font-size: 0.875rem; }
+
+/* ── 4. Topbar ────────────────────────────────────────── */
+.topbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 2rem;
+  height: 62px;
+  background: rgba(8,12,16,0.92);
+  backdrop-filter: blur(20px);
+  border-bottom: 1px solid var(--border);
+  position: sticky;
+  top: 0;
+  z-index: 200;
+}
+
+.topbar-brand {
+  font-family: 'Space Grotesk', sans-serif;
+  font-weight: 700;
+  font-size: 1.1rem;
+  letter-spacing: -0.01em;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.brand-icon {
+  width: 32px; height: 32px;
+  background: var(--green);
+  border-radius: 8px;
+  display: grid;
+  place-items: center;
+  font-size: 1rem;
+}
+
+.topbar-actions {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.db-badge {
+  font-size: 0.75rem;
+  font-weight: 600;
+  color: var(--green);
+  background: var(--green-dim);
+  border: 1px solid rgba(0,229,160,0.2);
+  padding: 4px 12px;
+  border-radius: 20px;
+  max-width: 160px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+/* ── 5. Buttons ───────────────────────────────────────── */
+.btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 8px 16px;
+  border: none;
+  border-radius: var(--radius-sm);
+  font-size: 0.82rem;
+  font-weight: 600;
+  cursor: pointer;
+  text-decoration: none;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.btn-primary {
+  background: var(--green);
+  color: #040911;
+  padding: 10px 20px;
+  font-size: 0.9rem;
+}
+.btn-primary:hover {
+  background: #00ffb2;
+  transform: translateY(-1px);
+  box-shadow: 0 6px 20px var(--green-glow);
+}
+
+.btn-ghost {
+  background: var(--surface-2);
+  color: var(--text);
+  border: 1px solid var(--border-bright);
+}
+.btn-ghost:hover {
+  background: var(--surface);
+  border-color: var(--green);
+  color: var(--green);
+}
+
+.btn-upload {
+  background: var(--surface-2);
+  color: var(--muted-light);
+  border: 1px dashed var(--border-bright);
+}
+.btn-upload:hover {
+  border-color: var(--green);
+  color: var(--green);
+  background: var(--green-dim);
+}
+
+/* ── 6. Dashboard Layout ──────────────────────────────── */
+.dashboard {
+  max-width: 1120px;
+  margin: 0 auto;
+  padding: 2.5rem 1.5rem 4rem;
+}
+
+/* ── 7. Hero Section ──────────────────────────────────── */
+.hero {
+  text-align: center;
+  padding: 3rem 0 2.5rem;
+}
+.hero h1 { font-size: clamp(2rem, 5vw, 3rem); margin-bottom: 0.6rem; }
+.hero p   {
+  max-width: 520px;
+  margin: 0 auto 2rem;
+  color: var(--muted-light);
+  font-size: 1rem;
+}
+
+/* ── 8. Tabs ──────────────────────────────────────────── */
+.tab-bar {
+  display: inline-flex;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 5px;
+  gap: 4px;
+}
+
+.tab-btn {
+  padding: 9px 22px;
+  border: none;
+  background: transparent;
+  color: var(--muted-light);
+  cursor: pointer;
+  border-radius: 10px;
+  font-size: 0.875rem;
+  font-weight: 600;
+  transition: all 0.25s ease;
+  display: flex;
+  align-items: center;
+  gap: 7px;
+}
+
+.tab-btn.active {
+  background: var(--green);
+  color: #040911;
+  box-shadow: 0 3px 12px var(--green-glow);
+}
+
+.tab-btn:not(.active):hover {
+  background: var(--surface-2);
+  color: var(--text);
+}
+
+/* ── 9. Tab Content ───────────────────────────────────── */
+.tab-content { display: none; }
+.tab-content.active {
+  display: block;
+  animation: fadeUp 0.35s ease forwards;
+}
+
+@keyframes fadeUp {
+  from { opacity: 0; transform: translateY(14px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
+/* ── 10. Cards ────────────────────────────────────────── */
+.card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 1.5rem;
+  box-shadow: var(--shadow-card);
+}
+
+.card-title {
+  font-size: 1rem;
+  font-weight: 700;
+  margin-bottom: 0.4rem;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.card-subtitle {
+  font-size: 0.8rem;
+  color: var(--muted-light);
+  margin-bottom: 1.2rem;
+}
+
+.card.accent-l { border-left: 3px solid var(--green); }
+.card.accent-r { border-left: 3px solid var(--red); }
+.card.accent-b { border-left: 3px solid var(--blue); }
+
+/* ── 11. Grid ─────────────────────────────────────────── */
+.grid-2 {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 1.25rem;
+  margin-bottom: 1.5rem;
+}
+
+.grid-3 {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 1rem;
+  margin-bottom: 1.5rem;
+}
+
+/* ── 12. Forms & Inputs ───────────────────────────────── */
+.search-form {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-lg);
+  padding: 1.25rem 1.5rem;
+  margin-bottom: 1.5rem;
+}
+
+.search-form label {
+  display: block;
+  font-size: 0.75rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--muted-light);
+  margin-bottom: 0.6rem;
+}
+
+.input-row {
+  display: flex;
+  gap: 10px;
+}
+
+.input {
+  flex: 1;
+  padding: 10px 14px;
+  background: var(--bg);
+  border: 1px solid var(--border-bright);
+  border-radius: var(--radius-sm);
+  color: var(--text);
+  font-size: 0.9rem;
+  outline: none;
+  transition: border-color 0.2s;
+}
+.input:focus { border-color: var(--green); }
+.input::placeholder { color: var(--muted); }
+
+/* ── 13. KPI Cards ────────────────────────────────────── */
+.kpi-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+  gap: 1rem;
+  margin-bottom: 2rem;
+}
+
+.kpi-card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 1.2rem 1rem;
+  position: relative;
+  overflow: hidden;
+  transition: border-color 0.2s;
+}
+.kpi-card:hover { border-color: var(--border-bright); }
+.kpi-card::before {
+  content: '';
+  position: absolute;
+  top: 0; left: 0; right: 0;
+  height: 2px;
+  background: var(--green);
+  opacity: 0.5;
+}
+
+.kpi-num {
+  display: block;
+  font-family: 'Space Grotesk', sans-serif;
+  font-size: 2.1rem;
+  font-weight: 700;
+  color: var(--green);
+  line-height: 1;
+  margin-bottom: 0.3rem;
+}
+
+.kpi-label {
+  font-size: 0.7rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--muted-light);
+}
+
+/* ── 14. Tags & Chips ─────────────────────────────────── */
+.tag-list { display: flex; flex-wrap: wrap; gap: 8px; }
+
+.tag {
+  display: inline-flex;
+  align-items: center;
+  padding: 6px 13px;
+  border-radius: 20px;
+  font-size: 0.82rem;
+  font-weight: 500;
+  background: var(--surface-2);
+  border: 1px solid var(--border);
+  color: var(--text);
+  transition: all 0.2s;
+}
+.tag:hover { border-color: var(--green); color: var(--green); }
+
+.tag.green {
+  background: var(--green-dim);
+  border-color: rgba(0,229,160,0.25);
+  color: var(--green);
+}
+.tag.red {
+  background: var(--red-dim);
+  border-color: rgba(255,91,110,0.25);
+  color: var(--red);
+}
+.tag.amber {
+  background: var(--amber-dim);
+  border-color: rgba(245,166,35,0.25);
+  color: var(--amber);
+}
+.tag.blue {
+  background: var(--blue-dim);
+  border-color: rgba(78,158,255,0.25);
+  color: var(--blue);
+}
+
+/* ── 15. Bundles ──────────────────────────────────────── */
+.bundle-list { display: flex; flex-direction: column; gap: 10px; }
+
+.bundle-row {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 12px 14px;
+  background: var(--surface-2);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-sm);
+  transition: border-color 0.2s;
+}
+.bundle-row:hover { border-color: var(--green); }
+
+.bundle-index {
+  width: 26px; height: 26px;
+  border-radius: 6px;
+  background: var(--green-dim);
+  color: var(--green);
+  font-size: 0.72rem;
+  font-weight: 700;
+  display: grid;
+  place-items: center;
+  flex-shrink: 0;
+}
+
+.bundle-products {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 6px;
+}
+
+.plus-sign { color: var(--muted); font-size: 0.75rem; }
+
+/* ── 16. Behavior Profile ─────────────────────────────── */
+.profile-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1rem;
+  margin-top: 1rem;
+}
+
+.profile-stat { text-align: center; }
+.profile-stat .stat-label {
+  font-size: 0.7rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--muted);
+  display: block;
+  margin-bottom: 4px;
+}
+.profile-stat .stat-value {
+  font-size: 0.95rem;
+  font-weight: 700;
+  color: var(--text);
+}
+
+.loyalty-bar-wrap { margin-top: 12px; }
+.loyalty-bar-track {
+  height: 6px;
+  background: var(--surface-2);
+  border-radius: 3px;
+  overflow: hidden;
+  margin-top: 4px;
+}
+.loyalty-bar-fill {
+  height: 100%;
+  background: var(--green);
+  border-radius: 3px;
+  transition: width 1s ease;
+}
+
+/* ── 17. AI Badge ─────────────────────────────────────── */
+.ai-badge {
+  font-size: 0.62rem;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  background: var(--green-dim);
+  color: var(--green);
+  border: 1px solid rgba(0,229,160,0.2);
+  padding: 2px 8px;
+  border-radius: 4px;
+}
+
+/* ── 18. Section Divider ──────────────────────────────── */
+.divider {
+  border: none;
+  border-top: 1px solid var(--border);
+  margin: 2.5rem 0;
+}
+
+/* ── 19. Charts ───────────────────────────────────────── */
+.chart-wrap {
+  height: 240px;
+  position: relative;
+  margin-top: 0.75rem;
+}
+
+/* ── 20. Empty state ──────────────────────────────────── */
+.empty-state {
+  text-align: center;
+  padding: 2rem;
+  color: var(--muted);
+  font-size: 0.875rem;
+}
+.empty-state svg { margin-bottom: 0.5rem; opacity: 0.3; }
+
+/* ── 21. Responsive ───────────────────────────────────── */
+@media (max-width: 600px) {
+  .topbar { padding: 0 1rem; }
+  .dashboard { padding: 1.5rem 1rem 3rem; }
+  .topbar-actions .btn span { display: none; }
+  .hero h1 { font-size: 1.8rem; }
+  .profile-grid { grid-template-columns: 1fr 1fr; }
+  .kpi-grid { grid-template-columns: 1fr 1fr; }
+}
